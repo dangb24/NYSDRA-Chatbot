@@ -3,6 +3,8 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.llms import CTransformers
 from langchain.chains import RetrievalQA #This is just a retrieval chain, for chat history use conversational retrieval chain
+from langchain.chains import ConversationalRetrievalChain
+from langchain.chains import ConversationBufferMemory
 
 # LLMChain: This chain uses a Language Model for generating responses to queries or prompts. 
 # It can be used for various tasks such as chatbots, summarization, and more
@@ -39,7 +41,7 @@ def setCustomPrompt():
 
 def loadLLM():
     llm = CTransformers(
-        model="llama-2-7b-chat.ggmlv3.q8_0.bin", model_type="llama", max_new_tokens=512, temperature=0.5
+        model="llama-2-7b-chat.ggmlv3.q8_0.bin", model_type="llama", max_new_tokens=512, temperature=0.2
     )
     return llm
 
@@ -54,7 +56,7 @@ def retrievalQAChain(llm, prompt, db):
     return qa_chain
 
 def qaBot():
-    #I think you have to do {"device": "cuda"} in order to use GPU
+    #I think you have to do {"device": "cuda"} in order to use GPU, need NVIDIA GPU and need to have driver installed
     embeddings = HuggingFaceEmbeddings(model_name = 'sentence-transformers/all-MiniLM-L6-v2', model_kwargs={"device": "cpu"})
     db = FAISS.load_local(DB_FAISS_PATH, embeddings)
 
