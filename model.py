@@ -4,7 +4,10 @@ from langchain.vectorstores import FAISS
 from langchain.llms import CTransformers
 from langchain.chains import RetrievalQA #This is just a retrieval chain, for chat history use conversational retrieval chain
 from langchain.chains import ConversationalRetrievalChain
-from langchain.chains import ConversationBufferMemory
+from langchain.memory  import ConversationBufferMemory
+
+from typing import Dict, Any
+import chainlit as cl
 
 # LLMChain: This chain uses a Language Model for generating responses to queries or prompts. 
 # It can be used for various tasks such as chatbots, summarization, and more
@@ -21,6 +24,10 @@ from langchain.chains import ConversationBufferMemory
 # RetrievalQAChain: retrieves the vector based on the prompt
 # StuffDocumentsChain: Converts the vector into the answer
 # LLMChain: Uses the answer to generate a response to the prompt
+
+class AnswerConversationBufferMemory(ConversationBufferMemory):
+    def save_context(self, inputs: Dict[str, Any], outputs: Dict[str, str]) -> None:
+        return super(AnswerConversationBufferMemory, self).save_context(inputs,{'response': outputs['answer']})
 
 
 DB_FAISS_PATH = "vectorstores/db_faiss"
@@ -47,10 +54,13 @@ def loadLLM():
 
 def retrievalQAChain(llm, prompt, db):
     #Look into the different available chain_type
-    qa_chain = RetrievalQA.from_chain_type(
-        llm=llm, chain_type="stuff", retriever=db.as_retriever(search_kwargs={"k": 2}), return_source_documents = True, 
-        chain_type_kwargs={"prompt": prompt}
-    )
+    memory = AnswerConversationBufferMemory(memory_key="chat_history", return_messages=True)
+    # qa_chain = RetrievalQA.from_chain_type(
+    #     llm=llm, chain_type="stuff", retriever=db.as_retriever(search_kwargs={"k": 2}), return_source_documents = True, 
+    #     chain_type_kwargs={"prompt": prompt, "memory": ConversationBufferMemory(memory_key="history", input_key="question")}
+    # )
+    qa_chain = ConversationalRetrievalChain.from_llm(llm=llm, chain_type="stuff", retriever=db.as_retriever(search_kwargs={"k": 2}), 
+    memory=memory, combine_docs_chain_kwargs={"prompt": prompt}, return_source_documents = True)
     #search_kwargs={"k": 2} means 2 searches
     #return_source_documents = True means don't use base knowledge use only knowledge we provided
     return qa_chain
@@ -68,17 +78,45 @@ def qaBot():
 
 def finalResult(query):
     qa_result = qaBot()
-    response = qa_result({"query": query})
+    # Will be query if using RetrievalQA
+    response = qa_result({"question": query})
     print()
     return response
 
 
-if __name__ == "__main__":
-    while True:
-        prompt = input("Please enter your question (or 'q' to quit): ")
-        if prompt.lower() == "q":
-            break
-        print()
-        print(finalResult(prompt), end="\n\n")
+@cl.on_chat_start
+async def start():
+    bot = qaBot()
+    await cl.Message(content="Hello, Welcome to the ChatBot. What is your question?").send()
+    cl.user_session.set("chatbot", bot)
+
+@cl.on_message
+async def main(message):
+    bot = cl.user_session.get("chatbot")
+    cb = cl.AsyncLangchainCallbackHandler(stream_final_answer=True, answer_prefix_tokens=["FINAL", "ANSWER"])
+    result = await bot.acall(message, callbacks=[cb])
+    answer = result["answer"]
+    sources = result["source_documents"]
+    if sources:
+        answer += f"\n\nSources:" + str(sources)
+        cb.answer_reached=True
+    else:
+        answer += f"\n\nNo Sources Found"
+        cb.answer_reached=True
+
+    await cl.Message(content=answer).send()
+
+
+#This is how to run with chainlit: chainlit run model.py -w
+
+# if __name__ == "__main__":
+#     while True:
+#         prompt = input("Please enter your question (or 'q' to quit): ")
+#         if prompt.lower() == "q":
+#             break
+#         print()
+#         print(finalResult(prompt), end="\n\n")
+
+
 
 
