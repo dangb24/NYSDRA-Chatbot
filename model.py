@@ -4,7 +4,7 @@ from langchain.vectorstores import FAISS
 from langchain.llms import CTransformers
 from langchain.chains import RetrievalQA #This is just a retrieval chain, for chat history use conversational retrieval chain
 from langchain.chains import ConversationalRetrievalChain
-from langchain.memory  import ConversationBufferMemory
+from langchain.memory  import ConversationTokenBufferMemory
 
 from typing import Dict, Any
 import chainlit as cl
@@ -68,10 +68,10 @@ def loadLLM():
 def retrievalQAChain(llm, prompt, db):
     # compressor = CohereRerank()
     # compression_retriever = ContextualCompressionRetriever(
-    #     base_compressor=compressor, base_retriever=db.as_retriever(search_kwargs={"k": 4})
+    #     base_compressor=compressor, base_retriever=db.as_retriever(search_kwargs={"k": 2})
     # )
-    compression_retriever = db.as_retriever(search_kwargs={"k": 4})
-    memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True, output_key="answer")
+    compression_retriever = db.as_retriever(search_kwargs={"k": 2})
+    memory = ConversationTokenBufferMemory(llm=llm, memory_key="chat_history", return_messages=True, input_key="question", output_key="answer", max_token_limit=500)
     # qa_chain = RetrievalQA.from_chain_type(
     #     llm=llm, chain_type="stuff", retriever=db.as_retriever(search_kwargs={"k": 2}), return_source_documents = True, 
     #     chain_type_kwargs={"prompt": prompt, "memory": ConversationBufferMemory(memory_key="history", input_key="question")}
@@ -140,7 +140,5 @@ if __name__ == "__main__":
             break
         print()
         print(finalResult(prompt), end="\n\n")
-
-
 
 

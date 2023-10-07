@@ -73,7 +73,7 @@ def createVectorDB():
 
     dbpdf = FAISS.from_documents(texts, embeddings)
 
-    db.merge_from(dbpdf)
+    # db.merge_from(dbpdf)
 
     db.save_local(DB_FAISS_PATH)
 
