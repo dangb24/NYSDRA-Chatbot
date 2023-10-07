@@ -34,8 +34,7 @@ DB_FAISS_PATH = "vectorstores/db_faiss"
 
 custom_prompt_template = """Use the following pieces of information to answer the user's question.
 If you don't know the answer, please just say that you don't know the answer, don't try to make up an answer.
-Be empathetic, sympathetic, and kind in your responses. Only use personal pronouns when talking about
-new york state dispute resolution association.
+Be empathetic, sympathetic, and kind in your responses.
 
 
 Context: {context}
@@ -68,24 +67,25 @@ def loadLLM():
 def retrievalQAChain(llm, prompt, db):
     # compressor = CohereRerank()
     # compression_retriever = ContextualCompressionRetriever(
-    #     base_compressor=compressor, base_retriever=db.as_retriever(search_kwargs={"k": 2})
+    #     base_compressor=compressor, base_retriever=db.as_retriever(search_kwargs={"k": 1})
     # )
-    compression_retriever = db.as_retriever(search_kwargs={"k": 2})
-    memory = ConversationTokenBufferMemory(llm=llm, memory_key="chat_history", return_messages=True, input_key="question", output_key="answer", max_token_limit=500)
-    # qa_chain = RetrievalQA.from_chain_type(
-    #     llm=llm, chain_type="stuff", retriever=db.as_retriever(search_kwargs={"k": 2}), return_source_documents = True, 
-    #     chain_type_kwargs={"prompt": prompt, "memory": ConversationBufferMemory(memory_key="history", input_key="question")}
-    # )
-    qa_chain = ConversationalRetrievalChain.from_llm(
-        llm=llm, 
-        chain_type="stuff", 
-        retriever=compression_retriever, 
-        memory=memory, 
-        combine_docs_chain_kwargs={"prompt": prompt}, 
-        return_source_documents = True, 
-        verbose=True,
-        condense_question_prompt=CONDENSE_QUESTION_PROMPT_CUSTOM
-        )
+    compression_retriever = db.as_retriever(search_kwargs={"k": 1})
+    memory = ConversationTokenBufferMemory(llm=llm, memory_key="chat_history", return_messages=True, input_key="question", output_key="answer", max_token_limit=511)
+    qa_chain = RetrievalQA.from_chain_type(
+        llm=llm, chain_type="stuff", retriever=compression_retriever, return_source_documents = True, 
+        chain_type_kwargs={"prompt": prompt}, verbose=True
+    )
+    # qa_chain = ConversationalRetrievalChain.from_llm(
+    #     llm=llm, 
+    #     chain_type="stuff", 
+    #     retriever=compression_retriever, 
+    #     memory=memory, 
+    #     combine_docs_chain_kwargs={"prompt": prompt}, 
+    #     return_source_documents = True, 
+    #     verbose=True,
+    #     # condense_question_prompt=CONDENSE_QUESTION_PROMPT_CUSTOM,
+    #     rephrase_question = False
+    #     )
     #search_kwargs={"k": 2} means 2 searches
     #return_source_documents = True means don't use base knowledge use only knowledge we provided
     return qa_chain
@@ -102,8 +102,8 @@ def qaBot():
 
 def finalResult(query):
     qa_result = qaBot()
-    # Will be query if using RetrievalQA
-    response = qa_result({"question": query})
+    # Will be query if using RetrievalQA, question for ConversationalQA
+    response = qa_result({"query": query})
     print()
     return response
 
@@ -119,7 +119,8 @@ async def main(message):
     bot = cl.user_session.get("chatbot")
     cb = cl.AsyncLangchainCallbackHandler(stream_final_answer=True, answer_prefix_tokens=["FINAL", "ANSWER"])
     result = await bot.acall(message, callbacks=[cb])
-    answer = result["answer"]
+    # Will be result["result"] if using RetrievalQA result["answer"] for ConversationalQA
+    answer = result["result"]
     sources = result["source_documents"]
 
     if sources:
