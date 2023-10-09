@@ -37,7 +37,9 @@ If you don't know the answer, please just say that you don't know the answer, do
 Be empathetic, sympathetic, and kind in your responses.
 
 
-Context: {context}
+Context: {chat_history} 
+{context}
+
 Question: {question}
 
 Only returns the helpful answer below and nothing else.
@@ -56,7 +58,7 @@ CONDENSE_QUESTION_PROMPT_CUSTOM = PromptTemplate(template=custom_template, input
 
 
 def setCustomPrompt():
-    prompt = PromptTemplate(template=custom_prompt_template, input_variables=["context", "question"])
+    prompt = PromptTemplate(template=custom_prompt_template, input_variables=["context", "question", "chat_history"])
     return prompt
 
 def loadLLM():
@@ -65,27 +67,25 @@ def loadLLM():
     return llm
 
 def retrievalQAChain(llm, prompt, db):
-    # compressor = CohereRerank()
-    # compression_retriever = ContextualCompressionRetriever(
-    #     base_compressor=compressor, base_retriever=db.as_retriever(search_kwargs={"k": 1})
+    # memory = ConversationTokenBufferMemory(llm=llm, memory_key="chat_history", return_messages=True, input_key="question", max_token_limit=512)
+    # qa_chain = RetrievalQA.from_chain_type(
+    #     llm=llm, chain_type="stuff", retriever=db.as_retriever(search_kwargs={"k": 1}), return_source_documents = True, 
+    #     chain_type_kwargs={
+    #         "verbose": False,
+    #         "prompt": prompt,
+    #         "memory": memory,
+    #     }, verbose=True
     # )
-    compression_retriever = db.as_retriever(search_kwargs={"k": 1})
-    memory = ConversationTokenBufferMemory(llm=llm, memory_key="chat_history", return_messages=True, input_key="question", output_key="answer", max_token_limit=511)
-    qa_chain = RetrievalQA.from_chain_type(
-        llm=llm, chain_type="stuff", retriever=compression_retriever, return_source_documents = True, 
-        chain_type_kwargs={"prompt": prompt}, verbose=True
-    )
-    # qa_chain = ConversationalRetrievalChain.from_llm(
-    #     llm=llm, 
-    #     chain_type="stuff", 
-    #     retriever=compression_retriever, 
-    #     memory=memory, 
-    #     combine_docs_chain_kwargs={"prompt": prompt}, 
-    #     return_source_documents = True, 
-    #     verbose=True,
-    #     # condense_question_prompt=CONDENSE_QUESTION_PROMPT_CUSTOM,
-    #     rephrase_question = False
-    #     )
+    qa_chain = ConversationalRetrievalChain.from_llm(
+        llm=llm, 
+        chain_type="stuff", 
+        retriever= db.as_retriever(search_kwargs={"k": 1}), 
+        combine_docs_chain_kwargs={"prompt": prompt}, 
+        return_source_documents = True, 
+        verbose=True,
+        # condense_question_prompt=CONDENSE_QUESTION_PROMPT_CUSTOM,
+        rephrase_question = False
+        )
     #search_kwargs={"k": 2} means 2 searches
     #return_source_documents = True means don't use base knowledge use only knowledge we provided
     return qa_chain
@@ -102,8 +102,9 @@ def qaBot():
 
 def finalResult(query):
     qa_result = qaBot()
+    chat_history = []
     # Will be query if using RetrievalQA, question for ConversationalQA
-    response = qa_result({"query": query})
+    response = qa_result({'chat_history': chat_history, 'question': query})
     print()
     return response
 
@@ -118,9 +119,10 @@ async def start():
 async def main(message):
     bot = cl.user_session.get("chatbot")
     cb = cl.AsyncLangchainCallbackHandler(stream_final_answer=True, answer_prefix_tokens=["FINAL", "ANSWER"])
-    result = await bot.acall(message, callbacks=[cb])
+    chat_history = [("Hello", "Hello, how are you?")]
+    result = await bot.acall({'chat_history': chat_history, 'question': message}, callbacks=[cb])
     # Will be result["result"] if using RetrievalQA result["answer"] for ConversationalQA
-    answer = result["result"]
+    answer = result["answer"]
     sources = result["source_documents"]
 
     if sources:
@@ -141,5 +143,3 @@ if __name__ == "__main__":
             break
         print()
         print(finalResult(prompt), end="\n\n")
-
-
