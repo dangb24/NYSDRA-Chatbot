@@ -119,7 +119,7 @@ async def start():
 async def main(message):
     bot = cl.user_session.get("chatbot")
     cb = cl.AsyncLangchainCallbackHandler(stream_final_answer=True, answer_prefix_tokens=["FINAL", "ANSWER"])
-    chat_history = [("Hello", "Hello, how are you?")]
+    chat_history = []
     result = await bot.acall({'chat_history': chat_history, 'question': message}, callbacks=[cb])
     # Will be result["result"] if using RetrievalQA result["answer"] for ConversationalQA
     answer = result["answer"]

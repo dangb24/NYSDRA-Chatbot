@@ -1,8 +1,7 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.document_loaders import PyPDFLoader, DirectoryLoader
+from langchain.document_loaders import PyPDFLoader, DirectoryLoader, CSVLoader, UnstructuredURLLoader, TextLoader
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
-from langchain.document_loaders import UnstructuredURLLoader
 from langchain.docstore.document import Document
 
 import PyPDF2
@@ -13,6 +12,7 @@ from bs4 import BeautifulSoup
 import time
 import xml.etree.ElementTree as ET
 import os
+import csv
 
 
 DEVICE = "cpu"
@@ -76,6 +76,15 @@ def createVectorDB():
     documents=loaders.load()
     documents += pdfDocumentList
 
+    loaders2 = CSVLoader(file_path= "./Conversation2.csv", encoding="utf-8", csv_args={
+                'delimiter': ','})
+    documents2 = loaders2.load()
+    documents += documents2
+
+    # loader2 = TextLoader(file_path="./human_chat.txt")
+    # document2 = loader2.load()
+    # documents += document2
+
     for document in documents:
         document.page_content = document.page_content.replace("\n", "")
 
@@ -88,6 +97,24 @@ def createVectorDB():
     db = FAISS.from_documents(texts, embeddings)
 
     db.save_local(DB_FAISS_PATH)
+
+    
+
+    # with open('Conversation.csv', 'r', newline='') as csvfile:
+    #     reader = csv.reader(csvfile)
+    #     lines = list(reader)
+    # processed_lines = []
+    # for line in lines:
+    #     if line:
+    #         newList = list()
+    #         newList.append(line[1])
+    #         newList.append(line[2])
+    #         processed_lines.append(newList)
+
+    # print(processed_lines)
+    # with open('Conversation.csv', 'w', newline='') as csvfile:
+    #     writer = csv.writer(csvfile)
+    #     writer.writerows(processed_lines)
 
 if __name__ == "__main__":
     createVectorDB()
