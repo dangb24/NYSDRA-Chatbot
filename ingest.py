@@ -81,10 +81,6 @@ def createVectorDB():
     documents2 = loaders2.load()
     documents += documents2
 
-    # loader2 = TextLoader(file_path="./human_chat.txt")
-    # document2 = loader2.load()
-    # documents += document2
-
     for document in documents:
         document.page_content = document.page_content.replace("\n", "")
 
