@@ -10,6 +10,14 @@ from bs4 import BeautifulSoup
 import time
 import xml.etree.ElementTree as ET
 from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.docstore.document import Document
+import io
+
+import PyPDF2
+import torch
+import os
+import csv
+
 DB_FAISS_PATH = "vectorstores/db_faiss"
 
 #check for duplicate links
@@ -67,7 +75,9 @@ def get_links(URL):
 
 
 def main():
-
+    
+    
+    #first scraping all of the links from however many layers of internet you want to go through
     big_links = []
     URL = "https://ww2.nycourts.gov/ip/adr/index.shtml"
     links = get_links(URL)
@@ -77,7 +87,7 @@ def main():
     
     #only going total depth of 2 pages right now
     i = 0
-    while i < 2:  #switch this to 3 when you figure out why the docs aren't processing
+    while i < 3:  #switch this to 3 when you figure out why the docs aren't processing
         subs = []
         if not bool(list):
             break
@@ -102,21 +112,95 @@ def main():
         
     print()
     
+    
+    
+   #next split them into url links and pdfs so that the pdfs can be read properly 
     print("PROCESSING INTO DOCUMENTS")
-        
-        
-        
+           
+   
+    
+    pdfList= []
+    urlList = set()
+    
+    #also some pdfs are screwy bc of not finding EOF so here is some error handling
+    EOF_MARKER = b'%%EOF'
+    
+    for link in big_links:
+        if ".pdf" in str(link):
+            print("found pdf: " + link)
+            
+            response = requests.get(link)
+            # with open("temp.pdf", "wb") as f:
+            #     f.write(response.content)
+
+            # pdf_file = open("temp.pdf", "rb")
+            # print(pdf_file.read())
+            # if EOF_MARKER in pdf_file:
+            #     #  pdf_file = pdf_file + EOF_MARKER
+            #     reader = PyPDF2.PdfReader(pdf_file)
+            #     text = ""
+                
+            #     # pdf_file = open("temp.pdf", "rb")
+            #     # reader = PyPDF2.PdfReader(pdf_file)
+            #     # text = ""
+            #     for num in range(len(reader.pages)):
+            #         page = reader.pages[num]
+            #         text += page.extract_text()
+
+            #     pdf_file.close()
+            #     os.remove("temp.pdf")
+            
+            
+            try:
+                pdf_io_bytes = io.BytesIO(response.content)
+                text_list = []
+                pdf = PyPDF2.PdfReader(pdf_io_bytes)
+
+                num_pages = len(pdf.pages)
+
+                for page in range(num_pages):
+                    page_text = pdf.pages[page].extract_text()
+                    text_list.append(page_text)
+                text = "\n".join(text_list)
+                
+                pdfList.append(Document(page_content=text.replace("\n", "").replace("\x00", "f"), metadata={"source": link}))
+                print("added pdf")
+            
+            except:
+                print("bad pdf")
+            
+            
+           
+            # else:
+            #     print("no EOF")
+            #     pdf_file.close()
+
+           
+            
+        else:
+            urlList.add(link)
+            
+    print("Completed url and pdf splitting")
+    print("num pdfs: " + str(len(pdfList)))
+    print("num urls: " + str(len(urlList))) 
+       
+    #and here's the fun part where things usually start to break
+           
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
-    browser = mechanicalsoup.StatefulBrowser()
+    browser = mechanicalsoup.StatefulBrowser()     
+        
     
-    loaders=UnstructuredURLLoader(urls=big_links, headers=headers)
+    loaders=UnstructuredURLLoader(urls=urlList, headers=headers)
     documents=loaders.load()
+    documents+=pdfList
+    
+    for document in documents:
+        document.page_content = document.page_content.replace("\n", "")
     
     text_splitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 50)
-    texts = text_splitter.split_documents(documents)
-    
+    texts = text_splitter.split_documents(documents) 
     embeddings = HuggingFaceEmbeddings(model_name = 'sentence-transformers/all-MiniLM-L6-v2', model_kwargs={"device": "cpu"})
     
     db = FAISS.from_documents(texts, embeddings)
