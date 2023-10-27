@@ -21,6 +21,53 @@ if torch.cuda.is_available():
 
 DB_FAISS_PATH = "vectorstores/db_faiss"
 
+def getAllLinksInPage(base_url, url, setOfInsideLinks, browser, headers, level):
+    max_level = 1
+    delay = 2
+    time.sleep(delay)
+    try:
+        page = browser.get(url, headers=headers, timeout=5)
+        if page == None or page.soup == None:
+            return
+    except Exception as e:
+        print(url)
+        print(f"{e}")
+        setOfInsideLinks.remove(url)
+        return
+    time.sleep(delay)
+
+    # Find all links and extract their href attributes
+    links = page.soup.find_all('a')
+    links += page.soup.find_all('link')
+    for link in links:
+        href = link.get('href')
+
+        if href and href[-1] == "/":
+            href = href[0:len(href)-1]
+
+        if href and "http" in href:
+            continue
+        elif href and (base_url + href).rfind("html") == (base_url + href).find("html") and \
+        href.rfind("pdf") == -1 and href.rfind("png") == -1 and href.rfind("json") == -1 and href.rfind(":") == -1 and \
+        href.rfind(".ico") == -1 and href.rfind(".svg") == -1 and href.rfind(".si") == -1 and href.rfind("?") == -1 and \
+        href.rfind("%20") == -1 and href.rfind("#") == -1 and (base_url + href).rfind(".com") == (base_url + href).find(".com") and \
+        (base_url + href) not in setOfInsideLinks:
+
+            link = ""
+
+            if href[0] != "/" and base_url[-1] != "/":
+                link = base_url + "/" + href
+            elif href[0] == "/" and base_url[-1] == "/":
+                link = base_url + href[1:]
+            else:
+                link = base_url + href
+
+            setOfInsideLinks.add(link)
+
+            print("URL: ", link)
+            if level < max_level:
+                getAllLinksInPage(base_url, link, setOfInsideLinks, browser, headers, level + 1)
+
 def listOfCenters(browser, headers):
     delay = 2
     time.sleep(delay)
@@ -33,11 +80,10 @@ def listOfCenters(browser, headers):
 
     # Find all links and extract their href attributes
     links = page.soup.find_all('a')
+    iterations = 0
     for link in links:
         href = link.get('href')
         if href and ".pdf" in href:
-            print(href)
-
             response = requests.get(href)
             with open("temp.pdf", "wb") as f:
                 f.write(response.content)
@@ -56,9 +102,14 @@ def listOfCenters(browser, headers):
 
         elif href and "http" in href and href.lower().find("nysdra") == -1 \
         and href.lower().find("youtube") == -1 and href.lower().find("linkedin") == -1 and href.lower().find("map") == -1:
-            listOfCenters.add(href)
-
-    print(len(listOfCenters))
+            setOfInsideLinks = set()
+            setOfInsideLinks.add(href)
+            getAllLinksInPage(href, href, setOfInsideLinks, browser, headers, 0)
+            listOfCenters = listOfCenters.union(setOfInsideLinks)
+            iterations += 1
+        
+        if iterations == 20:
+            break
     return (list(listOfCenters), documentList)
 
 def createVectorDB():
@@ -93,8 +144,6 @@ def createVectorDB():
     db = FAISS.from_documents(texts, embeddings)
 
     db.save_local(DB_FAISS_PATH)
-
-    
 
     # with open('Conversation.csv', 'r', newline='') as csvfile:
     #     reader = csv.reader(csvfile)
