@@ -1,0 +1,38 @@
+NOTICE TO THE PUBLIC  
+May 4, 2020  
+ 
+EDDS: UCS Program for Electronic Deliver y of Documents  
+In response to the COVID -19 public health emergency and the expansion of “ virtual ” court operations, 
+the Unified Court System has i nitiat ed a new program to transmit digitized  documents (in pdf format) to UCS 
+courts, County Clerks, and other court -related offices around the State.  The Electronic Document Delivery 
+System (“EDDS”) allows  user s, in a single transaction,  to (1) enter basic information about a matter on a UCS 
+webpage portal  page;  (2) upload one or more  pdf documents ;  and (3) send those documents electronically to a 
+court or clerk selected by the user.   Upon receipt of the d ocument (s) by the court, the sender will receive an 
+email notification , together with a unique code that identifies the delivery.   More detailed instructions for 
+sending or filing documents through EDDS may be found on the EDDS FAQ  page . 
+Users /Senders  should keep several important points in mind when using this system:   
+1. EDDS  May  be Used to File Papers with Certain Court s:   At the direction of the Chief 
+Adm inistrative Judge, d uring the COVID -19 public health crisis EDDS can be used to d elive r 
+documents for filing with certain courts — including some  Family Court s, Criminal Court s, 
+Supreme Court, the Court of Claims, Surrogate’s Courts, and District Courts, and  City Courts .  
+(EDDS is not available in the New York City Criminal Court.)    
+To use the system for filing, the sender must simply check a box on the sender 
+information  screen , complete the sending of the document(s) to the appropriate court  through 
+the ED DS system , and pay any required filing fee by credit card .  The clerk’s office will review the 
+document (s) for sufficiency  and, if the clerk determines that filing prerequisites  have been met , 
+accept the m for filing purposes.  In the event that a clerk’s office has accepted and filed a 
+document received through EDDS, the sender will be notified of that fact by email  or publication 
+on a public database .  If no email or published notification is issued indicat ing that  the document  
+has been accepted for filing , the sender should not assume that the filing has occurred .  The 
+sender may contact the c lerk’s office to inquire about the status of a proposed filing.  
+2. EDDS is Not a Substitute for E -filing or NYSCEF :  Please note that, al though EDDS may be 
+used for filing in various courts, it does not replace and may not substitute for filing under the 
+New York State Courts Electronic Filing System (NYSCEF).  Therefore, i t should not be used in 
+matters where NYSCEF is available on either a mandatory or consensual basis.  (Counties and 
+case types where NYSCEF is available are listed  on NYSCEF’s Authorized for E -Filing  page. ) 
+3. EDDS Deliver y is not “Service”  on Other Parties :  Finally, u nlike NYSCEF, delivery of a 
+document through EDDS does not constitute service of the document on any other party .  If 
+service is required, the sender must serve by some other means.  
+In sum, EDDS is a document delivery portal that complements the UCS electronic filing 
+system and which, upon completion and together with NYSCEF, will allow remote and 
+immediate delivery of digitized documents throughout the Unified Court System.  

@@ -93,7 +93,7 @@ def main():
     
     #only going total depth of 2 pages right now
     i = 0
-    while i < 2:  #switch this to 3 when you figure out why the docs aren't processing
+    while i < 3:  #switch this to 3 when you figure out why the docs aren't processing
         subs = []
         if not bool(list):
             break
@@ -213,46 +213,57 @@ def main():
 
         file.close()
         
-        if file.getsize() == 0:
+        if os.path.getsize("txt_files/"+filename) == 0:
+            os.remove("txt_files/"+filename)
             
-        
-        txt_list.append(filename)
-        
-        
-        file_index += 1
+        else:   
+            txt_list.append(filename)
+            
+            
+            file_index += 1
         
         
     #now how do I get the text from the urls into txt files
     
-    headers = {
+    u_in = input("do you want to read the urls too?  Please enter y/n.  (if you're running this on 3 then that's big and takes a lot of time)")
+    
+    if u_in == 'y':
+        headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-    }
-    browser = mechanicalsoup.StatefulBrowser()     
+        }
+        browser = mechanicalsoup.StatefulBrowser()     
+            
         
-    
-    loaders=UnstructuredURLLoader(urls=urlList, headers=headers)
-    documents=loaders.load()
-    
-    for doc in documents:
-        filename = "file" + str(file_index) + ".txt"
-        print(filename)
+        loaders=UnstructuredURLLoader(urls=urlList, headers=headers)
+        documents=loaders.load()
         
-        file = open("txt_files/"+filename, "w")
-        
-        # page = urlopen(doc)
-        # html_content = page.read()
-        # dc_content = html_content.decode('utf-8')
-        # rendered_content = html2text.html2text(html_content)
-        # doc.page_content = doc.page_content.replace("\n", "")
-        
-        file.write(doc.page_content)
-        
-        file.close()
+        for doc in documents:
+            filename = "file" + str(file_index) + ".txt"
+            print(filename)
+            
+            file = open("txt_files/"+filename, "w")
+            
+            # page = urlopen(doc)
+            # html_content = page.read()
+            # dc_content = html_content.decode('utf-8')
+            # rendered_content = html2text.html2text(html_content)
+            # doc.page_content = doc.page_content.replace("\n", "")
+            
+            file.write(doc.page_content)
+            
+            file.close()
 
-        txt_list.append(filename) 
+            txt_list.append(filename) 
+            
+            
+            file_index += 1
+            
+    
+    
         
-        
-        file_index += 1
+    
+    
+  
         
     
    

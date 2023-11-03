@@ -1,1267 +1,347 @@
-                                                                                              
-____________________________________________,
-                                                                                              
-R
-E
-D
-A
-C
-T
-I
-O
-N
- 
-C
-O
-V
-E
-R
- 
-P
-A
-G
-E
-T
-h
-e
- 
-d
-o
-c
-u
-m
-e
-n
-t
- 
-f
-i
-l
-e
-d
- 
-i
-s
- 
-R
-E
-D
-A
-C
-T
-E
-D
- 
-i
-n
- 
-a
-c
-c
-o
-r
-d
-a
-n
-c
-e
- 
-w
-i
-t
-h
- 
-2
-2
- 
-N
-Y
-C
-R
-R
- 
-.
-T
-h
-e
- 
-d
-o
-c
-u
-m
-e
-n
-t
- 
-f
-i
-l
-e
-d
- 
-i
-s
- 
-U
-N
--
-R
-E
-D
-A
-C
-T
-E
-D
- 
-i
-n
- 
-a
-c
-c
-o
-r
-d
-a
-n
-c
-e
- 
-w
-i
-t
-h
- 
-2
-2
- 
-N
-Y
-C
-R
-R
- 
-.
- 
- 
-(
-a
-)
- 
- 
-T
-h
-e
- 
-d
-o
-c
-u
-m
-e
-n
-t
- 
-f
-i
-l
-e
-d
- 
-c
-on
-t
-a
-i
-n
-s
- 
-S
-S
-N
- 
-(
-a
-s
- 
-a
-u
-t
-h
-o
-r
-i
-z
-e
-d
- 
-b
-y
- 
-t
-h
-e
- 
-o
-r
-d
-e
-r
- 
-s
-p
-e
-c
-i
-f
-i
-e
-d
- 
-b
-e
-l
-o
-w
-)
-.
- 
- 
-(
-b
-)
- 
- 
-T
-h
-e
- 
-d
-o
-c
-u
-m
-e
-n
-t
- 
-f
-i
-l
-e
-d
- 
-c
-o
-n
-t
-a
-i
-n
-s
- 
-c
-o
-n
-f
-i
-d
-e
-n
-t
-i
-a
-l
- 
-p
-e
-r
-s
-o
-n
-a
-l
- 
-i
-n
-f
-o
-r
-m
-a
-t
-i
-o
-n
- 
-a
-s
- 
-d
-e
-f
-i
-n
-e
-d
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-u
-n
-d
-e
-r
- 
-2
-2
- 
-N
-Y
-C
-R
-R
- 
- 
-(
-a
-s
- 
-a
-u
-t
-h
-or
-i
-z
-e
-d
- 
-b
-y
- 
-t
-h
-e
- 
-o
-r
-d
-e
-r
- 
-s
-p
-e
-c
-i
-f
-i
-e
-d
- 
-b
-e
-l
-o
-w
-)
-.
-T
-h
-i
-s
- 
-d
-o
-c
-u
-m
-e
-n
-t
- 
-w
-a
-s
- 
-p
-r
-e
-v
-i
-o
-u
-s
-l
-y
- 
-f
-i
-l
-e
-d
- 
-R
-E
-D
-A
-C
-T
-E
-D
-.
-D
-a
-t
-e
-:
-T
-h
-i
-s
- 
-d
-o
-c
-u
-m
-e
-n
-t
- 
-w
-a
-s
- 
-p
-r
-e
-v
-i
-o
-u
-s
-l
-y
- 
-f
-i
-l
-e
-d
- 
-U
-N
--
-R
-E
-D
-A
-C
-T
-E
-D
-.
-D
-a
-t
-e
-:
-T
-h
-e
- 
-d
-o
-c
-u
-m
-e
-n
-t
- 
-f
-i
-l
-e
-d
- 
-s
-e
-e
-k
-s
- 
-a
- 
-r
-e
-m
-e
-d
-y
- 
-u
-n
-d
-e
-r
- 
-2
-2
- 
-N
-Y
-C
-R
-R
- 
-T
-h
-e
- 
-d
-o
-c
-u
-m
-e
-n
-t
- 
-f
-i
-l
-e
-d
- 
-s
-e
-e
-k
-s
- 
-a
- 
-r
-e
-m
-e
-d
-y
- 
-u
-n
-d
-e
-r
- 
-2
-2
- 
-N
-Y
-C
-R
-R
- 
-A
-d
-d
-i
-t
-i
-o
-n
-a
-l
- 
-i
-n
-f
-o
-r
-m
-a
-t
-i
-o
-n
-:
- 
- 
-T
-h
-e
-r
-e
- 
-i
-s
- 
-a
- 
-p
-r
-e
-v
-i
-o
-u
-sl
-y
- 
-f
-i
-l
-e
-d
- 
-o
-r
-d
-e
-r
- 
-o
-f
- 
-t
-h
-e
- 
-C
-o
-u
-r
-t
- 
- 
-r
-e
-g
-a
-r
-d
-i
-n
-g
- 
-t
-h
-i
-s
- 
-d
-o
-c
-u
-m
-e
-n
-t
-:
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-y
-e
-s
- 
-/
- 
- 
- 
- 
- 
- 
- 
- 
-n
-o
-D
-a
-t
-e
- 
-o
-f
- 
-o
-r
-d
-e
-r
-:
-D
-a
-t
-e
- 
-o
-r
-d
-e
-r
- 
-f
-i
-l
-e
-d
-:
- 
- 
-O
-t
-h
-e
-r
- 
-i
-d
-e
-n
-t
-i
-f
-y
-i
-n
-g
- 
-i
-n
-f
-o
-r
-m
-a
-t
-i
-o
-n
- 
-f
-o
-r
- 
-s
-u
-c
-h
- 
-o
-r
-d
-e
-r
-:
-T
-h
-e
- 
-o
-r
-d
-e
-r
- 
-o
-f
- 
-t
-h
-e
- 
-C
-o
-u
-r
-t
- 
-i
-s
- 
-b
-e
-i
-n
-g
- 
-f
-i
-l
-e
-d
- 
-w
-i
-t
-h
- 
-t
-h
-e
- 
-r
-e
-d
-a
-c
-t
-e
-d
- 
-/
- 
-u
-n
--
-r
-e
-d
-a
-c
-t
-e
-d
- 
-d
-o
-c
-u
-m
-e
-n
-t
-:
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-y
-e
-s
- 
-/
- 
- 
- 
- 
- 
- 
- 
- 
-n
-o
- 
-D
-a
-t
-e
- 
-o
-f
- 
-o
-r
-d
-e
-r
-:
-O
-t
-h
-e
-r
- 
- 
-i
-d
-e
-n
-t
-i
-f
-y
-i
-n
-g
- 
-i
-n
-f
-or
-m
-a
-t
-i
-o
-n
- 
-f
-o
-r
- 
-s
-u
-c
-h
- 
-o
-r
-d
-e
-r
-:
-S
-i
-g
-n
-a
-t
-u
-r
-e
- 
-o
-f
- 
-f
-i
-l
-e
-r
-:
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
- 
- 
- 
- 
- 
- 
- 
- 
- 
-P
-r
-i
-n
-t
- 
-N
-a
-m
-e
-:
- 
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-C
-o
-u
-n
-s
-e
-l
- 
-a
-p
-p
-e
-a
-r
-i
-n
-g
- 
-f
-o
-r
-:
- 
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-(
-n
-a
-me
- 
-o
-f
- 
-p
-a
-r
-t
-y
-)
-F
-i
-l
-e
-r
- 
-i
-s
- 
-U
-n
-r
-e
-p
-r
-e
-s
-e
-n
-t
-e
-d
- 
-/
- 
-P
-r
-o
- 
-s
-e
-:
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-y
-e
-s
- 
-/
- 
- 
- 
- 
- 
- 
- 
- 
- 
-n
-o
- 
-D
-a
-t
-e
-:
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-CHECK ALL THAT APPLY:
-The document filed contains no confidential personal information, as defined in 22 NYCRR 206.5(e).
-S
-tate of New York    -    Court of Claims
-Claim No.
-Claimant(s),
-Defendant(s).
-____________________________________________,
--against-
-206.5(e)
-206.5(e)
-206.5(e)
-206.5(e)(2).
-206.5(e)(3).
+  
+  
+  
+THE RULES OF THE CHIEF JUDGE  
+PART 36  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+NYS Office of Court Administration 
+Guardian & Fiduciary Services  
+25 Beaver Street  
+New York, NY 10004  
+  
+Phone:  212- 428-5505  
+  
+Website:  www.nycourts.gov/ip/gfs   
+ 
+Email:  gfs@nycourts.gov  
+  
+ 
+ 
+ 
+  
+  
+  
+QUESTION 1:  What appointments does Part 36 of the Rules of the Chief 
+Judge (22 NYCRR Part 36) govern?  
+ANSWER:  Part 36 governs the following judicial appointments made by judges or 
+justices (including town and village justices) of the Unified Court System (UCS) (§ 36.1  
+[a]):  
+1) guardians;  
+2) guardians ad litem, including their counsel and assistants;  
+3) privately paid attorneys for the child where authorized (First, Second and 
+Fourth Judicial Departments);  
+4) court evaluators;  
+5) attorneys for alleged incapacitated persons;  
+6) court examiners;  
+7) supplemental needs trustees;  
+8) receivers;  
+9) referees, e.g., a referee to sell property.  Referees performing judicial 
+functions in a quasi-judicial capacity are exempt from Part 36.  Those 
+exemptions include:  a referee to hear and report (CPLR 4201) or hear and 
+determine (CPLR 4301), or a referee to supervise discovery (CPLR 3104);  
+10) secondary appointees of guardians and receivers.  Whenever a Part 36 
+guardian or receiver seeks to retain an attorney, accountant, appraiser, 
+auctioneer, property manager or real estate broker, that professional is a Part  
+36 appointee subject to all of its provisions (§§ 36.1 [a] [10]; § 36.2 [a]);  
+11) public administrators and counsel to the public administrator (within the City 
+of New York and the counties of Westchester, Onondaga, Erie, Monroe, 
+Suffolk and Nassau) are subject to the certain sections of the rules, including 
+the disqualifications of § 36.2 (c) and special compensation reporting 
+requirements in § 36.4 (e).  
+QUESTION 2:  Guardians, guardians ad litem and law guardians all sound 
+alike; are these different kinds of appointments?  
+ANSWER:  Yes, these three categories of appointment are very different and have 
+very different functions and responsibilities.  Typically, guardians are appointed to assist 
+persons with limitations (e.g. elderly or infirm persons) in making day-to-day decisions.  
+“Guardians ad litem” (most often utilized in Surrogate’s Court) are appointed in a single 
+case to report to the court and represent the interests of children or incapacitated 
+persons while the case is ongoing.  “Law Guardians,” also known as “Attorneys for the 
+Child,” represent children as advocates in family court matters or in custody and 
+visitation disputes.  Do not confuse these three categories with the appointment of 
+“attorneys for alleged incapacitated persons” which are found only in Mental Hygiene 
+Law Article 81 guardianship proceedings.  
+QUESTION 3:  Does Part 36 regulate who may be appointed by a court?  
+ANSWER:  Yes, to the extent that Part 36 provides for the establishment of a list of 
+qualified applicants for each category of appointment (§ 36.3 [c]), and requires the court 
+to make all appointments from the appropriate list (§ 36.2 [b] [1]).  Judges, however, 
+always maintain complete discretion in the selection of appropriate appointees.  There 
+is no requirement, for example, that judges make appointments according to the order 
+in which eligible appointees’ names appear on a list.  
+QUESTION 4:  May a court ever select an appointee not enrolled on an 
+appropriate list?   
+ANSWER:  Yes, a court may select an appointee not enrolled on an applicable list (a 
+“non-list” appointment), but only upon a written finding of good cause, filed with the 
+fiduciary clerk and sent to the Chief Administrative Judge (§ 36.2 [b] [2]); such a non-list 
+appointee must otherwise be qualified and eligible for appointment and comply with all 
+the provisions of Part 36, including the filing requirements of § 36.4 (§ 36.2 [b] [3]).  The 
+court, however, may waive any education and training requirements if considered 
+impractical (§ 36.2 [b] [3]).  
+QUESTION 5:  Are any appointments in the enumerated categories exempt 
+from Part 36 applicability?  
+ANSWER:  Yes, even though an appointment is in a category to which Part 36 
+applies, a person or entity may be exempt from its provisions under the circumstances 
+set forth in § 36.1 (b).  
+QUESTION 6:  What are those exemptions?  
+ANSWER:  Exemption from Part 36 applicability found in § 36.1 (b) (1):  
+1) attorney for the child, appointed pursuant to the section 243 of the Family 
+Court Act (contract agencies),  
+2) guardians ad litem in termination of parental rights proceedings, who are paid 
+from public funds, and  
+3) the Mental Hygiene Legal Service;  
+ Exemptions from Part 36 applicability found in § 36.1 (b) (2):  
+4) the guardian or supplemental needs trustee who is   
+a. a family member of the incapacitated person / beneficiary, or   
+b. a person nominated by the incapacitated person / beneficiary, or 
+c. a person proposed by a party to the guardianship proceeding or a party to 
+the supplemental needs trust proceeding.      
+d. Essentially, this exception is for family and friends of the incapacitated 
+person / beneficiary; 1  
+5) a guardian who is a person or entity having a legally recognized duty or 
+interest with regard to an incapacitated person;  
+6) a guardian ad litem 
+a. nominated by an infant of 14 years of age or older or 
+b. appointed pursuant to CPLR Article 12, who is the uncompensated friend 
+or relative of a party incapable of adequately prosecuting or defending the 
+party’s rights; 
+7) a not-for-profit agency performing property management or personal needs 
+services or acting as court evaluator;  
+8) a bank or trust company as a depository for funds or as a supplemental 
+needs trustee;  
+9) a public official vested with the powers of an administrator, such as, the chief 
+financial officer of a county;  
+10) a person or institution whose appointment is required by law;  
+11) a physician whose appointment as a guardian ad litem is necessary where 
+emergency medical or surgical procedures are required.  
+ Exemptions from Part 36 applicability found in § 36.1 (b) (3):  
+12) appointees who serve without compensation. 2  
+QUESTION 7:  What is the procedure for enrollment on Part 36 lists?  
+ANSWER:  Go to the New York Unified Court System  web site  
+https://iapps.courts.state.ny.us/fiduciaryonline/InstructionsPage .  Follow the instructions:   
+read Part 36 and the official Explanatory Note (found under “statutes and rules” on 
+menu); complete and submit the application online.   
+QUESTION 8:  Is the filing of the application the only requirement?  
+ANSWER:  No, prior to filing the application, each applicant must complete certified 
+training for any category of appointment requiring such training (§ 36.3 [b].)  
+ 
+1 Usually referred to as “lay” guardians, these are relatives, friends, neighbors, etc., of the incapacitated 
+person/beneficiary, including professionals such as family attorneys, accountants, physicians, clergy, etc., 
+who may be on the Part 36 list because of their profession but who are nominated or proposed in the 
+particular case because of their relationship to the incapacitated person/beneficiary, not because of their 
+selection by the court from a list.  
+2 Nevertheless, a Notice of Appointment (UCS-872) must still be filed; however, the appointee who serves 
+without compensation is not required to file a Certification of Compliance.  The purpose of filing the Notice 
+of Appointment is to record the pro bono service provided by fiduciaries.  No Certification of Compliance 
+is necessary because it is only used to show compliance with qualification and eligibility standards that do 
+not apply to uncompensated appointees.    
+QUESTION 9:  How long is a list enrollee eligible for appointment?  
+ANSWER  Two years.  All enrollees are required to re-register every two years to 
+maintain eligibility for appointment (§ 36.3 [d]).  
+QUESTION 10:  Is an enrollee subject to removal from a Part 36 list?  
+ANSWER:  Yes, the Chief Administrative Judge may remove for unsatisfactory 
+performance or any conduct incompatible with appointment.  An enrollee subject to 
+removal is entitled to a written statement of reasons for removal and an opportunity to 
+provide an explanation and facts in opposition (§ 36.3 [e]).  Appointment after removal is 
+prohibited (§ 36.2 [b] [2]).  
+QUESTION 11:  Does Part 36 establish certain disqualifications from 
+appointment?  
+ANSWER:  Yes, § 36.2 (c) sets forth a long list of disqualifications, many of which 
+were new to Part 36.  Some of these disqualifications are based on position, e.g., 
+judges, judicial hearing officers, court employees, political party officials, judicial 
+campaign officials, former judges.  Others are based on relationship, i.e., certain 
+relatives of those disqualified by position.  Still others are based on circumstances, e.g., 
+disbarred or suspended attorneys or convicted criminals.  Read § 36.2 (c) carefully.  
+Some disqualifications are absolute.  Others are limited by time, geography or the 
+degree of relationship.    
+QUESTION 12:  Does Part 36 provide for disqualification from appointment for 
+all political activities?  
+ANSWER:  No, disqualification from appointment is limited to the chair or executive 
+director, or their equivalent, of a state or county political party and the spouse, sibling, 
+parent or child of such official while in office and for two years after leaving office.  Also 
+disqualified are the members, associates, counsel and employees of any law firms or 
+entities for the period during which the official is associated with the firm or entity (§ 36.2  
+[c] [4] [i]).  
+QUESTION 13:  What about activity on judicial election campaigns?  
+ANSWER:  Not all political activity on behalf of a judicial candidate creates a 
+disqualification from appointment.  Disqualification is limited to a campaign chair, 
+coordinator, manager, treasurer or financial chair for a candidate for judicial office, and 
+only to the extent that the judge for whom that official served may not appoint the official 
+during the course of the campaign and for a period of two years following the judicial 
+election.  This prohibition also applies to the campaign official s spouse, sibling, parent 
+or child and anyone associated with the official s law firm (§ 36.2 [c] [4] [ii]).  
+QUESTION 14:  Does Part 36 limit the amount of compensation that a Part 36 
+appointee may be awarded?  
+ANSWER:  No, there is no prescribed minimum or maximum  amount of 
+compensation that may be awarded to an appointee, other than the fair value of 
+services rendered, as determined by the court ( § 36.4 [b] [4]).  
+QUESTION 15:  What, then, does § 36.2 (d) limit when it says, Limitations 
+based upon compensation”?  
+ANSWER:  Appointments.  
+QUESTION 16:  How?  
+ANSWER:  By applying two different rules, which use the amount of compensation 
+that has been awarded, or is anticipated to be awarded, for prior appointments to 
+determine eligibility for any new appointment.  These are called the $15,000 (§ 36.2 [d] 
+[1]) and $100,000 Rules (§ 36.2 [d] [2]).  
+QUESTION 17:  What does the $15,000 Rule do?  
+ANSWER:  The $15,000 Rule  prohibits  acceptance of a new Part 36 appointment if:  
+   1.  the award of compensation in any calendar year for this new appointment 
+is anticipated to be more than $15,000, AND  
+    2.  during the same calendar year (January 1 to December 31) in 
+which the new appointment is made, the appointee received a prior appointment for 
+which compensation of more than $15,000 was awarded or is anticipated to be 
+awarded in any calendar year .    
+“Any calendar year”:   An appointment may begin and end within a single calendar 
+year.  Often, however, because of the long-term nature of an appointment (e.g., a 
+guardian or receiver) or protracted litigation (e.g., a attorney for the child in a contested 
+matrimonial action), an appointment may span multiple years.  It is possible that for an 
+appointment made today there may be awards of compensation on an annual basis for 
+many years; or, there may be only one award of compensation when the appointment 
+concludes years later.  Consequently, in determining compensation anticipated to be 
+awarded for today’s appointment, consideration must be given to a potential award in 
+the year of appointment or in a future year—both of which constitute “any calendar 
+year.”  
+QUESTION 18:  How does the $15,000 Rule work?  
+ANSWER:  Apply the $15,000 Rule, by asking:    
+   
+1. Does the new appointment have anticipated compensation of more than $15,000 
+in any calendar year?  
+        If NO, the appointment may be accepted.    
+        If YES, then ask question #2:    
+2. In the same calendar year as the new appointment, was there a  
+prior appointment with compensation,  or anticipated compensation in any calendar 
+year, of more than $15,000?  
+        If NO, then the new appointment may be accepted.  
+        If YES, then the new appointment may not be accepted.  
+  
+[Remember this formula:  
+    YES to question 1 + YES to question 2  =  NO to new appointment.]  
+QUESTION 19:  What does the $100,000 Rule do?  
+ANSWER:  The $100,000 Rule prohibits those who have been awarded more than an 
+aggregate of $100,000 by all courts in any calendar year from accepting a new 
+compensated appointment in the next calendar year.    
+QUESTION 20:  How does the $100,000 Rule work?  
+ANSWER:  This Rule looks back at the aggregate of Part 36 compensation awarded 
+during the prior calendar year.  Appointees must keep track of their totals of all Part 36 
+compensation awarded by all courts during each calendar year.  Once the aggregate of 
+compensation exceeds $100,000, the appointee will be ineligible for new compensated 
+appointments in the next calendar year (uncompensated, i.e., pro bono, appointments 
+may be accepted).  Remember, it is the next calendar year that is affected by the 
+$100,000 Rule and not the current year nor the prior year.  If an appointee already has 
+compensation awards of more than $100,000 in a calendar year, he/she is not 
+prohibited from receiving further appointments or awards of compensation in the 
+remainder of that year.  Only compensated appointments in the next year are 
+prohibited.  
+QUESTION 21:  How does Part 36 define compensation for the $15,000 and 
+$100,000 Rules?  
+ANSWER:  Part 36 defines compensation as an award by a court of “fees, 
+commissions, allowances and other compensation, excluding costs and 
+disbursements.” (§ 36.2 [d] [3]).  The date of an order approving compensation is 
+deemed the date of compensation.  Actual receipt is neither defined as compensation 
+nor does it serve as the date of compensation.  For example, when an attorney for the 
+child is appointed and authorized in the order of appointment to bill every 60 days and 
+pay himself/herself upon collection, the actual receipt of those moneys is neither 
+compensation nor the date of compensation pursuant to Part 36.  There is only 
+compensation and a date of compensation when there is a court order approving the 
+amount to which the attorney for the child is entitled, which is usually at the conclusion 
+of the attorney for the child’s service (Go to  www.nycourts.gov/ip/gfs     and click on  
+Attorney for the child  for a complete explanation of the Attorney for the child 
+Appointment and Compensation Process and to access PDF fillable forms.)  
+QUESTION 22:  Are there any exceptions to the $15,000 and $100,000 Rules?  
+ANSWER:  Yes, there is one exception for “continuity of representation or service.” (§ 
+36.2 [d] [4])  If the same appointee must be reappointed to ensure a continuity of 
+representation or service for the same benefited person in the same, or a related, 
+action/proceeding, the reappointment will not be prohibited, notwithstanding that the 
+appointment would otherwise violate the $15,000 or $100,000 Rule.  For example, a 
+court evaluator in a guardianship matter or a attorney for the child in a divorce action 
+may be reappointed as court evaluator or attorney for the child for the same individual in 
+a post-judgment proceeding.  The exception, however, would not extend, to a attorney 
+for the child in a divorce action or court evaluator in a guardianship action being 
+appointed guardian ad litem in a probate proceeding of a will.  Familiarity is not enough.  
+There must be consonance of appointment category and relationship between 
+appointee and the person for whom he or she was appointed.  
+QUESTION 23:  Are law firms subject to the compensation limits of the 
+$100,000 Rule or the $15,000 Rule?   
+ANSWER:  No, the limitations based upon compensation apply to the individual 
+appointee, and not to the aggregate compensation of all those who practice in a law 
+firm.  
+QUESTION 24:  Does Part 36 require a law firm to file any reports and where 
+may this report be found?  
+ANSWER:  Yes, a law firm must report aggregate approved compensation of $50,000 
+or more for all members, associates or employees of the law firm.  The report is for 
+informational purposes (§ 36.4 [c]).  The form, known as the Report of Compensation 
+Received by Law Firms  (form UCS-876) is available at the Guardian & Fiduciary web 
+site  www.nycourts.gov/ip/gfs    The form is in PDF fillable format.  
+QUESTION 25:  When and where is the law firm report filed?  
+ANSWER:  The UCS-876 must be filed on or before March 31 of each year, for the 
+prior year.  The address for filing can be found on the form.  
+QUESTION 26:  What must an appointee do when appointed?  
+ANSWER:  Within thirty (30) days of appointment, an appointee must complete and  
+file online the UCS-872 (notice of appointment/certification of compliance) (§ 36.4 [a]).  
+An automated system is in place to record and track appointments and compensation 
+awards.  An appointee will receive by email the UCS-872 completed with information 
+from the court’s database.  This information will include data about the appointee 
+(name, address, phone number, etc.), the case, the appointment, the appointing judge, 
+and prior appointment and compensation history.  The UCS-872 will instruct the 
+appointee to check the form for accuracy, make corrections, including additions and 
+deletions, and sign it in one of two places:  sign at the end of Part A, if it is an 
+uncompensated  appointment; or, the end of Part B, if compensated .  Part B is the 
+certification of compliance and must be carefully reviewed for prior appointments in the 
+current calendar year and compensation awards in the prior calendar year.  By signing 
+Part B, the appointee certifies qualification for appointment (§ 36.2 [c]) and compliance 
+with the $15,000 and $75,000 Rules (§ 36.2 [d]).  If an appointee cannot certify 
+compliance or must decline appointment for any other reason, the fiduciary clerk should 
+be notified immediately.  
+QUESTION 27:  What must be listed on Part B of the certification of 
+compliance?  Are, e.g., foreclosure referee appointments to be 
+listed?  Should appointments be listed where compensation 
+awarded was $500 or less?   
+ANSWER:  Yes, all appointments, including foreclosure referee appointments must be 
+listed on Part B of the UCS-872.  All awarded compensation, including compensation of 
+$500 or less must be listed.  (The appointee may attach copies to the UCS-872)  
+QUESTION 28:  What does Part 36 require a compensated appointee to do at 
+the conclusion of service in order to receive an order awarding 
+compensation?  
+ANSWER:  Part 36, in conjunction with Part 26 of the Rules of the Chief Judge, does 
+not require the appointee to do anything.  The court, however, must complete and file 
+with the fiduciary clerk UCS-875 (a statement of approval of compensation) (§ 36.4 [b]).  
+This statement will include all of the information from UCS-872 and the fiduciary clerk’s 
+certification that UCS-872 was filed. Also included will be all information required by 
+Judiciary Law § 35-a, particularly the amount of compensation awarded, the basis for 
+the award and reasons for any award of $5,000 or more.  
+QUESTION 29:  Does the appointee have any obligations in the compensation 
+process?  
+ANSWER:  Yes, but these are not Part 36 obligations.  These obligations are 
+otherwise imposed by law and practice, and demand, at a minimum, an application for 
+an order awarding compensation and proof sufficient to support the application.  
+QUESTION 30:  Are Part 36 appointment and compensation forms part of the 
+record of an action or proceeding and filed in the court’s file?  
+ANSWER:  No, Part 36 appointment and compensation forms (§ 36.4] are 
+administrative forms for recording, tracking and reporting the appointment activity of 
+courts.  They are similar to other administrative forms used by clerks to record, track 
+and report case activity.  These forms are not part of the record of a case, nor are they 
+kept in the case file.  These forms are filed with, and maintained by, the Office of Court 
+Administration.  
+QUESTION 31:  Are Part 36 appointment and compensation forms public 
+records?  
+ANSWER:  Yes, all forms filed pursuant to § 36.4, which include the UCS-872 and 
+UCS-875, are public records.  The Chief Administrative Judge is directed to arrange for 
+the publication of the names of all persons appointed by each appointing judge, 
+together with the compensation approved for each appointee (§ 36.5).  All this 
+information is available for public access on the court s web site at 
+www.nycourts.gov/ip/gfs   
+QUESTION 32:  Is the application filed pursuant to § 36.3 (a) also a public 
+record?  
+ANSWER:  No, the application and the information it contains is confidential and is 
+only made available to the court.  The purpose of the application is to give the court 
+needed information on an appointee’s qualification and eligibility for appointment and 
+apprise the court of his/her background to determine the appropriateness of the 
+appointment.    
+  
