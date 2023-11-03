@@ -29,6 +29,10 @@ def getAllLinksInPage(base_url, url, setOfInsideLinks, browser, headers, level):
         page = browser.get(url, headers=headers, timeout=5)
         if page == None or page.soup == None:
             return
+        if page.status_code == 404:
+            print(f"404 Not Found: {url}")
+            setOfInsideLinks.remove(url)
+            return
     except Exception as e:
         print(url)
         print(f"{e}")
@@ -108,8 +112,6 @@ def listOfCenters(browser, headers):
             listOfCenters = listOfCenters.union(setOfInsideLinks)
             iterations += 1
         
-        if iterations == 20:
-            break
     return (list(listOfCenters), documentList)
 
 def createVectorDB():
