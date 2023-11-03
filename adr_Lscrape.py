@@ -12,6 +12,12 @@ import xml.etree.ElementTree as ET
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.docstore.document import Document
 import io
+import os
+
+import json
+
+from urllib.request import urlopen
+import html2text
 
 import PyPDF2
 import torch
@@ -87,7 +93,7 @@ def main():
     
     #only going total depth of 2 pages right now
     i = 0
-    while i < 3:  #switch this to 3 when you figure out why the docs aren't processing
+    while i < 2:  #switch this to 3 when you figure out why the docs aren't processing
         subs = []
         if not bool(list):
             break
@@ -163,7 +169,9 @@ def main():
                     text_list.append(page_text)
                 text = "\n".join(text_list)
                 
-                pdfList.append(Document(page_content=text.replace("\n", "").replace("\x00", "f"), metadata={"source": link}))
+                #change to JSON I don't even know what
+                pdfList.append(text)
+               # pdfList.append(Document(page_content=text.replace("\n", "").replace("\x00", "f"), metadata={"source": link}))
                 print("added pdf")
             
             except:
@@ -178,14 +186,44 @@ def main():
            
             
         else:
+         
             urlList.add(link)
             
+            
+    # you're going to need to manage this bc you need to scarpe the data from the link and put it into something but for the pdfs you aleady did that 
+    #so you can just put it in
     print("Completed url and pdf splitting")
     print("num pdfs: " + str(len(pdfList)))
     print("num urls: " + str(len(urlList))) 
-       
-    #and here's the fun part where things usually start to break
-           
+    
+    #loop to process all pdfs and data from urls (ALSO HOW PROCESS URLS)
+    #can I dump a document into a json file
+    #one way to find out
+    
+    #okay so make the txt files for the pdfs first
+    file_index = 1
+    txt_list = []
+    for pdf in pdfList:
+        filename = "file" + str(file_index) + ".txt"
+        print(filename)
+        
+        file = open("txt_files/"+filename, "w")
+        
+        file.write(pdf)
+
+        file.close()
+        
+        if file.getsize() == 0:
+            
+        
+        txt_list.append(filename)
+        
+        
+        file_index += 1
+        
+        
+    #now how do I get the text from the urls into txt files
+    
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
@@ -194,24 +232,83 @@ def main():
     
     loaders=UnstructuredURLLoader(urls=urlList, headers=headers)
     documents=loaders.load()
-    print(len(documents))
-    documents+=pdfList
-    print(len(documents))
-    #maybe process these seperately bc this is eatin my memory bro
     
-    i = 1
-    for document in documents:
-        print("CLEANING DOCUMENTS i think " + str(i))
-        document.page_content = document.page_content.replace("\n", "")
-        i+=1
+    for doc in documents:
+        filename = "file" + str(file_index) + ".txt"
+        print(filename)
+        
+        file = open("txt_files/"+filename, "w")
+        
+        # page = urlopen(doc)
+        # html_content = page.read()
+        # dc_content = html_content.decode('utf-8')
+        # rendered_content = html2text.html2text(html_content)
+        # doc.page_content = doc.page_content.replace("\n", "")
+        
+        file.write(doc.page_content)
+        
+        file.close()
+
+        txt_list.append(filename) 
+        
+        
+        file_index += 1
+        
     
-    #apparently this takes a decent amt of time too n idk how to fix that
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 50)
-    texts = text_splitter.split_documents(documents) 
-    embeddings = HuggingFaceEmbeddings(model_name = 'sentence-transformers/all-MiniLM-L6-v2', model_kwargs={"device": "cpu"})
+   
     
-    db = FAISS.from_documents(texts, embeddings)
-    db.save_local(DB_FAISS_PATH)
+    # j = 1
+    # for document in documents:
+    #     print("CLEANING DOCUMENTS i think " + str(j))
+    #     document.page_content = document.page_content.replace("\n", "")
+    #     j+=1
+    
+    #and you can access the page content by document.page_content
+    
+    
+    # i think i want to put it in a txt file then convert it
+    
+    
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+    #and here's the fun part where things usually start to break
+           
+    # headers = {
+    #     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    # }
+    # browser = mechanicalsoup.StatefulBrowser()     
+        
+    
+    # loaders=UnstructuredURLLoader(urls=urlList, headers=headers)
+    # documents=loaders.load()
+    # print(len(documents))
+    # documents+=pdfList
+    # print(len(documents))
+    # #maybe process these seperately bc this is eatin my memory bro
+    
+    # i = 1
+    # for document in documents:
+    #     print("CLEANING DOCUMENTS i think " + str(i))
+    #     document.page_content = document.page_content.replace("\n", "")
+    #     i+=1
+    
+    # #apparently this takes a decent amt of time too n idk how to fix that
+    # text_splitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 50)
+    # texts = text_splitter.split_documents(documents) 
+    # embeddings = HuggingFaceEmbeddings(model_name = 'sentence-transformers/all-MiniLM-L6-v2', model_kwargs={"device": "cpu"})
+    
+    # db = FAISS.from_documents(texts, embeddings)
+    # db.save_local(DB_FAISS_PATH)
       
       
        

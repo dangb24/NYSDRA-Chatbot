@@ -1,0 +1,2581 @@
+NEW YORK STATE  UNIFIED COURT SYSTE M
+PAR T 1200
+RULE S OF
+PROFESSIONAL CONDUCT
+Dated : January 1,  2017
+These Rules of Professional Cond uct were promulgated  as Joint Rules of the
+Appellate Divisions of the Supreme Court,  effective April 1, 2009,  and amend ed on
+several occasions thereafter.   They supersed e the former part 1200 (Dis ciplinary
+Rules of the Cod e of Professional Responsibility).
+The New York  State Bar Association has issued  a Preamble,  Scope and Comments to
+accompany these Rules.   They are not enacted  with this Part,  and where  a conflict
+exists between a Rule and  the Preamble,  Scope or a Comment,  the Rule controls.
+This unoffi cial compi lation of the Rules provi ded for informa tiona l purposes
+only. The official versi on of Part 1200 is publi shed by the New York State
+Depa rtment  of State.  An unoffi cial on-li ne versi on is available at
+www.dos.ny.gov/ info/ nycrr.ht ml (Title 22 [Judi ciary]; Subt itle B Cour ts;
+Cha pter IV Supreme Court ; Subcha pter E All Depa rtment s; Part 1200 Rules of
+Professi ona l Conduct ; § 1200.0 Rules of Professi ona l Conduct ).
+TABLE O F CO NTENTS
+  Page
+RULE 1.0. Termin ology .................................................................................................................1
+RULE 1.1. Compet ence..................................................................................................................4
+RULE 1.2. Scope of Represen tation and Allocat ion of Au thority Bet ween  
+Clien t and Lawyer ......................................................................................................4
+RULE 1.3. Diligen ce.......................................................................................................................5
+RULE 1.4. Commu nication..........................................................................................................5
+RULE 1.5. Fees an d Division  of Fees .........................................................................................6
+RULE 1.6. Confiden tialit y of In format ion..............................................................................9
+RULE 1.7. Conflict of In terest : Curren t Clien ts...................................................................10
+RULE 1.8. Curren t Clien ts: Specific Con flict of In terest  Rules.......................................11
+RULE 1.9. Duties t o Former Clien ts........................................................................................14
+RULE 1.10. Impu tation of Con flicts of In terest .....................................................................15
+RULE 1.11. Special Con flicts of In terest  for Former an d Cu rren t
+Govern men t Officers an d Employees .................................................................17
+RULE 1.12. Specific Con flicts of In terest  for Former Ju dges,
+Arbit rators, Mediat ors or Ot her Third-P arty Neu trals...............................19
+RULE 1.13. Organ ization As Clien t...........................................................................................20
+RULE 1.14. Clien t Wit h Dimin ished Capacit y........................................................................21
+RULE 1.15. Preservin g Iden tity of Fu nds an d Propert y of Ot hers; 
+Fidu ciary Respon sibilit y; Commin gling an d 
+Misappropriat ion of Clien t Funds or P ropert y; 
+Main tenance of Ban k Accou nts; Record Keepin g; 
+Examin ation of Records .........................................................................................22
+RULE 1.16. Declin ing or Termin ating Represen tation......................................................27
+i
+  Page
+RULE 1.17. Sale of Law P ract ice................................................................................................29
+RULE 1.18. Duties t o Prospect ive Clien ts................................................................................32
+RULE 2.1. Advisor .........................................................................................................................34
+RULE 2.2. Reserved ......................................................................................................................34
+RULE 2.3. Evalu ation for Use by Third P erson s.................................................................34
+RULE 2.4. Lawyer Servin g as Third-P arty Neu tral...........................................................34
+RULE 3.1. Non -Merit oriou s Claims an d Con tention s.......................................................36
+RULE 3.2. Delay of Lit igat ion...................................................................................................36
+RULE 3.3. Conduct Before a Tribu nal....................................................................................36
+RULE 3.4. Fairn ess t o Opposin g Party an d Cou nsel.........................................................38
+RULE 3.5. Main taining an d Preservin g the Impart ialit y 
+of Tribu nals an d Jurors ..........................................................................................39
+RULE 3.6. Trial P ublicit y............................................................................................................41
+RULE 3.7. Lawyer As Wit ness...................................................................................................43
+RULE 3.8. Special Respon sibilit ies of P rosecu tors
+and Ot her G overn men t Lawyers .........................................................................44
+RULE 3.9. Advocat e In Non -Adju dicat ive Mat ters............................................................44
+RULE 4.1. Truthfulness In  Statemen ts To Ot hers ..............................................................45
+RULE 4.2. Commu nication Wit h Person  Represen ted By Cou nsel...............................45
+RULE 4.3. Commu nicating Wit h Un represen ted P erson s...............................................45
+RULE 4.4. Respect  for Right s of Third P erson s...................................................................45
+ii
+  Page
+RULE 4.5. Commu nication After In ciden ts Involvin g 
+Person al In jury or Wron gful Deat h...................................................................46
+RULE 5.1. Respon sibilit ies of Law Firms, P artners, 
+Man agers an d Su pervisory Lawyers .................................................................47
+RULE 5.2. Respon sibilit ies of a Su bordin ate Lawyer .......................................................48
+RULE 5.3. Lawyer’s Respon sibilit y for Con duct of Non lawyers ....................................48
+RULE 5.4. Profession al In depen dence of a Lawyer ...........................................................49
+RULE 5.5. Unauthorized P ract ice of Law .............................................................................50
+RULE 5.6. Rest rictions On  Right  To P ract ice......................................................................50
+RULE 5.7. Respon sibilit ies Regardin g Non legal Services ...............................................51
+RULE 5.8. Contract ual Relat ionship Bet ween  Lawyers 
+and Non legal P rofession als..................................................................................52
+RULE 6.1. Voluntary P ro Bon o Service .................................................................................55
+RULE 6.2. Reserved ......................................................................................................................56
+RULE 6.3. Membership in  a Legal Services Organ ization..............................................56
+RULE 6.4. Law Reform Act ivities Affect ing Clien t Interest s...........................................56
+RULE 6.5. Participat ion in Limit ed P ro Bon o Legal Service P rograms .....................57
+RULE 7.1. Advert ising.................................................................................................................58
+RULE 7.2. Paymen t for Referrals ............................................................................................62
+RULE 7.3. Solicit ation and Recommen dation of P rofession al Employmen t............64
+RULE 7.4. Iden tificat ion of Pract ice an d Specialt y...........................................................67
+RULE 7.5. Profession al Not ices, Let terheads an d Sign s..................................................68
+iii
+  Page
+RULE 8.1. Candor in  the Bar Admission  Process ...............................................................71
+RULE 8.2. Judicial Officers an d Can didat es.........................................................................71
+RULE 8.3. Report ing Profession al Miscon duct...................................................................71
+RULE 8.4. Miscon duct.................................................................................................................72
+RULE 8.5. Disciplin ary Au thority an d Choice of Law .......................................................73
+iv
+PART 1200 - RULES O F PRO FESSIO NAL CO NDUCT
+RULE 1.0.
+Termin ology
+(a)“Advert isement ” means any public or private communication mad e by
+or on behalf of a lawyer or law firm about that lawyer or law firm’s services, the
+primary purpose of which is for the retention of the lawyer or law firm.  It does not
+includ e communications to existing clients or other lawyers.
+(b) “Belief” or “beli eves”  denotes that the person involved  actually
+believes the fact in question to be true.  A person’s belief may be inferred  from
+circumstances.
+(c) “Comput er-a ccessed communi cation” means any communication
+mad e by or on behalf of a lawyer or law firm that is dissemin ated through the use of
+a computer  or related  electronic device,  includ ing, but not limited  to, web sites,
+weblogs,  search engines,  electronic mail,  banner advertisements,  pop-up and pop-
+und er advertisements,  chat rooms,  list servers,  instant messaging,  or other internet
+presences,  and any attachments or links related  thereto.
+(d) “Confi dent ial informa tion” is defined  in Rule 1. 6.
+(e) “Confi rmed in writing” denotes (i) a writing from the person to the
+lawyer confirming that the person has given consent,  (ii) a writing that the lawyer
+promptly transmits to the person confirming the person’s oral consent,  or (iii) a
+statement by the person mad e on the record of any proceed ing before a tribunal.  If
+it is not feasible to obtain or transmit the writing at the time the person gives oral
+consent,  then the lawyer must obtain or transmit it within a reasonabl e time
+thereafter.
+(f) “Differi ng interest s” include every interest that will adversely affect
+either the judgment or the loyalty of a lawyer  to a client, whether it be a conflicting,
+inconsistent,  diverse,  or other interest.
+(g) “Domest ic relations matter” denotes representatio n of a client in a
+claim,  action or proceed ing, or preliminary to the filing of a claim,  action or
+proceeding, in either Supreme Court or Family Court,  or in any court of appella te
+jurisd iction,  for divorce,  separation,  annulment,  custody, visitation,  maintenance,
+child support or alimony,  or to enforce or mod ify a judgment or order in connection
+with any such claim,  action or proceed ing.
+(h) “Firm” or “law firm”  includ es, but is not limited  to, a lawyer or lawyer s
+in a law partnership,  professional corporation,  sole proprietorship or other
+associ ation authoriz ed to practice law; or lawyers employed  in a qualified  legal
+assistance organiz ation,  a government law office,  or the legal department of a
+corporation or other organiz ation.
+(I) “Fra ud” or “fraudulent ” denotes cond uct that is fraud ulent und er the
+substantive or proced ural law of the applicable jurisd iction or has a purpose to
+deceive,  provid ed that it does not includ e cond uct that,  although characteriz ed as
+fraud ulent by statute or administrative rule, lacks an element of scienter,  deceit,
+intent to mislead, or knowing failure to correct misrepresentations that can be
+reasonably expected  to ind uce d etrimental reliance by another.
+(j) “Informed consent ” denotes the agreement by a person to a proposed
+course of cond uct after the lawyer has communicate d information adequate for the
+person to make an informed  decision,  and after the lawyer has adequately explained
+to the person the material risks of the proposed  course of cond uct and reasonably
+available alternatives.
+(k) “Knowi ngly,” “known,” “know,” or “knows”  denotes actual
+knowled ge of the fact in question.   A person’s knowled ge may be inferred  from
+circumstances.
+(l) “Ma tter” includ es any litigation,  judicial or administrative proceed ing,
+case,  claim,  applica tion, request for a ruling or other determination,  contract,
+controversy,  investigation,  charge,  accusation,  arrest,  negotiation,  arbitration,
+med iation or any other representation involving a specific party or parties.
+(m) “Partner” denotes a member of a partnership,  a sharehold er in a law
+firm organiz ed as a professional legal corporation or a member of an association
+authoriz ed to practice law.
+(n) “Person” includ es an individual, a corporation,  an association,  a trust,  a
+partnership,  and  any other organiz ation or entity.
+(o) “Professi ona l lega l corpora tion” means a corporation,  or an
+association treated  as a corporation,  authoriz ed by law to practice law for profit.
+(p) “Qualified lega l assistance orga nization” means an office or
+organiz ation of one of the four types listed  in Rule 7.2(b)(1)-(4) that meets all of the
+requirements thereof.
+(q) “Rea sona ble” or “rea sona bly,”  when used  in relation to cond uct by a
+lawyer, denotes the conduct of a reasonably prud ent and competent lawyer.   When
+used  in the context of conflict of inter est determinations,  “reasonable lawyer”
+denotes a lawyer acting from the perspective of a reasonably prud ent and
+-2-
+compet ent lawyer who is personally disinterested  in commencing or continuing the
+representation.
+(r) “Rea sona ble beli ef” or “rea sona bly beli eves,” when used in
+reference to a lawyer,  denot es that the lawyer believes the matter in question and
+that the circumstances are such that the belief is reasonable.
+(s) “Rea sona bly should know,”  when used  in reference to a lawyer,
+denotes that  a lawyer of reasonable prud ence and competence would  ascertain the
+matter in question.
+(t)“Screened” or “screeni ng” denotes the isolation of a lawyer from any
+participation in a matter through the timely imposition of proced ures within a firm
+that are reasonably adequate und er the circumstances to protect information that
+the isolated  lawyer or the firm is obligated  to protect under these Rules or other
+law.
+(u) “Sex ual rela tions”  denotes sexual intercourse or the touching of an
+intimate part of the lawyer or another person for the purpose of sexual arousal,
+sexual gratification or sexual abuse.
+(v) “State” includ es the District of Columbia,  Puerto Rico,  and other federal
+territories and  possessions.
+(w) “Tri buna l” denotes a court,  an arbitrator in an arbitr ation proceed ing
+or a legislative body, administrative agency or other body acting in an adjudicative
+capa city. A legislative body, administrative agency or other body acts in an
+adjudicative capacity when a neutral official,  after the presentation  of evidence or
+legal argument by a part y or parties,  will rend er a legal judgment directly affecting a
+party’s interests in a particular matter.
+(x)“Wri ting” or “wri tten” denotes a tangible or electronic record  of a
+communication or representation,  includ ing hand writing,  typewriting,  printing,
+photocopying,  photography,  audio or video record ing, e-mail or other electronic
+communication or any other form of record ed communication or record ed
+representation.  A "signed" writing includ es an electric sound , symbol or process
+attached  to or logically associated  with a writin g and executed  or adopted  by a
+person with the intent to sign the writing.
+-3-
+RULE 1.1.
+Compet ence
+(a)A lawyer should  provid e competent represen tation to a client.  
+Competent representation requires the legal knowled ge, skill, thoroughness and
+preparation reasonably necessary for the representation.
+(b) A lawyer shall not hand le a legal matter that the lawyer know s or
+should  know that the lawyer is not competent to hand le, without associating with a
+lawyer who is competent to hand le it.
+(c) lawyer shall not intentionally:
+(1) fail to seek the objectives of the client through
+reasonably available means permitted  by law and
+these Rules; or
+(2) prejudice or damage the client during the course of
+the representation except as permitted  or required  by
+these Rules.
+RULE 1.2.
+Scope of Represen tation and Allocat ion of Au thority Bet ween  Clien t and Lawyer
+(a) Subject to the provisions herein,  a lawyer shall abide by a client’s
+decisions concerning the objectives of representation and, as required  by Rule 1.4,
+shall consult with the client as to the means by which they are to be pursued . A
+lawyer shall abid e by a client’s decision whether to settle a matter. In a criminal
+case, the lawyer shall abid e by the client’s decision,  after consultation with the
+lawyer,  as to a plea to be entered , whether to waive jury trial and whether the client
+will testify.
+(b) A lawyer’s representation of a client,  includ ing representation by
+appointment,  does not constitute an endorsement of the client’s political,  economic,
+social or moral views or activities.
+(c) A lawyer may limit the scope of the representation if the limitation is
+reasonable und er the circumstances,  the client gives informed  consent and where
+necessary notice is provid ed to the tribunal and /or opposing counsel.
+-4-
+(d) A lawyer shall not counsel a client to engage,  or assist a client,  in
+cond uct that the lawyer knows is illegal or fraud ulent,  except that the lawyer may
+discuss the legal consequences of any proposed  course of cond uct with a client.
+(e) A lawyer may exercise professional judgment to waive or fail to assert a
+right or position of the client,  or acced e to reasona ble requests of opposing counsel,
+when d oing so d oes not prejud ice the rights of the client.
+(f) A lawyer may refuse to aid or participate in conduct that the lawyer
+believes to be unlawful,  even though there is some support for an argument that the
+cond uct is legal.
+(g) A lawyer does not violate these Rules by being punctual in fulfilling all
+professional commitments,  by avoid ing offensive tactics,  and by treating with
+courtesy and  consid eration all persons involved  in the legal process.
+RULE 1.3.
+Diligen ce
+(a)A lawyer shall act with reasonable diligence and promptness in
+representing a client.
+(b) A lawyer shall not neglect a legal matter entrusted  to the lawyer.
+(c) A lawyer shall not intentio nally fail to carry out a contract of
+employment entered  into with a client for professional serv ices, but the lawyer may
+withd raw as permitted  und er these Rules.
+RULE 1.4.
+Commu nication
+(a)A lawyer shall:
+(1) promptly inform the client of:
+(i) any decision or circumstance with respect to
+which the client’s informed  consent,  as defined  in
+Rule 1. 0(j),  is required  by these Rules;
+-5-
+(ii) any information required  by court rule or other
+law to be communicated  to a client; and
+(iii) material developments in the matter includ ing
+settlement or plea offers.
+(2) reasonably consult with the client about the means by
+which the client’s objectives are to be accomplished ;
+(3) keep the client reasonably informed  about the status
+of the matter;
+(4) promptly comply with a client’s reasonable requests
+for information; and
+(5) consult with the client about any relevant limitation
+on the lawyer’s conduct when the lawyer knows that
+the client expects assist ance not permitted  by these
+Rules or other law.
+(b) A lawyer shall explain a matter to the extent reasonably necessary to
+permit the client to make informed  decisions regard ing the representation.
+RULE 1.5.
+Fees an d Division  of Fees
+(a)A lawyer shall not make an agreement for, charge,  or collect an
+excessive or illegal fee or expense.  A fee is excessive when,  after a review of the
+facts,  a reas onable lawyer would  be left with a definite and firm conviction that the
+fee is excessive.  The factors to be consid ered  in determining  whether a fee is
+excessive may includ e the following:
+(1) the time and labor required , the novelty and difficulty of
+the questions involved , and the skill requisi te to perform
+the legal service properly;
+(2) the likelihood , if apparent or mad e known to the client,  that
+the acceptance of the particular employment will preclud e
+other employment by the lawyer;
+(3) the fee customarily charged  in the local ity for similar legal
+services;
+-6-
+(4) the amount involved  and  the results obtained ;
+(5) the time limitations imposed  by the client or by
+circumstances;
+(6) the nature and length of the professional relationship with
+the client;
+(7) the experience,  reputation and ability of the lawyer or
+lawyers performing the services; and
+(8) whether the fee is fixed  or contingent.
+(b) A lawyer shall communicate to a client the scope of the representation
+and the basis or rate of the fee and expenses for which the client will be responsible.
+This information shall be communicated  to the client before or within a reasonable
+time after commencement of the representation and shall be in writing where
+required  by statute or court rule . This provision shall not apply when the lawyer
+will charge a regularly represen ted client on the same basis or rate and perform
+services that are of the same general kind  as previously rendered to and paid  for by
+the client. Any changes in the scope of the representation or the basis or rate of the
+fee or expenses shall also be communicated  to the client.
+(c) A fee may be contingent on the outcome of the matter for which the
+service is rend ered , except in a matter in which a contingent fee is prohibited by
+parag raph (d) or other law.  Promptly after a lawyer has been employed  in a
+contingent fee matter,  the lawyer shall provid e the client with a writing stating the
+method by which the fee is to be determined , includ ing the percentage  or
+percentages that shall accrue to the lawyer in the event of settlement,  trial or
+appeal; litigation and other expenses to be deducted  from the recovery; and
+whether such expenses are to be deducted  before or, if not prohibited  by statute or
+court rule,  after the conti ngent fee is calculated . The writing must clearly notify the
+client of any expenses for which the client will be liable regard less of whether the
+client is the prevailing party.  Upon conclusion of a continge nt fee matter,  the lawyer
+shall provid e the client with a writing stating the outcome of the matter and, if there
+is a recovery,  showing the remittance to the client and the method  of its
+determination.
+(d) A lawyer shall not enter into an arrangement for,  charge or collect:
+(1) a contingent fee for repre senting a defend ant in a
+criminal matter;
+(2) a fee prohibited  by law or rule of court;
+-7-
+(3)  fee based  on fraud ulent billing;
+(4) a nonrefund able retainer fee; provid ed that a lawyer
+may enter into a retainer agreement with a clien t
+containing a reasonable minimum fee clause if it
+defines in plain language and sets forth the
+circumstances und er which such fee may be incurred
+and how it will be calculated ; or
+(5) any fee in a d omestic relations matter if:
+(i) the payment or amou nt of the fee is contingent
+upon the securi ng of a divorce or of obtaining
+child  custod y or visitation or is in any way
+determined  by referen ce to the amount of
+maintenance,  support,  equitable distribution,  or
+property settlement;
+(ii) a written retainer agreement has not been
+signed  by the lawyer and client setting forth
+in plain language the nature of the
+relationship and the details of the fee
+arrangement; or
+(iii) the written retainer agreement includes a
+security interest,  confessio n of judgment or
+other lien without prio r notice being
+provid ed to the client in a signed  retainer
+agreement and approval from a tribu nal
+after notice to the adversary.  A lawyer shall
+not foreclose on a mortgage placed on the
+marital resid ence while the spouse who
+consent s to the mortgage remains the
+titlehold er and the resid ence remains the
+spouse’s primary resid ence.
+(e) In domestic relations matters,  a lawyer shall provid e a prospective
+client with a statement of client’s rights and responsibilities at the initial conference
+and prior to the signing of a written retainer agreement.
+(f) Where applicable,  a lawyer shall resolve fee disputes by arbitration at
+the election of the client pursuant to a fee arbitration program established  by the
+Chief Administrator of the Courts and appr oved by the Administrative Board  of the
+Courts.
+-8-
+(g) A lawyer shall not divide a fee for legal serv ices with another lawyer
+who is not associated  in the same law firm unless:
+(1) the division is in proportion to the services performed
+by each lawy er or, by a writing given to the client,
+each lawyer assumes joint responsibility for the
+representation;
+(2) the client agrees to employment of the other lawyer
+after a full disclosure that a division of fees will be
+mad e, includ ing the share each lawyer will receive,
+and the client’ s agreement is confirmed  in writing;
+and
+(3) the total fee is not excessive.
+(h) Rule 1.5(g) does not prohibit payment to a lawyer formerly associated
+in a law firm pursuant to a separation or retirement agreement.
+RULE 1.6.
+Confiden tialit y of In format ion
+(a)A lawyer shall not knowingly reveal confid ential information,  as defined
+in this Rule, or use such informa tion to the disad vantage of a client or for the
+advantage of the lawyer or a third  person,  unless:
+(1) the client gives informed  consent,  as defined  in Rule
+1.0(j);
+(2) the disclosure is implied ly authoriz ed to advance the
+best interes ts of the client and is either reasonable
+under the circumstances or customary in the
+professional community; or
+(3) the d isclosure is permitted  by paragraph (b).
+“Confid ential info rmation” consists of information gained  during or relating
+to the representation of a client, whatever its source,  that is (a) protected  by the
+attorney-client privilege,  (b) likely to be embarrassing or detrimental to the client if
+disclosed , or (c) information that the client has requested  be kept confid ential.
+“Confid ential information” does not ordinarily includ e (i) a lawyer’s legal
+knowledge or legal research or (ii) information that is generally known in the local
+community or in the trad e, field  or profession to which the information relates.
+-9-
+(b) A lawyer may reveal or use confid ential inform ation to the extent that
+the lawyer reasonably believes necessary:
+(1) to prevent reasonably certain death or substant ial
+bodily harm;
+(2) to prevent the client from committing a crime;
+(3) to withd raw a written or oral opinion or
+representation previously given by the lawyer and
+reasonably believed  by the lawyer still to be relied
+upon by a third  person,  where the lawyer has
+discovered  that the opinion or representation was
+based  on materially inaccurate information or is being
+used  to further a crime or fraud ;
+(4) to secure legal advice about compliance with these
+Rules or other law by the lawyer,  another lawyer
+associated  with the lawyer’s firm or the law firm;
+(5) (i) to defend  the lawyer or the lawyer’s employees
+and associates against an accusation of wrongful
+cond uct; or
+(ii) to establish or collect a fee; or
+(6) when permitted  or required  under these  Rules or to
+comply with other law or court ord er.
+(c) A lawyer shall make reasonable efforts to prevent the inad vertent or
+unauthoriz ed disclosure or use of, or unauthoriz ed access to, information protected
+by Rules 1. 6, 1.9(c),  or 1. 18(b).   
+RULE 1.7.
+Conflict of In terest : Curren t Clien ts
+(a)Except as provid ed in paragraph (b), a lawyer shall not represent a
+client if a reasonable lawyer would  conclud e that either:
+(1) the representation will involve the lawyer in
+representing d iffering interests; or
+-10-
+(2) there is a significant risk that the lawyer’s
+professional judgment on behalf of a client will be
+adversely affected  by the lawyer’s own financial,
+business,  property or other personal interests.
+(b) Notwithstand ing the existence of a concurrent conflict of interest und er
+paragraph (a),  a lawyer may represent a client if:
+(1) the lawyer reasonably believes that the lawyer will be
+able to provid e competent and diligent representation
+to each affected  client;
+(2) the representation is not prohibited  by law;
+(3) the representation does not involve the assertion of a
+claim by one client against another client represented
+by the lawyer in the same litigation or other
+proceed ing before a tribunal; and
+(4) each affected  client gives informed  consent,  confir med
+in writing.
+RULE 1.8.
+Curren t Clien ts: Specific Con flict of In terest  Rules
+(a)A lawyer shall not enter into a business transaction with a client if they
+have differing interests therein and if the client expects the lawyer to exercise
+professional jud gment therein for the protection of the client,  unless:
+(1) the transaction is fair and reasonable to the client and
+the terms of the transaction are fully disclosed  and
+transmitted  in writing in a manner that can be
+reasonably und erstood  by the client;
+(2) the client is advised  in writing of the desirability of
+seeking,  and is given a reasonable opportunity to
+seek,  the advice of independ ent legal counse l on the
+transaction; and
+(3) the client gives informed  consent,  in a writing signed
+by the client, to the essential terms of the transaction
+and the lawyer’s role in the transaction,  includ ing
+-11-
+whether the lawyer is representing the client in the
+transaction.
+(b) A lawyer shall not use information relating to representation of a client
+to the disad vantage of the client unless the client gives informed  consent,  except as
+permitted  or required  by these Rules.
+(c) A lawyer shall not:
+(1) solicit any gift from a client,  including a testamentary
+gift, for the benefit of the lawyer or a person related  to
+the lawyer; or
+(2) prepare on behalf of a client an instrument giving the
+lawyer or a person related  to the lawyer any gift,
+unless the lawyer or other recipient of the gift is
+related  to the client and a reasonable lawyer would
+conclud e that the transaction is fair and  reasonable.
+For purposes of this paragraph,  related  persons includ e a spouse,  child,
+grand child , parent,  grand parent or other relative or individual with whom the
+lawyer or the client maintains a close,  familial relationship.
+(d) Prior to conclusion of all aspects of the matter giving rise to the
+representation or proposed  representation of the client or prospective client,  a
+lawyer shall not negotiate or enter into any arrangement or und erstand ing with:
+(1) a client or a prospective client by which the lawyer
+acquires an interest in literary or media rights with
+respect to the subject matt er of the representation or
+proposed  representation; or
+(2) any person by which the lawyer transfer s or assigns
+any inter est in literary or med ia rights with respect to
+the subject matter of the representation of a client or
+prospective client.
+(e) While representing a client in connection with contemplated  or pend ing
+litigation,  a lawyer shall not advance or guarantee financial assistance to the client,
+except that:
+(1) a lawyer may advance court costs and expenses of
+litigation,  the repayment of which may  be contingent
+on the outcome of the matter;
+-12-
+(2) a lawyer representing an indigent or pro bono client
+may pay court costs and expenses of litigation on
+behalf of the client; and
+(3) a lawyer,  in an action in which an attorne y’s fee is
+payable in whole or in part as a percentage of the
+recovery in the action,  may pay on the lawyer’s own
+account court costs and expenses of litigatio n. In such
+case,  the fee paid  to the lawyer from the proceed s of
+the action may includ e an amount equal to such costs
+and expenses incurred .
+(f) A lawyer shall not accept compensation for representing a client, or
+anything of value related  to the lawyer’s representation of the client,  from one other
+than the client unless:
+(1) the client gives informed  consent;
+(2) there is no interference with the lawyer’s
+independ ent professi onal judgment or with the client-
+lawyer relationship; and
+(3) the client’s confid ential information is prot ected as
+required  by Rule 1. 6.
+(g) A lawyer who repres ents two or more clients shall not participate in
+making an aggregate settlement of the claims of or against the clients,  absent court
+approval,  unless each client gives informed  consent in a writing signed  by the client.
+The lawyer’s disclosure shall includ e the existence and nature of all the claims
+involved  and  of the participation of each person in the settlement.
+(h) A lawyer shall not:
+(1) make an agreement prospecti vely limiting the
+lawyer’s liability to a client for malpractice; or
+(2) settle a claim or potential claim for such liability with
+an unrepresented  client or former client unless that
+person is advised in writing of the desirability of
+seeking,  and is given a reasonable opportunity to
+seek,  the advice of independ ent legal counsel in
+connection therewith.
+-13-
+(i)A lawy er shall not acquire a proprietary interest in the cause of action
+or subject matt er of litigation the lawyer is conducting for a client,  except that the
+lawyer may:
+(1) acquire a lien authoriz ed by law to secure the lawyer’s
+fee or expenses; and
+(2) contract with a client for a reasonable contingent fee
+in a civil matter subject to Rule 1.5(d) or other law or
+court rule.
+(j) (1) A lawyer shall not:
+(i) as a cond ition of entering into or continuing
+any professional representation  by the
+lawy er or the lawyer’s firm,  require or
+demand  sexual relations with any person;
+(ii) employ coercion,  intimid ation or undue
+influ ence in entering into sexual relations
+incid ent to any professional represe ntation
+by the lawyer or the lawyer’s firm; or
+(iii) in domestic relations matters,  enter into
+sexual relations with a client during the
+course of the lawyer’s repre sentation of the
+client.
+(2) Rule 1.8(j)(1) shall not apply to sexual relations
+between lawyers and their spouses or to ongoing
+consensual sexual relationships that pred ate the
+initiation of the client-lawyer relationship.
+(k) Where a lawyer in a firm has sexual relations with a client but does not
+partic ipate in the representation of that client,  the lawyers in the firm shall not be
+subject to discipline und er this Rule solely because of the occurrence of such sexual
+relations.
+RULE 1.9.
+Duties to Former Clien ts
+(a)A lawyer who has formerly represented  a client in a mat ter shall not
+thereafter represent another  person in the same or a substantially related  matter in
+-14-
+which that person’s interests are materially adverse to the interests of the former
+client unless the former client gives informed  consent,  confirmed  in writing.
+(b) Unless the former client gives informed  consent,  confirmed  in writing , a
+lawyer shall not knowingly represent a person in the same or a substantially related
+matter in which  a firm with which the lawyer formerly was associated  had
+previously represented  a client:
+(1) whose interests are materially adverse to that person;
+and
+(2) about whom the lawy er had acquired  information
+protected  by Rules 1.6 or paragraph (c) of this Rule
+that is material to the matter.
+(c) A lawyer who has formerly represented  a client in a matter or whose
+present or former firm has formerly repres ented a client in a matter shall not
+thereafter:
+(1) use confid ential information of the former client
+protected  by Rule 1.6 to the disad vantage of the
+former client,  except as these Rules would  permit or
+require with respect to a current client or when the
+information has become generally known; or
+(2) reveal confid ential information of the former client
+protected  by Rule 1.6 except as these Rules would
+permit or require with respect to a current client.
+RULE 1.10.
+Impu tation of Con flicts of In terest
+(a)While lawyers are asso ciated  in a firm,  none of them shall knowingly
+represent a client when any one of them practicing alone would  be prohibited  from
+doing so by Rule 1. 7, 1.8 or 1. 9, except as otherwise provid ed therein.
+(b) When a lawyer has terminated  an association with a firm,  the firm is
+prohibited  from thereafter representing a person with interests that the firm knows
+or reasonably should  know are mate rially adverse to those of a client represented
+by the formerly associated  lawyer and not currently represented  by the firm if the
+firm or any lawyer remain ing in the firm has information protected  by Rule 1.6 or
+Rule 1. 9(c) that is material to the matter.
+-15-
+(c) When a lawyer become s associated  with a firm,  the firm may not
+knowingly represent a client in a matter that is the same as or substantially related
+to a matter in which the newly associate d lawyer, or a firm with which that lawyer
+was associated , formerly represented  a client who se interests are materially
+adverse to the prospective or current client unless the newly associated  lawyer did
+not acquire any information protected  by Rule 1.6 or Rule 1.9(c) that is material to
+the current matter.
+(d) A disqualification prescribed  by this Rule may be waived  by the affected
+client or former client und er the cond itions stated  in Rule 1. 7.
+(e) A law firm shall make a written record  of its engagements,  at or near
+the time of each new engagement,  and shall implement and maintain a system by
+which proposed  enga gements are checked  against current and previous
+engagements when:
+(1) the firm agrees to represent a new client;
+(2) the firm agrees to represent an existing client in a new
+matter;
+(3) the firm hires or associates with another lawyer; or
+(4) an additional party is named  or appears in a pend ing
+matter.
+(f) Substantial failure to keep record s or to implement or maintain a
+conflict-checking system that complies with paragraph (e) shall be a violation
+thereof regard less of whether there is another violation of these Rules.
+(g) Where a violation of paragraph (e) by a law firm is a substa ntial factor
+in causing a violation of paragraph (a) by a lawyer , the law firm,  as well as the
+individual lawyer,  shall be responsible for the violation of paragraph (a).
+(h) A lawyer related  to another lawyer  as parent,  child , sibling or spouse
+shall not represent in any matter a client whose interests differ from those of
+another party to the matter who the lawyer knows is represented  by the other
+lawyer unless the client consents to the representation after full disclosure and the
+lawyer conclud es that the lawyer can adequately represent the interests of the
+client.
+-16-
+RULE 1.11.
+Special Con flicts of In terest  for Former an d Cu rren t
+Govern men t Officers an d Employees
+(a)Except as law may otherwise expres sly provid e, a lawyer who has
+formerly served  as a public officer or employee of the government:
+(1) shall comply with Rule 1. 9(c); and
+(2) shall not represent a client in connec tion with a
+matter in which the lawyer participated  personally
+and substantially as a public officer or employee,
+unless the appropriate government agency gives its
+informed  consent,  confirmed  in writing,  to the
+representation.  This provision shall not apply to
+matters governed  by Rule 1. 12(a).
+(b) When a lawyer is disqualified  from representation under paragraph (a),
+no lawyer in a firm with which that lawyer is associated  may knowingly und ertake
+or continue representation in such a matter unless:
+(1) the firm acts promptly and  reasonably to:
+(i) notify, as appropriate, lawyers and
+nonlawyer personnel within the firm that
+the personally disqualified lawyer is
+prohibited from participating in the
+representation of the current client;
+(ii) implement effective screening proced ures to
+prevent the flow of information about the
+matter between  the personally disqualified
+lawyer and  the others in the firm;
+(iii) ensure that the disqualified  lawyer is
+apportioned  no part of the fee therefrom;
+and
+(iv) give written notice to the appropriate
+government agency to enable it to ascertain
+compliance with the provisi ons of this Rule;
+and
+-17-
+(2) there are no other circumstances in the partic ular
+representation that create an appearance of
+impropriety.
+(c) Except as law may otherwise expressly provid e, a lawye r having
+information that the lawyer knows is confid ential government information about a
+person, acquired  when the lawyer was a public officer or employee,  may not
+represent a private client whose interests are adverse to that person in a matter  in
+which the information could  be used  to the material disad vantage of that person.  As
+used  in this Rule, the term “confid ential government information” means
+information that has been obtained  und er governmental authority and that,  at the
+time this Rule is applied , the government is prohibited  by law from disclosing to the
+public or has a legal privilege not to disclose,  and that is not otherwise available to
+the public.  A firm with which that lawyer is associ ated may und ertake or continue
+representation in the matter only if the disqualified  lawyer is timely and effectively
+screened  from any participation in the matter in accord ance with the provisions of
+paragraph (b).
+(d) Except as law may otherwise expressly provid e, a lawyer currently
+serving as a public officer or employee shall not:
+(1) participate in a matter in which the lawyer
+participated  persona lly and substantially while in
+private practice or nongovernmental employment ,
+unless  und er applicable law no one is, or by lawful
+delegation may be, author ized to act in the lawyer’s
+stead  in the matter; or
+(2) negotiate for private employment with any person
+who is involved  as a party or as lawyer for a party in a
+matter in which the lawyer is partic ipating personally
+and substantially.
+(e) As used  in this Rule,  the term “matter” as defined  in Rule 1.0(l) does not
+includ e or apply to agency rulemaking functions.
+(f) A lawyer who hold s public office shall not:
+(1) use the public position to obtain,  or attempt to obtain,
+a special  advantage in legislative matters for the
+lawyer or for a client und er circumstances where the
+lawyer knows or it is obvious that such action is not in
+the public interest;
+-18-
+(2) use the public position to influence,  or attempt to
+influence,  a tribunal to act in favor of the lawyer or of
+a client; or
+(3) accept anything of value from any person when the
+lawyer knows or it is obvious that the offer is for the
+purpose of influencing the lawyer’s action as a public
+official.
+RULE 1.12.
+Specific Con flicts of In terest  for Former Ju dges,
+Arbit rators, Mediat ors or Ot her Third-P arty Neu trals
+(a)A lawyer shall not accept private employment in a matter upon the
+merits of which the lawyer has acted  in a jud icial capacity.
+(b) Except as stated  in paragraph (e), and unless all parties to the
+proceed ing give informed  consent,  confirmed  in writing,  a lawyer shall not
+represent anyone in connection with a matter in which the lawyer part icipated
+personally and  substantially as:
+(1) an arbitrat or, med iator or other third -party neutral;
+or
+(2) a law clerk to a judge or other adjudicative officer or
+an arbitrator,  med iator or other third -party neutral.
+(c) A lawyer shall not negotiate for employment with any person who is
+involved  as a party or as lawyer for a party in a matter in which the lawyer is
+participating personally and substantially as a judge or other adjudicati ve officer or
+as an arbitrator,  med iator or other third -party neutral.
+(d) When a lawyer  is disqualified  from representation und er this Rule,  no
+lawyer in a firm with which that lawyer is associated  may knowingly und ertake or
+continue representation in such a matter unless:
+(1) the firm acts promptly and  reasonably to:
+(i) notify, as appropriate, lawyers and
+nonlawyer personnel within the firm that
+the personally disqualified lawyer is
+prohibited from participating in the
+representation of the current client;
+-19-
+(ii) implement effective screeni ng proced ures to
+prevent the flow of information about the
+matter betwee n the personally disqualified
+lawyer and  the others in the firm;
+(iii) ensure that the disqualified  lawyer is
+apportione d no part of the fee therefrom;
+and
+(iv) give written notice to the parties and any
+appropriate  tribunal to enable it to ascertain
+compliance with the provisions of this Rule;
+and
+(2) there are no other circumstances in the particular
+representation that create an appearance of
+impropriety.
+(e) An arbitrator selected  as a part isan of a party in a multimember
+arbitration panel is not prohibited  from subsequently representing that party.
+RULE 1.13.
+Organ ization As Clien t
+(a)When a lawyer employed  or retained  by an organiz ation is dealing with
+the organiz ation’s directors,  officers,  employees,  members, sharehold ers or other
+cons tituents, and it appears that the organiz ation’s interests may differ from those
+of the constituents with whom the lawyer is dealing,  the lawyer shall explain that
+the lawyer is the lawyer for the organiz ation and  not for any of the constituents.
+(b) If a lawyer for an organiz ation knows that an office r, employee or other
+person associated  with the organiz ation is engaged  in action or intend s to act or
+refuses to act in a matter related  to the representation that (i) is a violation of a legal
+obligation to the organiz ation or a violation of law that reasonably might be
+imputed  to the organiz ation,  and (ii) is likely to resul t in substantial injury to the
+organiz ation,  then the lawyer shall proceed  as is reasonably necessary in the best
+interest of the organiz ation.   In determining how to proceed , the lawyer shall give
+due consid eration to the seriousness of the violation and its consequences, the
+scope and nature of the lawyer’s representation,  the responsibility in the
+organiz ation and the apparent motivation of the person involved , the policies of the
+organiz ation concerning such matters and any other relevant consid erations.   Any
+measures taken shall be designed  to minimiz e disruption of the organiz ation and
+-20-
+the risk of revealing information relating to the representation to persons outsid e
+the organiz ation.   Such measures may includ e, among others:
+(1) asking reconsid eration of the matter;
+(2) advising that a separate legal opinion on the matter be
+sought for presentation to an approp riate authority in
+the organiz ation; and
+(3) referrin g the matter to higher authority in the
+organization, including, if warranted by the
+seriousness of the matter,  referr al to the highest
+authority that can act in behalf of the organiz ation as
+determined  by applicable law.
+(c) If, despite the lawyer’s efforts in accord ance with  paragraph (b), the
+highest authority that can act on behalf of the organization insists upon action,  or a
+refusal to act, that is clearly  in violation of law and is likely to result in a substantial
+injury to the organiz ation , the lawyer may reveal confid ential information only if
+permitted  by Rule 1. 6, and  may resign in accord ance with Rule 1. 16.
+(d) A lawyer represen ting an organiz ation may also represent any of its
+directors,  officers,  employees,  members,  sharehold ers or other constitue nts, subject
+to the provisions of Rule 1.7. If the organiz ation’s consent to the concurrent
+representation is required  by Rule 1.7, the consent shall be given by an appropriate
+official of the organiz ation other than the individual who is to be represented , or by
+the sharehold ers.
+RULE 1.14.
+Clien t Wit h Dimin ished Capacit y
+(a)When a client’s capacity to make adequately consid ered  decisions in
+connec tion with a representation is diminished , whether because of minority,
+mental impairment or for  some other reason,  the lawyer shall, as far as reasonably
+possible,  maintain a conventional relationship with the client.
+(b) When the lawyer reasonably believes that the client has diminished
+capacity,  is at risk of substantial physical,  financial or othe r harm unless action is
+taken and cannot adequately act in the client’s own interest,  the lawyer may take
+reasonably necessary protective action,  includ ing consulting with individuals or
+entities that have the ability to take action to protect the client and, in appropria te
+cases,  seeking the appointment of a guard ian ad  litem,  conservator or guard ian.
+-21-
+(c) Information relating to the representation of a client with diminished
+capacity is protected  by Rule 1.6. When taking protective action pursuant to
+paragraph (b), the lawyer is implied ly authoriz ed under Rule 1.6(a) to reveal
+information about the client,  but only to the extent reasonably necessary to protect
+the client’s interests.
+RULE 1.15.
+Preservin g Iden tity of Funds and Propert y of Others; Fidu ciar y Responsibilit y;
+Commin gling and Misappropriat ion of Clien t Funds or Propert y; Main tenance of Ban k
+Accou nts; Record Keepin g; Examin ation of Records
+(a)Prohibition Against Commingling and Misappropriation of Client Fund s
+or Property.
+A lawyer in possession of any fund s or other propert y belonging to
+another person,  where such possession is incid ent to his or her
+practice of law,  is a fiduciary,  and must not misappropriate such fund s
+or property or commingle such fund s or property with his or her own.
+(b) Separate Accounts.
+(1) A lawyer who is in possession of fund s belonging to
+another person incid ent to the lawyer’s practice of
+law shall maintain such fund s in a banking institution
+within New York State that agrees to provid e
+dishonored  check reports in accord ance with the
+provisions of 22 N.Y.C.R.R. Part 1300.  “Banking
+institution” means a state or national bank, trust
+company,  savings bank,  savings and loan associati on
+or credit union. Such fund s shall be maintained , in the
+lawyer’s own name,  or in the name of a firm of
+lawyers of which the lawyer is a member,  or in the
+name of the lawyer or firm of lawyers by whom the
+lawyer is employed , in a special account or accounts,
+separate from any business or personal accounts of
+the lawyer or lawyer’s firm, and separate from any
+accounts that the lawyer may maintain as executor,
+guardian, trustee or receiver,  or in any other fiduciary
+capacity; into such special account or accounts all
+fund s held in escrow or otherwise entrusted  to the
+lawyer or firm shall be deposited ; provid ed, however,
+that such fund s may be maintained  in a bankin g
+institution located  outsid e New York State if such
+-22-
+banking institution complies with 22 N.Y.C.R.R. Part
+1300 and the lawyer has obtained  the prior written
+approval of the person to whom  such fund s belong
+specifying the name and address of the office or
+branch of the banking institution where such fund s
+are to be maintained .
+(2) A lawyer or the lawyer’s firm shall identify the special
+bank account  or accounts required  by Rule 1.15(b)(1)
+as an “Attorney  Special Account, ” “Attorney Trust
+Account, ” or “Attorney Escrow Acco unt,” and shall
+obtain checks and deposit slips that bear such title.
+Such title may be accompanied  by such other
+descriptive languag e as the lawyer may deem
+appropria te, provid ed that such additional language
+distinguishes such special account or accounts from
+other bank accounts that are maintained  by the
+lawyer or the lawyer’s firm.
+(3) Fund s reasonably sufficient to maintain the acco unt
+or to pay account charges may be d eposited  therein.
+(4) Fund s belonging in part to a client or third  person and
+in part currently or potentially to the lawyer or law
+firm shall be kept in such special account or accounts ,
+but the portion belon ging to the lawyer or law firm
+may be withd rawn when due unless the right of the
+lawyer or law firm to receive it is disputed  by the
+client or third  person, in which event the disputed
+portion shall not be withd rawn  until the dispute is
+finally resolved .
+(c) Notification of Receipt of Property; Safekeeping; Rend ering Accounts;
+Payment or Delivery of Property.
+A lawyer shall:
+(1) promptly notify a client or third  person of the receipt
+of fund s, securities,  or other properties in which the
+client or third  person has an interest;
+(2) identify and label securiti es and properties of a client
+or third  person promptly upon receipt and place them
+-23-
+in a safe deposit box or other place  of safekeeping as
+soon as practicable;
+(3) maintain complete record s of all fund s, securities,  and
+other proper ties of a client or third  person coming
+into the possession of the lawyer and rend er
+appropriate accounts to the client or third  pers on
+regard ing them; and
+(4) promptly  pay or deliver to the client or third  person
+as requested  by the client or third  person the fund s,
+securities,  or other properties in the possession of the
+lawyer that the client or third  person is entitle d to
+receive.
+(d) Required  Bookkeeping Record s.
+(1) A lawyer shall maintain for seven years after the
+events that they record :
+(i) the record s of all deposits in and
+withd rawals from the accounts specified  in
+Rule 1.15(b) and of any other bank acco unt
+that concerns or affects the lawyer’s
+practice of law; these records shall
+specifically  identify the date, source and
+description of each item deposited , as well
+as the date, payee and purpose of each
+withd rawal or d isbursement;
+(ii) a record  for special accounts,  showing the
+source of all fund s deposited  in such
+accounts,  the names of all persons for
+whom the fund s are or were held, the
+amo unt of such fund s, the description and
+amounts,  and the names of all person s to
+whom such fund s were d isbursed ;
+(iii) copies of all retainer and compensation
+agreements with clients;
+(iv) copies of all statements to clients or other
+persons showing the disbursement of funds
+to them or on their behalf;
+-24-
+(v) copies of all bills rend ered  to clients;
+(vi) copies of all record s showing payments to
+lawyers,  investigators or other persons,  not
+in the lawyer’s regular employ,  for services
+rend ered  or performed ;
+(vii) copies of all retainer and closing statements
+filed with the Office of Court
+Administration; and
+(viii) all checkbooks and check stubs,  bank
+statements,  prenumbered  canceled  checks
+and duplicate d eposit slips.
+(2) Lawyers shall make accurate entries of all financial
+transactions in their records of receipts and
+disbursements,  in their special accounts, in their
+ledger books or similar record s, and in any other
+books of account kept by them in the regular course of
+their practice,  which entries shall be mad e at or near
+the time of the act,  cond ition or event record ed.
+(3) For purposes of Rule 1.15(d ), a lawyer may satisfy the
+requir ements of maintaining “copies” by maintaining
+any of the following items: original records,
+photocopies,  microfilm,  optical imaging,  and any other
+medium that preserves an image of the document that
+cannot be altered  without d etection.
+(e) Authoriz ed Signatories.
+All special account withdrawals shall be mad e only to a named  payee and not
+to cash.  Such withd rawals shall be made by check or, with  the prior written
+approval of the party entitled  to the proceed s, by bank transfer.  Only a lawyer
+admitted  to practice law in New York State shall be an authoriz ed signatory of a
+special account.
+(f) Missing Clients.
+Whenever any sum of money is payable to a client and the lawyer is unable
+to locate the client,  the lawyer shall apply to the court in which the action was
+brought if in the unified  court system,  or, if no action was commenced  in the unified
+court system,  to the Supreme Court in the county in which the lawyer maintains  an
+-25-
+office for the practice of law,  for an order directing payment to the lawyer of any
+fees and disbursements that are owed  by the client and the balance,  if any,  to the
+Lawyers’ Fund  for Client Protection for safeguard ing and disbursement to persons
+who are entitled  thereto.
+(g) Designation of Successor Signatories.
+(1) Upon the death of a lawyer who was the sole
+signatory on an attorney trust,  escrow or special
+account, an application may be mad e to the Suprem e
+Court for an order designating a succe ssor signatory
+for such trust,  escrow or special account,  who shall be
+a member of the bar in good  stand ing and admitted  to
+the practice of law in New York State.
+(2) An application to designate a successor signatory shall
+be mad e to the Supreme Court in the judicial district
+in which the deceased  lawyer maintained  an office for
+the practice of law.  The application may be mad e by
+the legal  representative of the deceased  lawyer’s
+estate; a lawyer who was affili ated  with the deceased
+lawyer in the practice of law; any person who has a
+beneficial interest in such trust,  escrow or special
+account; an officer of a city or county bar association;
+or counsel for an atto rney disciplinary committee.  No
+lawyer may charge a legal fee for assisting with an
+application to designate a successor signatory
+pursuant to this Rule.
+(3) The Supreme Court may designate a successor
+signat ory and may direct the safeguard ing of fund s
+from such  trust, escrow or special account,  and the
+disbursement of such fund s to persons who are
+entitled  thereto,  and may order that fund s in such
+account be deposi ted with the Lawyers’ Fund  for
+Client Protection for safeguard ing and disbursement
+to persons who are entitled  thereto.
+(h) Dissolution of a Firm.
+Upon the dissolution of any firm of lawyers,  the former partners or
+members shall make appropriate arrangements for the maintenance,  by one of them
+or by a successor firm,  of the record s specified  in Rule 1. 15(d ).
+-26-
+(i)Availability of Bookkeeping Record s: Record s Subject to Prod uction  in
+Disciplinary Investigations and  Proceed ings.
+The financial record s required  by this Rule shall be located , or mad e
+available,  at the principal New York State office of the lawyers subject hereto,  and
+any such record s shall be prod uced  in response to a notice or subpoena d uces tecum
+issued  in connection with a complaint before or any investig ation by the
+appropriate grievance or departmental disciplinary committee,  or shall be prod uced
+at the direction of the appropriate Appellate Division before any person designated
+by it. All books and record s prod uced  pursuant to this Rule shall be kept
+confid ential,  except for the purpose of the particular proceed ing, and their contents
+shall not be d isclosed  by anyone in violation of the attorney-client privilege.
+(j) Disciplinary Action.
+A lawyer who does not maintain and keep the accounts  and record s as
+specifi ed and required  by this Rule,  or who does not prod uce any such record s
+pursuant to this Rule,  shall be deemed  in violation of these Rules and shall be
+subject to d isciplinary proceed ings.
+RULE 1.16.
+Declin ing or Termin ating Represen tation
+(a)A lawyer shall not accept employment on behalf of a person if the
+lawyer knows or reasonably should  know that such person wishes to:
+(1) bring a legal action,  cond uct a defense,  or asse rt a
+position in a matter,  or otherwise have steps taken for
+such person,  merely for the purpose of harassing or
+maliciously injuring any person; or
+(2) present a claim or defense in a matter that is not
+warr anted under existing law, unless it can be
+suppo rted  by a good  faith argument for an extension,
+mod ification,  or reversal of existing law.
+(b) Except as stated  in paragraph (d), a lawyer shall withd raw from the
+representation of a client when:
+(1) the lawyer knows or reaso nably should  know that the
+representati on will result in a violation of these Rules
+or of law;
+-27-
+(2) the lawyer’s physical or mental cond ition materially
+impairs the lawyer’s ability to represent the client;
+(3) the lawyer is d ischarged ; or
+(4) the lawyer knows or reasonably should  know  that the
+client is bringing the legal action,  cond ucting the
+defense,  or asserting a position in the matter,  or is
+otherwise having steps taken,  merely for the purpose
+of harassing or maliciously injuring any person.
+(c) Except as stated  in paragraph (d), a lawyer may withdraw from
+representing a client when:
+(1) withd rawal can be accomplishe d without material
+adverse effect on the interests of the client;
+(2) the client persists in a course of action involving the
+lawyer’s services that the lawyer reasonably believes
+is criminal or fraud ulent;
+(3) the client has used  the lawyer’s services to perpetra te
+a crime or fraud ;
+(4) the client insists upon taking action with  which the
+lawyer has a fund amental d isagreement;
+(5) the client deliberately disregard s an agreement or
+obligation to the lawyer as to expenses or fees;
+(6) the client insists upon presenting a claim or defense
+that is not warranted  und er existing law and cannot
+be supported  by good  faith argument for an extension,
+mod ification,  or reversal of existing law;
+(7) the client fails to cooperate in the representation or
+otherwise rend ers the representation unreasonably
+difficult for the lawyer to carry out employm ent
+effectively;
+(8) the lawy er’s inability to work with co-counsel
+indicates that the best interest of the client likely will
+be served  by withd rawal;
+-28-
+(9) the lawyer’s mental or physical cond ition renders it
+difficult for the lawyer to carry out the representation
+effectively;
+(10) the client knowingly and freely assents to termination
+of the employment;
+(11) withd rawal is permitted  und er Rule 1.13(c) or other
+law;
+(12) the lawyer believes in good faith,  in a matter pend ing
+before a tribunal,  that the tribunal will find  the
+existence of other good  cause for withd rawal; or
+(13) the client  insists that the lawyer pursue a course of
+cond uct which is illegal or prohibited  und er these
+Rules.
+(d) If permission for withd rawal from  employment is required  by the rules
+of a tribunal,  a lawyer shall not withd raw from employment in a matter before that
+tribunal without its permission.   When ordered  to do so by a tribunal,  a lawyer shall
+continue representation notwithstand ing good  cause for terminating the
+representation.
+(e) Even when withd rawal is otherwise permitted  or required , upon
+termination of representation,  a lawyer shall take steps,  to the extent reasonably
+practicable,  to avoid  foreseeable prejud ice to the rights of the client,  includ ing giving
+reasonable notice to the client, allowing time for employment of other counsel,
+delivering to the client  all papers and property to which the client is entitled ,
+promptly refund ing any part of a fee paid  in advance that has not been earned  and
+complying with applicable laws and  rules.
+RULE 1.17.
+Sale of Law P ract ice
+(a)A lawyer retiring from a private practice of law; a law firm, one or more
+members of which are retiring from the private practice of law with the firm; or the
+personal representative of a deceased , disabled  or missing lawyer,  may sell a law
+practice,  includ ing good will,  to one or more lawyers or law firms,  who may
+purchase the practice.  The seller and the buyer may agree on reasonable
+restrictions on the seller’s private practice of law, notwithstand ing any other
+provision of these Rules.  Retirement shall includ e the cess ation of the private
+-29-
+practice of law in the geographic area,  that is, the county and city and any county or
+city contiguous thereto,  in which the practice to be sold  has been cond ucted .
+(b) Confid ential information.
+(1) With respect to each matter subject to the
+contemplated  sale,  the seller may provid e prospective
+buyers with any information not protected  as
+confid ential information und er Rule 1. 6.
+(2) Notwithstand ing Rule 1.6, the seller may provid e the
+prospective buyer with information as to individual
+clients:
+(i) concerning the identity of the client,  except
+as provid ed in paragraph (b)(6);
+(ii) concerning the status and general nature of
+the matter;
+(iii) available in public court files; and
+(iv) concerning the financial terms of the client-
+lawyer relationship and the payment status
+of the client’s account.
+(3) Prior to making any disclosure of confid ential
+information that may be permitted  und er paragraph
+(b)(2),  the seller  shall provid e the prospective buyer
+with information regard ing the matters involved  in
+the proposed  sale sufficient to enable the prospective
+buyer to determine whether any conflicts of interes t
+exist. Where sufficient information cannot be
+disclosed without revealing client confidential
+information,  the seller may make the disclosures
+necessary for the prospective buyer to determine
+whether any conflict of interest exists, subject to
+paragr aph (b)(6).  If the prospective buyer determines
+that conflicts of interest exist prior to reviewing the
+information,  or determines during the course of
+review that a conflict of interest exists, the
+prospective buyer shall not review or continue to
+review the informatio n unless the seller shall have
+-30-
+obtained  the consent of the client in accord ance with
+Rule 1. 6(a)(1).
+(4) Prospective buyers shall maintain the confid entiality
+of and shall not use any client information received  in
+connection with the proposed  sale in the same
+manner and to the same extent as if the prospective
+buyers represented  the client.
+(5) Absent the consent of the client after full disclosure,  a
+seller shall not provid e a prospec tive buyer with
+information if doing so wou ld cause a violation of the
+attorney-client privilege.
+(6) If the seller has reason to believe that the identity of
+the client or the fact of the representation itself
+constitutes confidential information in the
+circumstances,  the seller may not provid e such
+information to a prospective buyer without first
+advising the client of the identity of the prospective
+buyer and obtaining the client’s consent to the
+proposed  disclosure.
+(c) Written notice of the sale shall be given jointly by the seller and the
+buyer to each of the seller’s clients and  shall includ e information regard ing:
+(1) the client’s right to retain other counsel or to take
+possession of the file;
+(2) the fact that the client’s consent to the transfer of the
+client’s file or matter to the buyer will be presu med if
+the client does not take any action or otherwise  object
+within 90 days of the send ing of the notice,  subject to
+any court rule or statute  requiring express approval
+by the client or a court;
+(3) the fact that agreements between the seller and the
+seller’s clients as to fees will be honored  by the buyer;
+(4) proposed  fee increases,  if any,  permitte d under
+paragraph (e); and
+(5) the identity and background  of the buyer or buyers,
+includ ing principal office address,  bar admissions,
+-31-
+number of years in practice in New  York State,
+whether the buyer has ever been disciplined  for
+professional miscond uct or convicted  of a crime,  and
+whether the buyer currently intend s to resell the
+practice.
+(d) When the buyer’s representation  of a client of the seller would  give rise
+to a waivable conflict of interest,  the buyer shall not undertake such representation
+unless the necessary waiver or waivers have been obtained  in writing.
+(e) The fee charged  a client by the buyer shall not be increased  by reason of
+the sale,  unless permitted  by a retainer agreem ent with the client or otherwise
+specifically agreed  to by the client.
+RULE 1.18.
+Duties to Prospect ive Clien ts
+(a)Except as provid ed in Rule l.18(e),  a person who consults with a lawyer
+about the possibility of forming a client-lawyer relationship with respect to a matter
+is a prospective client.
+(b) Even when no client-lawyer relationship ensues,  a lawyer who has
+learned  info rmation from a prospective client shall not use or reveal that
+information,  except as Rule 1.9 would  permit with respect to information of a
+former client.
+(c) A lawyer subject to paragraph (b) shall not represent a client with
+interests materially adverse to those of a prospective client  in the same or a
+substantially related  matter if the lawyer received  information from the prospective
+client that could  be significantly harmful to that pers on in the matter,  except as
+provid ed in paragraph (d). If a lawyer is disqualified  from representation under this
+paragraph,  no lawyer in a firm with which that lawyer is associated  may knowingly
+und ertake or continue representation in such a matter,  except as provid ed in
+paragraph (d ).
+(d) When the lawyer has received  disqualifying information as defined  in
+paragraph (c),  representation is permissible if:
+(1) both the affected  client and the prospective client
+have given informed  consent,  confirmed  in writing; or
+(2) the lawyer who received  the information took
+reasonable measures to avoid  exposure to more
+-32-
+disqualifying information than was reasonably
+necessary to determine whether to represent the
+prospective client; and
+(i) the firm acts promptly and reasona bly to
+notify, as appropriate, lawyers and
+non lawyer personnel within the firm that
+the personally disqualified lawyer is
+prohibited from participating in the
+representation of the current client;
+(ii) the firm implements effective screening
+procedures to prevent the flow of
+information about the matter between the
+disqualified  lawyer and the others in the
+firm;
+(iii) the disqualified  lawyer is appor tioned  no
+part of the fee therefrom; and
+(iv) written notice is promptly given to the
+prospective client; and
+(3) a reasonable lawyer would  conclude that the law firm
+will be able to provid e competent and diligent
+representation in the matter.
+(e) A person is not a prospective client within the meaning of paragraph (a)
+if the person:
+(1) commun icates information unilaterally to a lawyer,
+without any reasonable expectation that the lawyer is
+willing to discuss the possibility of forming a client-
+lawyer relationship; or
+(2) commun icates with a lawyer for the purpose of
+disqualifying the lawyer from handling a materially
+advers e representation on the same or a substantially
+related  matter.
+-33-
+RULE 2.1.
+Advisor
+In repres enting a client,  a lawyer shall exercise independ ent professional
+judgment and rend er candid advice.  In rend ering advice,  a lawyer may refer not
+only to law but to other consid erations such as moral,  economic,  social,
+psychological,  and  political factors that may be relevant to the client’s situation.
+RULE 2.2.
+[Reserved]
+RULE 2.3.
+Evalu ation for Use by Third P erson s
+(a)A lawyer may provide an evaluation of a matter affecting a client for the
+use of someone other than the client if the lawyer reasonably believes that making
+the evaluation is compatible with other aspects of the lawyer’s relationship with the
+client.
+(b) When the lawyer knows or reasonably should  know that the evaluation
+is likely to affect the client’s interests materially and adversely,  the lawyer shall not
+provid e the evaluation unless the client gives informed  consent.
+(c) Unless disclosure is authoriz ed in connection with a report of an
+evaluation,  information relating to the evaluation is protected  by Rule 1. 6.
+RULE 2.4.
+Lawyer Servin g as Third-P arty Neu tral
+(a)A lawyer serves as a “third-party neutral” when the lawyer assists two
+or more persons who are not clients of the lawyer to reach a resolution of a dispute
+or other matter that has arisen  between them.  Service as a third -party neutral may
+includ e service as an arbitrator,  a med iator or in such other capacity as will enable
+the lawyer to assist the parties to resolve the matter.
+(b) A lawyer serving as a third -party neutral shall inform unrepresented
+parties that the lawyer is not representing them.  When the lawyer knows or
+-34-
+reason ably should know that a party does not und erstand  the lawyer’s role in the
+matter,  the lawyer shall explain the difference between the lawyer’s role as a third -
+party neutral and  a lawyer’s role as one who represents a client.
+-35-
+RULE 3.1.
+Non -Merit oriou s Claims an d Con tentions
+(a)A lawyer shall not bring or defend  a proceed ing, or assert or controvert
+an issue therein,  unless there is a basis in law and fact for doing so that is not
+frivolous.  A lawyer for the defend ant in a criminal proceed ing or for the respond ent
+in a proceed ing that could  result in incarceration may nevertheless so defend  the
+proceed ing as to require that every element of the case be established .
+(b) A lawyer’s cond uct is “frivolous” for purposes of this Rule if:
+(1) the lawyer knowingly advances a claim  or defense
+that is unwar ranted  und er existing law,  except that
+the lawyer may advance such claim or defense if it can
+be supported  by good  faith argument for an exten sion,
+mod ification,  or reversal of existing law;
+(2) the conduct has no reasonable purpose other than to
+delay or prolong the resolut ion of litigation,  in
+violation of Rule 3.2, or serve s merely to harass or
+maliciously injure another; or
+(3) the lawyer knowi ngly asserts material factual
+statements that are false.
+RULE 3.2.
+Delay of Lit igat ion
+In representing a client,  a lawyer shall not use means that have no
+substantial purpose other than  to delay or prolong the proceed ing or to cause
+need less expense.
+RULE 3.3.
+Conduct Before a Tribu nal
+(a)A lawyer shall not knowingly:
+(1) make a false statement of fact or law to a tribunal or
+fail to correct a false statement of mat erial fact or law
+previously mad e to the tribunal by the lawyer;
+-36-
+(2) fail to disclose to the tribunal controlling legal
+authority known to the lawyer to be directly adverse
+to the position of the client and not disclosed  by
+opposing counsel; or
+(3) offer or use evid ence that the lawyer knows to be
+false.  If a lawyer,  the lawyer’s client, or a witness
+called  by the lawyer has offered  material evid ence and
+the lawyer comes to know of its falsity,  the lawyer
+shall take reasonable remed ial measures,  includ ing, if
+necessary,  disclosure to the tribunal.  A lawyer may
+refuse to offer evidence, other than the testimony of a
+defend ant in a criminal matt er, that the lawyer
+reasonably believes is false.
+(b) A lawyer who represents a client before a tribunal and who knows that
+a person intend s to engage,  is engagin g or has engaged  in criminal or fraud ulent
+cond uct related  to the proceed ing shall take reasonable remed ial measures,
+includ ing, if necessary,  disclosure to the tribunal.
+(c) The duties stated  in paragraphs (a) and (b) apply even if compliance
+requires d isclosure of information otherwise protected  by Rule 1. 6.
+(d) In an ex parte proceed ing, a lawyer shall inform the tribunal of all
+material facts known to the lawyer that will enable the tribunal to make an
+informed  decision,  whether or not the facts are ad verse.
+(e) In presenting a matter to a tribunal,  a lawyer shall disclose,  unless
+privileged  or irrelevant,  the identities of the clients the lawyer represents and of the
+persons who employed  the lawyer.
+(f) In appearing as a lawyer before a tribunal,  a lawyer shall not:
+(1) fail to comply with known local customs of courtesy
+or practice of the bar or a particular tribunal without
+giving to opposing counsel timely notice of the intent
+not to comply;
+(2) engage in und ignified  or d iscourteous cond uct;
+(3) intentionally or habit ually violate any established  rule
+of proced ure or of evid ence; or
+(4) engage in cond uct intend ed to d isrupt the tribunal.
+-37-
+RULE 3.4.
+Fairn ess t o Opposin g Party an d Cou nsel
+A lawyer shall not:
+(a)(1) suppress any evid ence that the lawyer or the 
+client has a legal obligation to reveal or prod uce;
+(2) advise or cause a person to hide or leave the
+jurisd iction of a tribunal for the purpose of making the
+person unavailable as a witness therein;
+(3) conceal or knowingly fail to disclose that which the
+lawyer is required  by law to reveal;
+(4) knowingly use perjured  testimony or false evid ence;
+(5) participate in the creation or preservation of evid ence
+when the lawyer know s or it is obvious that the
+evid ence is false; or
+(6) knowingly engage in other illegal conduct or cond uct
+contrary to these  Rules;
+(b) offer an inducement to a witness that is prohibited  by law or pay,  offer
+to pay or acquiesce in the payment of compensation to a witness contingent upon
+the content of the witness’s testimony or the outcome of the matter.  A lawyer may
+advance,  guarantee or acquiesce in the payment of:
+(1) reasonable compensation to a witnes s for the loss of
+time in attending, testifying,  preparing to testify or
+otherwise assisting counsel,  and reasonable related
+expenses; or
+(2) a reasonable fee for the professional services of an
+expert witness and  reasonable related  expenses;
+(c) disregard  or advise the client to disregard  a stand ing rule of a tribun al
+or a ruling of a tribunal mad e in the course of a proceed ing, but the lawyer may take
+appropriate steps in good  faith to test the valid ity of such rule or ruling;
+(d) in appearing before a tribunal on behalf of a client:
+-38-
+(1) state or allud e to any matter that the lawyer does not
+reasonably believe is relevant or that will not be
+supported  by ad missible evid ence;
+(2) assert persona l knowled ge of facts in issue except
+when testifying as a witness;
+(3) assert a personal opinion  as to the justness of a cause,
+the cred ibility of a witness,  the culpability of a civil
+litigant or the guilt or innocence of an accused  but the
+lawyer may argue,  upon analysis of the evidence,  for
+any position or conclusion with respect to the matters
+stated  herein; or
+(4) ask any question that the lawyer has no reasonable
+basis to believe is relevant to the case and that is
+intend ed to d egrad e a witness or other person; or
+(e) present, participate in presenting,  or threaten to present criminal
+charges solely to obtain an ad vantage in a civil matter.
+RULE 3.5.
+Main taining an d Preservin g the Impart ialit y of Tribu nals an d Jurors
+(a)A lawyer shall not:
+(1) seek to or cause another person to influence a judge,
+official or employee of a tribunal by means prohibited
+by law or give or lend  anything of value to such judge,
+official,  or employee of a tribunal when the recipient
+is prohibited  from accepting  the gift or loan but a
+lawyer may make a contribution to the campa ign fund
+of a cand idate for judicial office  in conformity with
+Part 100 of the Rules of the Chie f Administrator of the
+Courts;
+(2) in an advers arial proceed ing communicate or cause
+another person to do so on the lawye r’s behalf, as to
+the merits of the matter with a judge or official of a
+tribunal or an employee thereof before whom the
+matter is pend ing, except:
+-39-
+(i) in the course of official proceed ings in the
+matter;
+(ii) in writing,  if the lawyer promptly deliver s a
+copy of the writing to counsel for other
+parties and to a party who is not
+represented  by a lawyer;
+(iii) orally,  upon adequate notice to counsel for
+the other parties and to any party who is
+not represented  by a lawyer; or
+(iv) as otherwise authoriz ed by law,  or by Part
+100 of the Rules of the Chief  Administrator
+of the Courts;
+(3) seek to or cause another person to influence a juror or
+prospective juror by means prohibited  by law;
+(4) communicate or cause another to communicate with a
+member of the jury venire from which the jury will be
+selected  for the trial of a case or, during the trial of a
+case,  with any member of the jury unless authoriz ed
+to do so by law or court ord er;
+(5) communicate with a juror or prospect ive juror after
+discharge of the jury if:
+(i) the com munication is prohibited  by law or
+court ord er;
+(ii) the juror has mad e known to the lawyer a
+desire not to communicate;
+(iii) the communication involves
+misrepresentation,  coercion, duress or
+harassment; or
+(iv) the commun ication is an attempt to
+influence the juror’s actions in future jury
+service; or
+-40-
+(6) cond uct a vexatious or harassing investigation of
+either a member of the venire or a juror or, by
+financial support or otherwise,  cause another to d o so.
+(b) During the trial of a case a lawyer who is not connected  therewith shall
+not communicate with or cause another to communicate with a juror concerning the
+case.
+(c) All restrictions imposed  by this Rule also apply to communications with
+or investigations of members of a family of a member of the venire or a juror.
+(d) A lawyer shall reveal promptly to the court improper cond uct by a
+member of the venire or a juror, or by another toward  a member of the venire or a
+juror or a member of his or her family of which the lawyer has knowled ge.
+RULE 3.6.
+Trial P ublicit y
+(a)A lawyer who is participating in or has participated  in a criminal or civil
+matter shall not make an extrajud icial statement that the lawyer knows or
+reasonably should  know will be disseminated  by means of public communication
+and will have a substantial likelihood  of materially prejud icing an adjudicative
+proceed ing in the matter.
+(b) A statement ordinarily is likely to prejud ice materially an adjudicati ve
+proceed ing when it refers to a civil matter triable to a jury,  a crimi nal matter or any
+other proceed ing that could  result in incarceration,  and  the statement relates to:
+(1) the character,  cred ibility,  reputation or criminal
+record  of a party,  suspect in a criminal investigation
+or witness,  or the identity of a witness or the expected
+testimony of a party or witness;
+(2) in a crimin al matter that could  result in incarceration,
+the possibility of a plea of guilty to the offense or the
+existence or contents of any confession,  admission or
+statement given by a defend ant or suspect,  or that
+person’s refusal or failure to make a statement;
+(3) the performance or results of any examinati on or test,
+or the refusal or failure of a person to submit to an
+examination or test,  or the identity or nature of
+physical evid ence expected  to be presented ;
+-41-
+(4) any opinion as to the guilt or innocence of a defend ant
+or suspect in a criminal matter that could  result in
+incarceration;
+(5) information the lawyer knows or reasonably should
+know is likely to be inad missible as evidence in a trial
+and would , if disclosed , create a substantial risk of
+prejud icing an impartial trial; or
+(6) the fact that a defend ant has been charged  with a
+crime, unless there is includ ed therein a statement
+explaining that the charge is merely an accusation and
+that the defend ant is presumed  innocent until and
+unless proven guilty.
+(c) Provid ed that the statement  complies with paragraph (a), a lawyer may
+state the following without elaboration:
+(1) the claim,  offense or defense and, except when
+prohibited by law,  the identity of the persons
+involved ;
+(2) information contained  in a public record ;
+(3) that an investigation of a matter is in progress;
+(4) the sched uling or result of any step in litigation;
+(5) a request for assistan ce in obtaining evid ence and
+information necessary thereto;
+(6) a warning of danger concerning the behavior of a
+pers on involved , when there is reason to believe that
+there exists the likelihood  of substantial harm to an
+individual or to the public interest; and
+(7) in a criminal matter:
+(i) the identity,  age,  resid ence,  occupation  and
+family status of the accused ;
+(ii) if the accused  has not been apprehend ed,
+information necessary to aid in
+apprehension of that person;
+-42-
+(iii) the identity of investigati ng and arresting
+officers or agenci es and the length of the
+investigation; and
+(iv) the fact,  time and place of arrest , resistance,
+pursuit and use of weapons, and a
+description of physical evid ence seiz ed,
+other than as contained only in a
+confession,  admission or statement.
+(d) Notwithstanding paragraph (a), a lawyer may make a statement that a
+reasonable lawyer would  believe is required  to protect a client from the substantial
+prejud icial effect of recent publicity not initiated  by the lawyer or the lawyer’s
+client. A statement mad e pursuant to this paragraph shall be limited  to such
+information as is necessary to mitigate the recent ad verse publicity.
+(e) No lawyer associated  in a firm or government agency with a lawyer
+subject to paragraph (a) shall make a statement prohibited  by paragraph (a).
+RULE 3.7.
+Lawyer As Wit ness
+(a)A lawyer shall not act as advocate before a tribunal in a matter in which
+the lawyer is likely to be a witness on a significant issue of fact unless:
+(1) the testimony relates solely to an uncontested  issue;
+(2) the testimony relates solely to the nature and value of
+legal services rend ered  in the matter;
+(3) disqualification of the lawyer would  work substantial
+hard ship on the client;
+(4) the testimony will relate solely to a matter of
+formality,  and there is no reason to believe that
+substantial evidence will be offered  in opposition to
+the testimony; or
+(5) the testimony is authoriz ed by the tribunal.
+(b) A lawyer may not act as ad vocate before a tribunal in a matter if:
+-43-
+(1) another lawyer in the lawyer’s firm is likely to be
+called  as a witne ss on a significant issue other than on
+behalf of the client,  and it is apparent that the
+testimony may be prejud icial to the client; or
+(2) the lawyer is preclud ed from doing so by Rule 1.7 or
+Rule 1. 9.
+RULE 3.8.
+Special Respon sibilit ies of P rosecu tors an d Ot her G overn men t Lawyers
+(a)A prosecutor or other government lawyer shall not institute,  cause to be
+instituted  or maintain a criminal charge when the prosecutor or other government
+lawyer knows or it is obvious that the charge is not supported  by probable cause.
+(b) A prosecutor or other government lawyer in criminal litigation shall
+make timely disclosure to counsel for the defend ant or to a defend ant who has no
+counsel of the existence of evid ence or information known to the prosecutor or
+other government lawyer that tend s to negate the guilt of the accused , mitigate the
+degree of the offense,  or reduce the sentence,  except when relieved  of this
+responsibility by a protective ord er of a tribunal.
+(c) When a prosecutor knows of new,  cred ible and material evid ence
+creating a reasonable likelihood  that a convicted  defend ant did not commit an
+offense of which the defend ant was convi cted , the prosecutor shall within a
+reasonable time:
+(1) disclose that evid ence to an appropriate court or
+prosecutor's office; or 
+(2) if the conviction was obtained  by that prosecutor's
+office,  
+(A) notify the appr opriate court and the defend ant
+that the prosecutor's office possesses such
+evid ence  unless a court authoriz es delay for
+good  cause shown;
+(B) disclose that evid ence to the defend ant unless
+the disclosure would  interfere with an ongoing
+investigation or endanger the safe ty of a witness
+or other person,  and a court authoriz es delay for
+good  cause shown; and
+-44-
+(C) und ertake or make reasonable efforts to cause to
+be undertaken such further inquiry or
+investigation as may be necessary to provid e a
+reasonable belief that the conviction should  or
+should  not be set asid e.
+(d) When a prosecutor knows of clear and convincing evid ence establishing
+that a defend ant was convicted , in a prosecution by the prosecutor's office,  of an
+offense that the defend ant did not commit,  the prosecutor shall seek a remedy
+consistent with justice,  applicable law,  and  the circumstances of the case.
+(e) A prosecutor's independ ent judgment,  mad e in good faith,  that the new
+evid ence is not of such nature as to trigger the obligations of sections (c) and (d),
+though subsequently determined  to have been erroneous,  does not constitute a
+violation of this rule.
+RULE 3.9.
+Advocat e In Non -Adju dicat ive Mat ters
+A lawyer communicating in a representative capacity with a legislative body
+or administrative agency in connection with a pend ing non-ad judicative matter or
+proceed ing shall disclose that the appearanc e is in a representative capacity,  except
+when the lawyer seeks information from an agency that is available to the public.
+-45-
+RULE 4.1.
+Truthfulness In  Statemen ts To Ot hers
+In the course of representing a client,  a lawyer shall not knowingly make a
+false statement of fact or law to a third  person.
+RULE 4.2.
+Commu nication Wit h Person  Represen ted By Cou nsel
+(a)In representing a client,  a lawyer shall not communicate or cause
+another to communicate about the subject of the representation with a party the
+lawyer knows to be represented  by another lawyer in the matter,  unless the lawyer
+has the prior consent of the other lawyer or is authoriz ed to d o so by law.
+(b) Notwithstand ing the prohibitions of paragraph (a), and unless
+otherwise prohibited  by law,  a lawyer may cause a client to communicate with a
+represented person unless the represented  person is not legally competent,  and
+may counsel the client with respect to those communications,  provid ed the lawyer
+gives reasonable advance notice to the represented  person’s counsel that such
+communications will be taking place.
+(c) A lawyer who is acting pro se or is represented  by counsel in a matter is
+subject to paragraph (a), but may communicate with a represented  person,  unless
+otherwise prohibited  by law and unless the represented  person is not legally
+competent,  provid ed the lawyer or the lawyer’s counsel gives reasonable advance
+notice to the represented  person’s counsel that such communications will be taking
+place.
+RULE 4.3.
+Commu nicating Wit h Un represen ted P erson s
+In comm unicating on behalf of a client with a person who is not represented
+by counsel,  a lawyer shall not state or imply that the lawyer is disinterested . When
+the lawyer knows or reasonab ly should  know that the unrepresented  person
+misund erstand s the lawyer’s role in the matter,  the lawyer shall make reasonable
+efforts to corre ct the misund erstand ing.  The lawyer shall not give legal advice to an
+unrepresented  person other than the advice to secure counsel if the lawyer knows
+or reasonably should  know that the interests of such  person are or have a
+reasonable possibility of being in conflict with the interests of the client.
+-46-
+RULE 4.4.
+Respect  for Right s of Third P erson s
+(a)In representing a client,  a lawyer shall not use means that have no
+substantial purpose other  than to embarrass or harm a third  person or use method s
+of obtaining evid ence that violate the legal rights of such a person.
+(b) A lawyer who receives  a document,  electronically stored  information,
+or other writing relating to the representation of the lawyer's client and knows or
+reasonably should  know that it was inadvertently sent shall promptly notify the
+send er.
+RULE 4.5.
+Commu nication After In ciden ts Involvin g Person al In jury or Wron gful Deat h
+(a)In the event of a specific incid ent involving potential claims for personal
+injury or wrongful death,  no unsolicite d communication shall be mad e to an
+individual injured  in the incid ent or to a family member  or legal representative of
+such an individual, by a lawyer or law firm,  or by any associate,  agent,  employee or
+other represent ative of a lawyer or law firm representing actual or potential
+defend ants or entities that may defend  and/or indemnify said  defend ants,  before
+the 30th day after the date of the incid ent, unless a filing must be mad e within 30
+days of the incid ent as a legal prerequisite to the particular claim,  in which case no
+unsolicited  communication shall be made before the 15th day after the date of the
+incid ent.
+(b) An unsolicited  communicat ion by a lawyer or law firm,  seeking to
+represent an injured  individual or the legal representative thereof und er the
+circumstance d escribed  in paragraph (a) shall comply with Rule 7. 3(e).
+-47-
+RULE 5.1.
+Respon sibilit ies of Law Firms, P artners, Man agers an d Su pervisory Lawyers
+(a)A law firm shall make reasonable efforts to ensure that all lawyers in
+the firm conform to these Rules.
+(b) (1) A lawyer with management responsibility in a law
+firm shall make reasonable efforts to ensure that
+other lawyers in the law firm conform to these Rules.
+(2) A lawyer with direct super visory authority over
+another lawyer shall make reasonable efforts to
+ensure that the supervised  lawyer conforms to these
+Rules.
+(c) A law firm shall ensure that the work of partners and associates is
+adequately supervised , as appropriate.  A lawyer with  direct supervisory authority
+over another lawyer shall adequately supervise the work of the other lawyer,  as
+appropri ate. In either case,  the degree of supervision required  is that which is
+reasonable und er the circumstances,  taking into account  factors such as the
+experience of the person whose work is being supervised , the amount of work
+involved  in a particular matter,  and the likelihood  that ethical problems might arise
+in the course of working on the matter.
+(d) A lawyer shall be responsible for a violation of these Rule s by another
+lawyer if:
+(1) the lawyer orders or directs the specific cond uct or,
+with knowled ge of the specific cond uct, ratifies it; or
+(2) the lawyer is a partner in a law firm or is a lawyer
+who individually or together with other lawyers
+possess es comparable managerial responsibility in a
+law firm in which the other lawyer practices or is a
+lawyer who has supervisory authority over the other
+lawyer; and
+(i) knows of such cond uct at a time when it
+could  be prevented  or its consequences
+avoid ed or mitigated  but fails to take
+reasonable remed ial action; or
+-48-
+(ii) in the exercise of reasonable management
+or supervisory authority should have
+known of the cond uct so that reasonable
+remed ial action could  have been taken at a
+time when the conse quences of the cond uct
+could  have been avoid ed or mitigated .
+RULE 5.2.
+Respon sibilit ies of a Su bordin ate Lawyer
+(a)A lawyer is bound  by these Rules notwithstand ing that the lawyer acted
+at the d irection of another person.
+(b) A subor dinate lawyer does not violate these Rules if that lawyer acts in
+accord ance with a supervisory lawyer’s reasonable resolution of an arguable
+question of professional d uty.
+RULE 5.3.
+Lawyer’s Respon sibilit y for Con duct of Non lawyers
+(a)A law firm shall ensure that the work of nonlaw yers who work for the
+firm is adequately supervised , as appropriate.  A lawyer with direct supervisory
+authority over a nonlawyer shall adequately supervise  the work of the nonlawyer,
+as appropri ate. In either case,  the degree of supervision required  is that which is
+reasonable und er the circum stances, taking into account factors such as the
+experience of the person whose work is being supervised , the amount of work
+involved  in a particular matter and the likelihood  that ethical problems might arise
+in the course of working on the matter.
+(b) A lawyer shall be responsible for cond uct of a nonlawyer employed  or
+retained  by or associated  with the lawyer that would  be a violation of these Rules if
+engaged  in by a lawyer,  if:
+(1) the lawyer orders or directs the specific cond uct or,
+with knowled ge of the specific cond uct, ratifies it; or
+(2) the lawyer is a partner in a law firm or is a lawyer
+who individually or together with other lawyers
+possesses comparable manageria l responsibility in a
+law firm in which the nonlawyer is employed  or is a
+-49-
+lawyer who has supervisory authority  over the
+nonlawyer; and
+(i) knows of such cond uct at a time when it
+could be prevented  or its consequences
+avoi ded or mitigated  but fails to take
+reasonable remed ial action; or
+(ii) in the exercise of reasonable management
+or supervisory authority should have
+known of the cond uct so that reasonable
+remed ial action could  have been taken at a
+time when the consequences of the cond uct
+could  have been avoid ed or mitigated .
+RULE 5.4.
+Profession al In depen dence of a Lawyer
+(a)A lawyer or law firm shall not share legal fees with a nonlawyer,  except
+that:
+(1) an agreement by a lawyer with the lawye r’s firm or
+another lawyer associated  in the firm may provid e for
+the payment of money,  over a reasonable period  of
+time after the lawyer’s death,  to the lawyer’s estate or
+to one or more specified  persons;
+(2) a lawyer who und ertakes to complete unfinished  legal
+business of a deceased  lawyer may pay to the estate of
+the deceas ed lawyer that portion of the total
+compensation that fairly represent s the services
+rend ered  by the d eceased  lawyer; and
+(3) a lawyer or law firm may compensate a nonlawyer
+employee or includ e a nonlawyer employee in a
+retirement plan based  in whole or in part on a profit-
+sharing arrangement.
+(b) A lawyer shall not form a partnership with a nonlawyer if any of the
+activities of the partnership consist of the practice of law.
+(c) Unless authoriz ed by law,  a lawyer shall not permit a person who
+recommend s, employs or pays the lawyer to rend er legal service for another to
+-50-
+direct or regulate the lawyer’s professional judgment in rendering such legal
+services or to cause the lawyer to compromise the lawyer’s duty to maintain the
+confid ential information of the client und er Rule 1. 6.
+(d) A lawyer shall not practice with or in the form of an entity authoriz ed to
+practice law for profit,  if:
+(1) a nonlawyer owns any interest  therein,  except that a
+fiduciary representative of the estate of a lawyer may
+hold  the stock or interest of the lawyer for a
+reasonable time d uring ad ministration;
+(2) a nonlawyer is a member,  corporate director or officer
+thereof or occupies a position of similar responsibility
+in any form of association other than a corporation; or
+(3) a nonlawyer has the right to direct or control the
+professional jud gment of a lawyer.
+RULE 5.5.
+Unauthorized P ract ice of Law
+(a)A lawyer shall not practice law in a jurisd iction in violation of the
+regulation of the legal profession in that jurisd iction.
+(b) A lawyer shall not aid  a nonlawyer in the unauthoriz ed practice of law.
+RULE 5.6.
+Rest rictions On  Right  To P ract ice
+(a)A lawyer shall not participate in offering or making:
+(1) a partnership,  sharehold er, operating,  employment,  or
+other similar type of agreement that restricts the right
+of a lawyer to practice after termination of the
+relationship,  except an agreement concerning benefits
+upon retirement; or
+(2) an agreement in which a restriction on a lawyer’s
+right to practice is part of the settlement of a client
+controversy.
+-51-
+(b) This Rule does not prohibit restrictions that may be includ ed in the
+terms of the sale of a law practice pursuant to Rule 1. 17.
+RULE 5.7.
+Respon sibilit ies Regardin g Non legal Services
+(a)With respect to lawyers or law firms provid ing nonlegal services to
+clients or other persons:
+(1) A lawyer or law firm that provid es nonlegal services
+to a person that are not distinct from legal services
+being provid ed to that person by the lawyer or law
+firm is subject to these Rules with respect to the
+provision of both legal and  nonlegal services.
+(2) A lawyer or law firm that provid es nonlegal services
+to a person that are distinct from legal services being
+provi ded to that person by the lawyer or law firm is
+subject to these Rules with respect to the nonlegal
+services if the person receiving the services could
+reasonab ly believe that the nonlegal services are the
+subject of a client-lawyer relationship.
+(3) A lawyer or law firm that is an owner,  controlling
+party or agent of, or that is otherwise affiliated  with,
+an entity that  the lawyer or law firm knows to be
+provid ing nonlegal services to a person is subject to
+these Rules with respect to the nonlegal services if the
+person receiving the services could  reason ably
+believe that the nonlegal services are the subject of a
+client-lawyer relationship.
+(4) For purposes of paragraphs (a)(2) and (a)(3),  it will
+be presumed  that the person receiving nonlegal
+services believes the services to be the subject of a
+client-lawyer relationship unless the lawyer or law
+firm has advised  the pers on receiving the services in
+writi ng that the services are not legal services and
+that the protection of a client-lawyer relatio nship
+does not exist with respect to the nonlegal services,  or
+if the interest of the lawy er or law firm in the entity
+provid ing nonlegal services is d e minimis.
+-52-
+(b) Notwithstand ing the provisions of paragraph (a), a lawyer or law firm
+that is an owner,  controlling party,  agent,  or is otherwise affiliated  with an entity
+that the lawyer or law firm knows is providing nonlegal services to a person shall
+not permit any nonlawyer provid ing such services or affiliated  with that entity to
+direct or regulate the professional judgment of the lawyer or law firm in rend ering
+legal services to any person,  or to cause the lawyer or law firm to compromise its
+duty und er Rule 1.6(a) and (c) with respect to the confid ential info rmation of a
+client receiving legal services.
+(c) For purposes of this Rule,  “nonlegal services” shal l mean those services
+that lawyers may lawfully provid e and that are not prohibited  as an unauthoriz ed
+practice of law when provid ed by a nonlawyer.
+RULE 5.8.
+Contract ual Relat ionship Bet ween  Lawyers an d Non legal P rofession als
+(a)The practice of law has an essential trad ition  of complete independ ence
+and uncompromised  loyalty to those it serves.   Recogniz ing this trad ition,  clients of
+lawyers practicing in New York State are guaranteed  “ind epend ent prof essional
+judgment and und ivided loyalty uncompromised  by conflicts of interest. ”  Indeed,
+these guarantees repre sent the very found ation of the profession and allow and
+foster its continued  role as a protector of the system of law.  Therefore,  a lawyer
+must remain completely  responsible for his or her own independ ent professional
+judgment,  maintain the confid ences and secrets of clients,  preserve fund s of clients
+and third  parties in his or her control,  and otherwise comply with the legal and
+ethical principles governing lawyers in New York State.
+Multi-d isciplinary practice between lawyers and nonlawyers is
+incompatible with the core values of the legal profession and therefore,  a strict
+division between services provid ed by lawyers and those provid ed by nonlawyers is
+essential to protect those values.   However,  a lawye r or law firm may enter into and
+maintain a contractual relationship with a nonlegal professional or nonlegal
+professional service firm for the purpose of offering to the public,  on a systematic
+and continuing basis,  legal services performed  by the lawyer or law firm as well as
+other nonlegal professional services,  notwithstand ing the provisions of Rule 1.7(a),
+provid ed that:
+(1) the profession of the nonlegal professional or nonlegal
+professional service firm is includ ed in a list jointly
+established  and maintained  by the Appellate Divisions
+pursu ant to Section 1205. 3 of the Joint Appellate
+Division Rules;
+-53-
+(2) the lawyer or law firm neither grants to the nonlegal
+professional or nonlegal professional service firm,  nor
+permits such person or firm to obtain,  hold  or
+exercise,  directly or indirectly,  any ownership  or
+investment interest in, or managerial or supervisory
+right,  power or position in connection with the
+practice of law by the lawyer or law firm,  nor,  as
+provided in Rule 7.2(a)(1),  shares legal fees with a
+nonlawyer or receives or gives any monetary or other
+tangible benefit for giving or receiving a referral; and
+(3) the fact that the contractual relationship exists is
+disclosed  by the lawyer or law firm to any client of the
+lawyer or law firm before the client is referred  to the
+nonlegal professional service firm,  or to any client of
+the nonlegal professional service firm before that
+client receives legal services from the lawyer or law
+firm; and the client has given informed  written
+consent and has been provid ed with a copy of the
+“Statement of Client ’s Rights In Cooperative Business
+Arrangements” pursuant to secti on 1205. 4 of the Joint
+Appellate Divisions Rules.
+(b) For purposes of paragraph (a):
+(1) each profession on the list maintained  pursuant to a
+Joint Rule of the Appellate Divisions shall have been
+designated  sua sponte,  or approved  by the Appellate
+Divisions upon application of a member of a nonlegal
+profession or nonlegal prof essional service firm,  upon
+a determination that the profession is composed  of
+individuals who,  with respect to their profession:
+(i) have been award ed a bachelo r’s degree or
+its equivalent from  an accred ited  college or
+univer sity, or have attained  an equivalent
+combination of educational cred it from
+such a college or university and work
+experience;
+(ii) are licensed  to practice the profession by
+an agency of the State of New York or the
+United  States Government; and
+-54-
+(iii) are required  und er penalty of suspension
+or revocation of license to adhere to a code
+of ethical cond uct that is reasonably
+comparable to that of the legal profession;
+(2) the term “ownership or investment interest” shall
+mean any such interest in any form of debt or equity,
+and shall inclu de any interest commonly consid ered
+to be an interest accruing to or enjoyed  by an owner
+or investor.
+(c) This Rule shall not apply to relationships consisting solely of non-
+exclusive reciprocal referral agreements or und erstand ings between a lawyer or
+law firm and  a nonlegal professional or nonlegal professional service firm.
+-55-
+RULE 6.1.
+Voluntary P ro Bon o Service
+Lawyers are strongly encouraged  to provid e pro bono legal services to
+benefit poor persons.
+(a)Every lawyer should  aspire to:
+(1) provid e at least 50 hours of pro bono legal services
+each year to poor persons; and
+(2) contribut e financially to organiz ations that provid e
+legal service s to poor persons.   Lawyers in private
+practice or employed  by a for-profit entity should
+aspire to contribute annually in an amount at least
+equivalent to (i) the amount typically billed  by the
+lawyer (or the firm with  which the lawyer is
+associated ) for one hour of time; or (ii) if the lawyer’s
+work is performed  on a contingency basis,  the amount
+typically billed  by lawyers in the community for one
+hour of time; or (iii) the amount typically paid  by the
+organiz ation employ ing the lawyer for one hour of the
+lawyer’s time; or (iv) if the lawyer is und eremployed ,
+an amount not to exceed  one-tenth of one percent of
+the lawyer’s income.
+(b) Pro bono legal services that meet this goal are:
+(1) professional services rend ered  in civil matters,  and in
+those criminal matters for which the government is
+not obliged  to provid e fund s for legal representation,
+to persons who are financially unable to compensate
+counsel;
+(2) activities related  to improving the administrati on of
+justice by simplifying the legal process for, or
+increasing the availability and quality of legal services
+to, poor persons; and
+(3) professional services to charitable,  religious , civic and
+educational organizations in matters designed
+pred ominantly to ad dress the need s of poor persons.
+-56-
+(c) Appropriate organiz ations for financial contributions are: 
+(1) organiz ations primarily engaged  in the provision  of
+legal services to the poor; and
+(2) organiz ations substantially engaged  in the provision
+of legal services to the poor,  provid ed that the
+donated  fund s are to be used  for the provisio n of such
+legal services.
+(d) This Rule is not intended to be enforced  through the disciplinary
+process,  and the failure to fulfill the aspirational goals contained  herein should  be
+without legal consequence.
+RULE 6.2.
+[Reserved]
+RULE 6.3.
+Membership in  a Legal Services Organ ization
+A lawyer may serve as a director,  officer or member of a not-for-profit legal
+services organiz ation, apart from the law firm in which the lawyer practices,
+notwithstand ing that the organiz ation serves persons having interests that differ
+from those of a client of the lawyer or the lawyer’s firm.  The lawyer shall not
+knowingly participate in a d ecision or action of the organiz ation:
+(a)if participating in the decision or action would  be incompatible
+with the lawyer’s obligations to a client und er Rules 1.7 through
+1.13; or
+(b) where the decision or action could have a material adverse effect
+on the representation of a client of the organiz ation whose
+interests differ from those of a client of the lawyer or the
+lawyer’s firm.
+RULE 6.4.
+Law Reform Act ivities Affect ing Clien t Interest s
+A lawyer may serve as a director,  officer or member of an organiz ation
+involved  in reform of the law or its administration,  notwithstand ing that the reform
+-57-
+may affect the interests of a clien t of the lawyer.   When the lawyer knows that the
+interests of a client may be materially benefitted  by a decision in which the lawyer
+actively  participates,  the lawyer shall disclose that fact to the organiz ation,  but need
+not identify  the client.  In determining the nature and scope of participation in such
+activ ities, a lawyer should  be mind ful of obligations to clients under other Rules,
+particularly Rule 1. 7.
+RULE 6.5.
+Participat ion in Limit ed P ro Bon o Legal Service P rograms
+(a)A lawyer who,  und er the auspices of a program sponsored  by a court,
+government agency,  bar association or not-for-profit legal services organiz ation,
+provid es short-term limited  legal services to a client without expectation by either
+the lawyer or the client that the lawyer will provid e continuing representation in
+the matter:
+(1) shall comply with Rules 1.7, 1.8 and 1.9, concer ning
+restr ictions on representations where there are or
+may be conflicts of interest as that term is defined  in
+thes e Rules,  only if the lawyer has actual knowled ge at
+the time of commencement of representation that the
+representation of the client involves a conflict of
+interest; and
+(2) shall comply with Rule 1.10 only if the lawyer has
+actual knowled ge at the time of commencement of
+represen tation that another lawyer associated  with
+the lawyer in a law firm is affected  by Rules 1.7, 1.8
+and 1.9.
+(b) Except as provid ed in paragraph (a)(2),  Rule 1.7 and Rule 1.9 are
+inapplicable to a representation governed  by this Rule.
+(c) Short-term limited  legal services are services provid ing lega l advice or
+representation free of charge as part of a program described  in paragraph (a) with
+no expectation that the assistance will continue beyond  what is necessary to
+complete an initial consultation,  representation or court appearance.
+(d) The lawyer provid ing short-term limited legal services must secure the
+client’s informed  consent to the limited  scope of the represe ntation, and such
+representation shall be subject to the provisions of Rule 1. 6.
+-58-
+(e) This Rule shall not apply where the court before which the matter is
+pend ing determines that a conflic t of interest exists or, if during the course of the
+representation,  the lawyer provid ing the services becomes aware of the existence of
+a conflict of interest preclud ing continued  representation.
+-59-
+RULE 7.1.
+Advert ising
+(a)A lawyer or law firm shall not use or disseminate or participate in the
+use or d issemination of any ad vertisement that:
+(1) contains statements or claims  that are false,  deceptive
+or mislead ing; or
+(2) violates a Rule.
+(b) Subject to the provisions of paragraph (a), an advertisement may
+includ e information as to:
+(1) legal and nonlegal education,  degrees and other
+scholastic distin ctions,  dates of admission to any bar;
+areas of the law in which the lawyer or law firm
+practices,  as authoriz ed by these Rules; public offices
+and teaching positions  held; publications of law
+related  matters authored  by the lawyer; memberships
+in bar associations or other  professional societies or
+organizations, including offices and committee
+assign ments therein; foreign language fluency; and
+bona fid e professional ratings;
+(2) names of clients regularly represented , provid ed that
+the client has given prior written consent;
+(3) bank references; cred it arrangements accepted ;
+prepaid or group legal services programs in which the
+lawyer or law firm participates; nonlegal services
+provid ed by the lawyer or law firm or by an entity
+owned  and controlled  by the lawyer or law firm; the
+existence of contractual relationships betw een the
+lawyer or law firm and a nonlegal prof essional or
+nonlegal  professional service firm,  to the extent
+permitted  by Rule 5.8, and the nature and extent of
+services available through those contractual
+relationships; and
+(4) legal fees for initial consultation; contingent fee rates
+in civil matters when accompanied  by a statement
+disclosing the information required  by paragraph (p);
+-60-
+range of fees for legal and nonlegal services,  prov ided
+that there be available to the public free of charge a
+written statement clearly describing the scope of each
+advertised  service; hourly rates; and fixed  fees for
+specified  legal and  nonlegal services.
+(c) An ad vertisement shall not:
+(1) includ e a paid  endorsement of, or testimonial about,  a
+lawyer or law firm without disclosing that the person
+is being compensated  therefor;
+(2) includ e the portrayal of a fictitious law firm,  the use of
+a fictitious name to refer to lawyers not associated
+together in a law firm,  or otherwise imply that
+lawyers are associated  in a law firm if that is not the
+case;
+(3) use actors to portray a judge, the lawyer,  members of
+the law firm,  or clients,  or utiliz e depictions of
+fictionaliz ed events or scenes,  without disclosure of
+same; or
+(4) be mad e to resemble legal d ocuments.
+(d) An advertisement that complies with subd ivision (e) of this section may
+contain the following:
+(1) statements that are reasonably likely to create an
+expectation about results the lawyer can achieve;
+(2) statements that compare  the lawyer’s services with
+the services of other lawyers;
+(3) testimonials or endorsements of clients,  and of former
+clients; or
+(4) statements describing or characteriz ing the quality  of
+the lawyer’s or law firm’s services.
+(e) It is permissible to provid e the information set forth in subd ivision(d )
+of this section provid ed:
+-61-
+(1) its dissemination does not violate subd ivision(a)of
+this section;
+(2) it can be factually supported  by the lawyer or law firm
+as of the date on which the ad vertisement is published
+or d isseminated ;
+(3) it is accompanied  by the following disclaimer: “Prior
+results d o not guarantee a similar outcome”; and
+(4) in the case of a testimonial or endorsement from a
+client  with respect to a matter still pend ing, the client
+gives informed  consent confirmed  in writing.
+(f) Every advertisement other than those appearing in a radio, television
+or billboard  advertisement,  in a directory,  new spaper, magaz ine or other period ical
+(and  any web sites related  thereto),  or made in person pursuant to Rule 7.3(a)(1),
+shall be labeled  “Attorney Advertis ing” on the first page,  or on the home page in the
+case of a web site.  If the communication is in the form of a self-m ailing brochure or
+postcard , the word s “Attorney Ad vertising” shall appear therein.  In the case of
+electr onic mail, the subject line shall contain the notation “ATTORNE Y
+ADVE RTISING. ”
+(g) A lawyer or law firm shall not utiliz e meta tags or other hidden
+computer cod es that,  if displayed , would  violate these Rules.
+(h) All advertiseme nts shall includ e the name,  principal law office address
+and telephone number of the lawyer or law firm whose services are being offered .
+(i)Any words or stateme nts required  by this Rule to appear in an
+advertisement must be clearly legible and capable of being read  by the average
+person, if written,  and intelligible if spoken aloud .   In the case of a web site,  the
+required  word s or statements shall appear on the home page.
+(j) A lawyer or law firm advertising any fixed  fee for specified  legal
+services shall,  at the time of fee publication, have available to the public a written
+statement clearly describing the scope of each advertised  service,  which statement
+shall be available to the client at the time of retainer for any such service.  Such legal
+services shall includ e all those services that  are recogniz ed as reasonable and
+neces sary under local custom in the area of practice in the community where the
+services are performed .
+(k) All advertisements shall be pre-approved  by the lawyer or law firm,  and
+a copy shall be retained  for a period  of not less than three years following its initial
+-62-
+dissemination. Any advertisement contained in a computer-accessed
+communication shall be retained  for a period of not less than one year.  A copy of the
+contents of any web site covered  by this Rule shall be prese rved upon the initial
+publication of the web site, any major web site redesign,  or a meaningful and
+extensive content change,  but in no event less frequently than once every 90 d ays.
+(l) If a lawyer or law firm advertises a range of fees or an hourly rate for
+services,  the lawyer or law firm shall not charge more than the fee advertised  for
+such services.  If a lawyer or law firm advertises a fixed  fee for specified  legal
+services,  or performs services describe d in a fee sched ule, the lawyer or law firm
+shall not charge more than the fixed  fee for such stated  legal service as set forth in
+the advertisement or fee sched ule, unless the client agrees in writing that the
+services performed  or to be performed  were not legal services referred  to or
+implied  in the advertisement or in the fee schedule and, further,  that a different fee
+arrangement shall apply to the transaction.
+(m) Unless otherwise specified  in the advertisement,  if a lawyer publishes
+any fee information authoriz ed under this Rule in a publication that is published
+more frequently than once per mon th, the lawyer shall be bound  by any
+representation mad e therein for a period  of not less than 30 days after such
+public ation. If a lawyer publishes any fee information authoriz ed und er this Rule in
+a publication that is published  once per month or less frequently,  the lawyer shall be
+bound  by any represe ntation mad e therein until the publication of the succeed ing
+issue.  If a lawyer publishes any fee information authoriz ed und er this Rule in a
+publication that has no fixed  date for publication of a succeed ing issue,  the lawyer
+shall be bound  by any representation mad e therein for a reasonable period  of time
+after publication,  but in no event less than 90 d ays.
+(n) Unless otherwise specified , if a lawyer broad casts any fee information
+authoriz ed und er this Rule,  the lawyer shall be bound  by any representation mad e
+therein for a period  of not less than 30 d ays after such broad cast.
+(o) A lawyer shall not compensate or give any thing of value to
+representatives of the pres s, radio, television or other communication med ium in
+anticipation of or in return for professional publicity in a news item.
+(p) All advertisements that contain information about the fees charged  by
+the lawyer or law firm,  includ ing those indicating that in the absence of a recovery
+no fee will be charged , shall comply with the provisions of Jud iciary Law §488(3).
+(q) A lawyer may accept employment that results from participation in
+activities designed  to educate the public to recogniz e legal problems,  to make
+intelligent selection of counsel or to utiliz e available legal services.
+-63-
+(r) Without affecting the right to accept employment,  a lawyer may speak
+publicly or write for publication on legal topics so long as the lawyer does not
+und ertake to give ind ividual ad vice.
+RULE 7.2.
+Paymen t for Referrals
+(a)A lawyer shall not compensate or give anything of value to a person or
+organiz ation to recomm end or obtain employment by a client,  or as a reward  for
+having mad e a recommend ation resulting in employment by a client,  except that:
+(1) a lawyer or law firm may refer clients to a nonlegal
+professional or nonlegal professiona l service firm
+pursuant to a contractual relationship with such
+nonlegal professional or non legal professional service
+firm to provid e legal and other professional services
+on a systematic and continuing basis as perm itted by
+Rule 5.8, provid ed however that such referral shall
+not otherwise includ e any monetary or other tangible
+consid eration or reward  for such,  or the sharing of
+legal fees; and
+(2) a lawyer may pay the usual and reasonabl e fees or
+dues charged by a qualified legal assistance
+organiz ation or referral fees to another  lawyer as
+permitted  by Rule 1. 5(g).
+(b) A lawyer or the lawyer’s partner or associate or any other affiliated
+lawyer may be recommend ed, employed  or paid  by, or may cooperate with one of
+the following offices or organiz ations that promote the use of the lawyer’s services
+or those of a partner or associate or any other affiliated lawyer, or request one of
+the following offices or organiz ations to recommen d or promote the use of the
+lawyer’s services or those of the lawyer’s partner or associate,  or any other affiliated
+lawyer as a private practitione r, if there is no interference with the exercise of
+independ ent professional jud gment on behalf of the client:
+(1) a legal aid  office or public d efend er office:
+(i) operated  or sponsored  by a duly accred ited
+law school;
+(ii) operated  or sponsored  by a bona fide, non-
+profit community organiz ation;
+-64-
+(iii) operated  or sponsored  by a governmental
+agency; or
+(iv) operated , sponsored , or approved  by a bar
+association;
+(2) a military legal assistance office;
+(3) a lawyer referral service operated , sponsored  or
+approved  by a bar association or authoriz ed by law or
+court rule; or
+(4) any bona fide organiz ation that recommend s,
+furnishes or pays for legal services to its members or
+beneficia ries provid ed the following cond itions are
+satisfied :
+(i) Neither the lawyer, nor the lawyer’s
+partner,  nor associate,  nor any other
+affiliated  lawyer nor any nonlawyer,  shall
+have initiated or promoted such
+organization for the primary purpose of
+provid ing financial or other benefit to such
+lawyer,  partner,  associate or affiliated
+lawyer;
+(ii) Such organiz ation is not operated  for the
+purpose of procuring legal work or
+financial benefit for any lawyer as a private
+practitioner outside of the legal services
+program of the organiz ation;
+(iii) The member  or beneficiary to whom the
+legal services are furni shed, and not such
+organiz ation,  is recogniz ed as the client of
+the lawyer in the matter;
+(iv) The legal service plan of such organiz ation
+provid es appropriate relief for any member
+or beneficiary who asserts a claim that
+representation by counsel furnished,
+selected  or approv ed by the organiz ation
+for the particular matter  involved  would  be
+unethical,  improper or inad equate und er
+-65-
+the circumstances of the matter involved ;
+and the plan provi des an appropriate
+proced ure for seeking such relief;
+(v) The lawyer does not know or have cause to
+know that such organiz ation is in viola tion
+of applicable laws,  rules of court or other
+legal requirements that govern its legal
+service operations; and
+(vi) Such organiz ation has filed with the
+appropriate disciplinary authority,  to the
+extent required  by such authority,  at least
+annually a report with respect to its legal
+service plan, if any,  showing its terms,  its
+schedule of benefits, its subscription
+charges,  agreements with counsel and
+financial results of its legal service activities
+or, if it has faile d to do so, the lawyer does
+not know or have cause to know of such
+failure.
+RULE 7.3.
+Solicit ation and Recommen dation of P rofession al Employmen t
+(a)A lawyer shall not engage in solicitation:
+(1) by in-person or telephon e contact,  or by real-time or
+interact ive computer-accessed  communication unless
+the recipient is a close friend , relative,  former client or
+existing client; or
+(2) by any form of communication if:
+(i) the communicatio n or contact violates Rule
+4.5, Rule 7.1(a) , or paragraph (e) of this
+Rule;
+(ii) the recipient has mad e known to the lawyer
+a desire not to be solicited  by the lawyer;
+(iii) the solicitation involves coercion,  duress or
+harassment;
+-66-
+(iv) the lawyer knows or reasonably should
+know that the age or the physical,
+emotional  or mental state of the recipient
+makes it unlikely that the recipient will be
+able to exercise reasonable judgment in
+retaining a lawyer; or
+(v) the lawyer intend s or expects , but does not
+disclose,  that the legal services necessary to
+hand le the matter competently will be
+performed  primarily by another lawyer
+who is not affilia ted with the soliciting
+lawyer as a partner,  associate or of counsel.
+(b) For purposes of this Rule,  “solicitation” means any advertisement
+initiated  by or on behalf of a lawyer or law firm that is directed  to, or targeted  at, a
+specific recipient  or group of recipients,  or their family members or legal
+representatives,  the primary purpose of which is the retention of the lawyer or law
+firm,  and a significant motive for which is pecuniary gain.  It does not includ e a
+proposal or other writing prepared  and  delivered  in response to a specific request.
+(c) A solicitation directed  to a recipient in this State shall be subject to the
+following provisions:
+(1) A copy of the solicit ation shall at the time of its
+dissemination be filed  with the attorney disciplinary
+committee of the judicial district or judicial
+department wherein the lawyer or law firm maintains
+its principal office. Where no such office is
+maintained , the filing shall be mad e in the judicial
+department where the solicitation is targ eted. A filing
+shall consist of:
+(i) a copy of the solicitation;
+(ii) a transcript of the audio portion of any
+radio or television solicitation; and
+(iii) if the solicitati on is in a language other than
+English, an accurate English-language
+translation.
+(2) Such solicitation shall contain no reference to the fact
+of filing.
+-67-
+(3) If a solicitation is directed  to a pred etermined
+recipient, a list containing the names and addresses of
+all recipients shall be retained  by the lawye r or law
+firm for a period  of not less than three years following
+the last d ate of its d issemination.
+(4) Solicitations filed  pursuant to this subdivision shall be
+open to public inspection.
+(5) The provisions of this paragraph shall not apply to:
+(i) a solicitation directed  or disseminated  to a
+close friend , relative,  or former or existing
+client;
+(ii) a web site maintained  by the lawyer or law
+firm,  unless the web site is designed  for and
+directed  to or targeted  at persons affected
+by an identifiable actual event or
+occurrence or by an identifiable
+prospective d efend ant; or
+(iii) professional cards or other announcements
+the distribution of which is authorized by
+Rule 7. 5(a).
+(d) A writte n solicitation shall not be sent by a method  that requires the
+recipient to travel to a location other than that at which the recipient ordinarily
+receives business or personal mail or that requi res a signature on the part of the
+recipient.
+(e) No solicitation relating to a specific incid ent involving potential claims
+for personal injury or wrongful death shall be dissemin ated before the 30th day
+after the date of the incid ent, unless a filing must be mad e within 30 days of the
+incid ent as a legal prerequisite to the particular claim,  in which case no unsolicited
+communication shall be mad e before the 15th d ay after the d ate of the incid ent.
+(f) Any solicitation mad e in writing or by computer-accessed
+communication and directed  to a pre-d etermined  recipient,  if prompted  by a
+specific occurrence involving or affecting a recipient,  shall disclose how the lawyer
+obtain ed the identity of the recipient and learned  of the recipient’s potential legal
+need .
+-68-
+(g) If a retainer agreement is provid ed with  any solicitation,  the top of each
+page shall be marked  “SAMPLE” in red ink in a type size equal to the largest type
+size used  in the agreement and the word s “DO NOT SIGN” shall  appear on the client
+signature line.
+(h) Any solicitation covered  by this section shall includ e the name,
+principal law office address and telephone  number of the lawyer or law firm whose
+services are being offered .
+(i)The provisions  of this Rule shall apply to a lawyer or members of a law
+firm not admitted  to practice in this State who shall solicit retention by resid ents of
+this State.
+RULE 7.4.
+Iden tificat ion of Pract ice an d Specialt y
+(a)A lawyer or law firm may publicly identify one or more areas of law in
+which the lawyer or the law firm practices,  or may state that the practice of the
+lawyer or law firm is limited  to one or more areas of law,  provid ed that the lawyer
+or law firm shall not state that the lawyer or law firm is a specia list or specializ es in
+a particular field  of law,  except as provid ed in Rule 7. 4(c).
+(b) A lawyer admitted  to engage in patent practice before the United  States
+Patent and Trad emark Office may use the designation “Patent Attorney” or a
+substantially similar d esignation.
+(c) A lawyer may state that the lawyer has been recogniz ed or certified  as a
+specialist only as follows:
+(1) A lawyer who is certified as a specialist in a particular
+area of law or law practice by a private organiz ation
+approved  for that purpose by the American Bar
+Association may state the fact of certification if, in
+conjunction therewith,  the certifying organiz ation is
+identified  and the following statement is prominently
+made: “The [name of the private certifying
+organiz ation] is not affiliated  with any governmental
+authority. ”
+(2) A lawyer who is certified  as a specialist in a particular
+area of law or law practi ce by the authority having
+jurisd iction over specializ ation und er the laws of
+another state or territory may state the fact of
+-69-
+certification if, in conjunction therewith,  the certifying
+state or terr itory is identified  and the following
+statement is prominently mad e: “Certification  granted
+by the [identify state or territory] is not recogniz ed by
+any governmental authority within the State of New
+York. ”
+(3) A statement is prominently mad e if:
+(i) when written, it is clearly legible and
+capable of being read  by the average
+person,  and is in a font size at least two  font
+sizes larger than the largest text used to
+state the fact of certification; and
+(ii) when spoken aloud , it is intellig ible to the
+average person,  and is at a cadence no
+faster,  and a level of audibility no lower,
+than the cadence and level of audibility
+used  to state the fact of certification.
+RULE 7.5.
+Profession al Not ices, Let terheads an d Sign s
+(a)A lawyer or law firm may use internet web sites,  professional card s,
+professional announcement card s, office signs,  letterhead s or simil ar professional
+notices or devices,  provid ed the same do not violate any statute or court rule and
+are in accord ance with Rule 7. 1, includ ing the following:
+(1) a professional card  of a lawyer identifying the lawyer
+by name and as a lawyer,  and giving addresses,
+telep hone numbers,  the name of the law firm,  and any
+information permit ted und er Rule 7.1(b) or Rule 7.4.
+A professional card  of a law firm may also give the
+names of members and  associates;
+(2) a profession al announcement card stating new or
+changed  associations or addresses,  change of firm
+name, or similar matters pertaining to the
+professional offices of a lawyer or law firm or any
+nonlegal business cond ucted  by the lawyer or law
+-70-
+firm pursuan t to Rule 5.7. It may state biographical
+data, the names of members of the firm and
+associates,  and the names and dates of pred ecessor
+firms in a continuing line of succession.  It may state
+the nature of the legal practice if permitted  und er
+Rule 7. 4;
+(3) a sign in or near the office and in the build ing
+directory identifying the law office and any nonlegal
+business cond ucted  by the lawyer or law firm
+pursuant to Rule 5.7. The sign may state the nature of
+the legal practice if permitted  und er Rule 7. 4; or
+(4) a letterhead  identifying the lawyer by name and as a
+lawyer,  and giving addresses,  telephone numbers,  the
+name of the law firm,  associates and any informatio n
+permitted  und er Rule 7.1(b) or Rule 7.4. A letterhead
+of a law firm may also give the names of members and
+associates,  and names and dates relati ng to deceased
+and retired  members.  A lawyer or law firm may be
+designated  “Of Counsel” on a letterhead  if there is a
+continuing relationship with a lawyer or law firm,
+other than as a partner or associate.  A lawyer or law
+firm may be designated  as “General Counsel” or by
+similar professional  reference on stationery of a client
+if the lawyer or the firm devotes a substanti al amount
+of professional time in the representa tion of that
+client.  The letterhead  of a law firm may give the
+names and dates of pred ecessor firms in a continuing
+line of succession.
+(b) A lawyer in private practice shall not practice und er a trad e name,  a
+name that is mislead ing as to the identity of the lawyer or lawyer s practicing und er
+such name,  or a firm name containing names  other than those of one or more of the
+lawyers in the firm,  except that the name of a professional corporati on shall contain
+“PC” or such symbols permitted  by law,  the name of a limited  liability company or
+partnership shall contain “LLC, ” “LLP” or such symbols permitted  by law and, if
+otherwise lawful,  a firm may use as, or continue  to include in its name the name or
+names of one or more deceased  or retired  members of the firm or of a pred ecessor
+firm in a continuing line of succession.  Such terms as “legal clinic, ” “legal aid,” “legal
+service office, ” “legal assistance office, ” “defend er office” and the like may be used
+only by qualified  legal assistance organizations,  except that the term “legal clinic”
+may be used  by any lawyer or law firm prov ided the name of a participating lawyer
+or firm is incorporated  therein.  A lawyer or law firm may not includ e the name of a
+-71-
+nonlawyer in its firm name, nor may a lawyer or law firm that has a contractual
+relationship with a nonlegal professional or nonlegal professi onal service firm
+pursuant to Rule 5.8 to provid e legal and other professional services on a systematic
+and continuing basis includ e in its firm name the name of the nonlegal professional
+servi ce firm or any individual nonlegal professional affiliated  therewith.  A lawyer
+who assumes a judicial,  legislative or public executive or administrative post or
+office shall not permit the lawyer’s name to remain in the name of a law firm or to
+be used  in professional notic es of the firm during any significant period  in which the
+lawyer is not actively and regularly practicing law as a membe r of the firm and,
+during such period , other members of the firm shall not use the lawyer’s name in
+the firm name or in professional notices of the firm.
+(c) Lawyers shall not hold  themselves out as having a partnership with one
+or more other lawyers unless they are in fact partners.
+(d) A partnership shall not be formed  or continued  betw een or among
+lawyers licensed  in different jurisd ictions unless all enumerations of the members
+and associates of the firm on its letterhead and in other permissible listings make
+clear the jurisd ictional  limitations on those members and associates of the firm not
+licensed  to practice in all listed  jurisd ictions; however , the same firm name may be
+used  in each jurisd iction.
+(e) A lawyer or law firm may utiliz e a domain name for an internet web site
+that d oes not includ e the name of the lawyer or law firm provid ed:
+(1) all pages of the web site clearly and conspicuously
+includ e the actual name of the lawyer or law firm;
+(2) the lawyer or law firm in no way attempts to engage
+in the practice of law using the d omain name;
+(3) the domain name does not imply an ability to obtain
+results in a matter; and
+(4) the domain name does not otherwise violate these
+Rules.
+(f) A lawyer or law firm may utiliz e a telephone number which conta ins a
+domain name,  nickname,  moniker or motto that does not otherwise violate these
+Rules.
+-72-
+RULE 8.1.
+Candor in  the Bar Admission  Process
+(a)A lawyer shall be subject to discipline if, in connection with the lawyer’s
+own application for admission to the bar previously filed  in this state or in any other
+jurisd iction, or in connection with the application of another person for admission
+to the bar,  the lawyer knowingly:
+(1) has mad e or failed  to correct a false statement of
+material fact; or
+(2) has failed  to disclose a material fact requested  in
+connection with a lawfu l demand  for information
+from an ad missions authority.
+RULE 8.2.
+Judicial Officers an d Can didat es
+(a)A lawyer shall not knowingly make a false statement of fact concerning
+the qualifications,  cond uct or integrity of a judge or other adjudicatory officer or of a
+cand idate for election or appointment to jud icial office.
+(b) A lawyer who is a candidate for judicial office shall comply with the
+applicable  provisions of Part 100 of the Rules of the Chief Administrator of the
+Courts.
+RULE 8.3.
+Report ing Profession al Miscon duct
+(a)A lawyer who knows that another lawyer has committed  a violation of
+the Rules of Professional Conduct that raises a substantial question as to that
+lawyer ’s honesty,  trustworthiness or fitness as a lawyer shall report such
+knowled ge to a tribunal or other authority empowered  to investigate or act upon
+such violation.
+(b) A lawyer who possesses knowl edge or evid ence concerning another
+lawyer or a judge shall not fail to respond  to a lawful demand  for information from a
+tribunal or other authority empowered  to investigate or act upon such cond uct.
+(c) This Rule d oes not require d isclosure of:
+-73-
+(1) information otherwise protected  by Rule 1. 6; or
+(2) information gained by a lawyer or judge while
+participating in a bona fide lawyer assistance
+program.
+RULE 8.4.
+Miscon duct
+A lawyer or law firm shall not:
+(a)violate or attempt to violate the Rules of Professional Cond uct,
+knowingly assist or induce another to do so, or do so through the
+acts of another;
+(b) engage in illegal cond uct that adversely reflects on the lawyer’s
+honesty,  trustworthiness or fitness as a lawyer;
+(c) engage in cond uct involving dishonesty,  fraud , deceit or
+misrepresentation;
+(d) engage in conduct that is prejud icial to the administration of
+justice;
+(e) state or imply an ability:
+(1) to influence improperly or upon irrelevant ground s
+any tribunal,  legislative bod y or public official; or
+(2) to achieve results using means that violate these Rules
+or other law;
+(f) knowingly assist a judge or judicial officer in conduct that is a
+violation of applicable rules of jud icial cond uct or other law;
+(g) unlawfully discriminate in the practi ce of law,  includ ing in
+hiring,  promoting or otherwise determining cond itions of
+employment on the basis of age,  race,  creed , color,  national
+origin,  sex, disability,  marital status or sexual orientation.  
+Where there is a tribunal with jurisd iction to hear a complaint,  if
+timely brought, other than a Departme ntal Disciplinary
+Committee,  a complaint based  on unlawful discrimination shall
+be brought before such tribunal in the first instance .  A certified
+-74-
+copy of a determination by such a tribunal,  which has become
+final and enforceable and as to which the right to judicial or
+appellate review has been exhausted , find ing that the lawyer has
+engaged  in an unlawful discriminatory practice shall constitute
+prima facie evid ence of profession al miscond uct in a disciplinary
+proceed ing; or
+(h) engage in any other cond uct that adversely reflects on the
+lawyer’s fitness as a lawyer.
+RULE 8.5.
+Disciplin ary Au thority an d Choice of Law
+(a)A lawyer admitted  to practice in this state is subject to the discipl inary
+authority of this state,  regard less of where the lawyer’s cond uct occurs.  A lawyer
+may be subject to the disciplinary authority of both this state and another
+jurisd iction where the lawyer is ad mitted  for the same cond uct.
+(b) In any exercise of the disciplinary authority of this state,  the rules of
+professional cond uct to be applied  shall be as follows:
+(1) For conduct in connection with a proceed ing in a
+court befo re which a lawyer has been admitted  to
+practice (either generally or for purposes of that
+proceed ing),  the rules to be applied  shall be the rules
+of the jurisd iction in which the court sits,  unless the
+rules of the court provid e otherwise; and
+(2) For any other cond uct:
+(i) If the lawyer is licensed  to practice only in
+this state,  the rules to be applied  shall be
+the rules of this state,  and
+(ii) If the lawyer is licensed  to practice in this
+state and another jurisd iction,  the rules to
+be applied  shall be the rules of the
+admitting jurisd iction in which the lawy er
+principally practices; provid ed, however,
+that if particular conduct clearly has its
+pred ominant effect in another jurisd iction
+in which the lawyer is licensed  to practice,
+-75-
+the rules of that jurisd iction shall be
+applied  to that cond uct.
+-76-
