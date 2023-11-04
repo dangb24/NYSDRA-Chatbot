@@ -34,8 +34,6 @@ DB_FAISS_PATH = "vectorstores/db_faiss"
 
 custom_prompt_template = """Use the following pieces of information to answer the user's question.
 If you don't know the answer, please just say that you don't know the answer, don't try to make up an answer.
-Be empathetic, sympathetic, and kind in your responses.
-
 
 Context: {chat_history} 
 {context}
@@ -79,7 +77,7 @@ def retrievalQAChain(llm, prompt, db):
     qa_chain = ConversationalRetrievalChain.from_llm(
         llm=llm, 
         chain_type="stuff", 
-        retriever= db.as_retriever(search_kwargs={"k": 1}), 
+        retriever= db.as_retriever(search_kwargs={"k": 1,'fetch_k': 5}), 
         combine_docs_chain_kwargs={"prompt": prompt}, 
         return_source_documents = True, 
         verbose=True,

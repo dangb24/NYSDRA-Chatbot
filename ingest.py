@@ -139,7 +139,7 @@ def createVectorDB():
 
     #doc = Document(page_content="text", metadata={"source": "url"})
 
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 50)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size = 1000, chunk_overlap = 50)
     texts = text_splitter.split_documents(documents)
     embeddings = HuggingFaceEmbeddings(model_name = 'sentence-transformers/all-MiniLM-L6-v2', model_kwargs={"device": DEVICE})
 
