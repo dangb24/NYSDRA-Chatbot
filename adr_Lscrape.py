@@ -16,8 +16,11 @@ import os
 
 import json
 
+import urllib.request
 from urllib.request import urlopen
 import html2text
+import requests
+
 
 import PyPDF2
 import torch
@@ -93,7 +96,7 @@ def main():
     
     #only going total depth of 2 pages right now
     i = 0
-    while i < 3:  #switch this to 3 when you figure out why the docs aren't processing
+    while i < 3:  #generally keep this at 3 for pdfs
         subs = []
         if not bool(list):
             break
@@ -228,35 +231,59 @@ def main():
     u_in = input("do you want to read the urls too?  Please enter y/n.  (if you're running this on 3 then that's big and takes a lot of time)")
     
     if u_in == 'y':
+         
         headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
         }
         browser = mechanicalsoup.StatefulBrowser()     
-            
+          
+        halvsies = (len(urlList)/2) 
+        f_half= []
+        i = 0
+        while i < halvsies:
+            # f_half.append(urlList[0])
+            # urlList.erase(0)
+            f_half.append(urlList.pop())
+            i+=1
+             
+        print("num in first half: " + str(len(f_half)))
+        print("second: " + str(len(urlList)))
         
-        loaders=UnstructuredURLLoader(urls=urlList, headers=headers)
-        documents=loaders.load()
         
-        for doc in documents:
-            filename = "file" + str(file_index) + ".txt"
-            print(filename)
+        cont = 1
+        count = 1
+        while cont == 1 and count <= 2:
+            loaders=UnstructuredURLLoader(urls=f_half, headers=headers)
+            documents=loaders.load()
             
-            file = open("txt_files/"+filename, "w")
-            
-            # page = urlopen(doc)
-            # html_content = page.read()
-            # dc_content = html_content.decode('utf-8')
-            # rendered_content = html2text.html2text(html_content)
-            # doc.page_content = doc.page_content.replace("\n", "")
-            
-            file.write(doc.page_content)
-            
-            file.close()
+            for doc in documents:
+                filename = "file" + str(file_index) + ".txt"
+                print(filename)
+                
+                file = open("web_files/"+filename, "w")
+                
+                # page = urlopen(doc)
+                # html_content = page.read()
+                # dc_content = html_content.decode('utf-8')
+                # rendered_content = html2text.html2text(html_content)
+                # doc.page_content = doc.page_content.replace("\n", "")
+                
+                file.write(doc.page_content)
+                
+                file.close()
 
-            txt_list.append(filename) 
+                txt_list.append(filename) 
+                
+                
+                file_index += 1
             
+            count +=1 
+            cont = int(input("please input 1 if you want to process the next half of the url pages and 0 if you don't"))  
+            print(cont)
+            if cont == 1:
+                f_half = urlList  
             
-            file_index += 1
+        
             
     
     
