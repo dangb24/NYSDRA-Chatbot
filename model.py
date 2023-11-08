@@ -10,6 +10,9 @@ from typing import Dict, Any
 import chainlit as cl
 import torch
 
+from flask import Flask, render_template, request, jsonify
+from flask_cors import CORS
+
 # LLMChain: This chain uses a Language Model for generating responses to queries or prompts. 
 # It can be used for various tasks such as chatbots, summarization, and more
 
@@ -134,10 +137,23 @@ async def main(message):
 
 #This is how to run with chainlit: chainlit run model.py -w
 
+app = Flask(__name__)
+app.static_folder = "static"
+CORS(app)
+
+@app.route("/")
+def home():
+    return render_template("index.html")
+
+@app.route("/get")
+def get_bot_response():
+    prompt = request.args.get("msg")
+    answer = finalResult(prompt)
+    data = {
+        "answer" : answer["answer"],
+        "source" : answer["source_documents"][0].metadata["source"]
+    }
+    return jsonify(data)
+
 if __name__ == "__main__":
-    while True:
-        prompt = input("Please enter your question (or 'q' to quit): ")
-        if prompt.lower() == "q":
-            break
-        print()
-        print(finalResult(prompt), end="\n\n")
+    app.run(debug=True)
