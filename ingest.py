@@ -129,8 +129,12 @@ def createVectorDB():
     documents=loaders.load()
     documents += pdfDocumentList
 
-    loaders2 = CSVLoader(file_path= "./Conversation.csv", encoding="utf-8", csv_args={
+    loaders2 = CSVLoader(file_path= "data/Conversation.csv", encoding="utf-8", csv_args={
                 'delimiter': ','})
+    documents2 = loaders2.load()
+    documents += documents2
+
+    loaders2 = TextLoader(file_path= "data/QA.txt", encoding="utf-8")
     documents2 = loaders2.load()
     documents += documents2
 
