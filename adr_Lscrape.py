@@ -139,26 +139,6 @@ def main():
             print("found pdf: " + link)
             
             response = requests.get(link)
-            # with open("temp.pdf", "wb") as f:
-            #     f.write(response.content)
-
-            # pdf_file = open("temp.pdf", "rb")
-            # print(pdf_file.read())
-            # if EOF_MARKER in pdf_file:
-            #     #  pdf_file = pdf_file + EOF_MARKER
-            #     reader = PyPDF2.PdfReader(pdf_file)
-            #     text = ""
-                
-            #     # pdf_file = open("temp.pdf", "rb")
-            #     # reader = PyPDF2.PdfReader(pdf_file)
-            #     # text = ""
-            #     for num in range(len(reader.pages)):
-            #         page = reader.pages[num]
-            #         text += page.extract_text()
-
-            #     pdf_file.close()
-            #     os.remove("temp.pdf")
-            
             
             try:
                 pdf_io_bytes = io.BytesIO(response.content)
@@ -172,36 +152,23 @@ def main():
                     text_list.append(page_text)
                 text = "\n".join(text_list)
                 
-                #change to JSON I don't even know what
                 pdfList.append(text)
-               # pdfList.append(Document(page_content=text.replace("\n", "").replace("\x00", "f"), metadata={"source": link}))
                 print("added pdf")
             
             except:
                 print("bad pdf")
             
             
-           
-            # else:
-            #     print("no EOF")
-            #     pdf_file.close()
-
-           
-            
         else:
          
             urlList.add(link)
             
-            
-    # you're going to need to manage this bc you need to scarpe the data from the link and put it into something but for the pdfs you aleady did that 
-    #so you can just put it in
+
     print("Completed url and pdf splitting")
     print("num pdfs: " + str(len(pdfList)))
     print("num urls: " + str(len(urlList))) 
     
-    #loop to process all pdfs and data from urls (ALSO HOW PROCESS URLS)
-    #can I dump a document into a json file
-    #one way to find out
+
     
     #okay so make the txt files for the pdfs first
     file_index = 1
@@ -224,9 +191,6 @@ def main():
             
             
             file_index += 1
-        
-        
-    #now how do I get the text from the urls into txt files
     
     u_in = input("do you want to read the urls too?  Please enter y/n.  (if you're running this on 3 then that's big and takes a lot of time)")
     
@@ -241,8 +205,6 @@ def main():
         f_half= []
         i = 0
         while i < halvsies:
-            # f_half.append(urlList[0])
-            # urlList.erase(0)
             f_half.append(urlList.pop())
             i+=1
              
@@ -261,13 +223,7 @@ def main():
                 print(filename)
                 
                 file = open("web_files/"+filename, "w")
-                
-                # page = urlopen(doc)
-                # html_content = page.read()
-                # dc_content = html_content.decode('utf-8')
-                # rendered_content = html2text.html2text(html_content)
-                # doc.page_content = doc.page_content.replace("\n", "")
-                
+
                 file.write(doc.page_content)
                 
                 file.close()
@@ -282,72 +238,5 @@ def main():
             print(cont)
             if cont == 1:
                 f_half = urlList  
-            
-        
-            
-    
-    
-        
-    
-    
-  
-        
-    
-   
-    
-    # j = 1
-    # for document in documents:
-    #     print("CLEANING DOCUMENTS i think " + str(j))
-    #     document.page_content = document.page_content.replace("\n", "")
-    #     j+=1
-    
-    #and you can access the page content by document.page_content
-    
-    
-    # i think i want to put it in a txt file then convert it
-    
-    
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-    #and here's the fun part where things usually start to break
-           
-    # headers = {
-    #     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-    # }
-    # browser = mechanicalsoup.StatefulBrowser()     
-        
-    
-    # loaders=UnstructuredURLLoader(urls=urlList, headers=headers)
-    # documents=loaders.load()
-    # print(len(documents))
-    # documents+=pdfList
-    # print(len(documents))
-    # #maybe process these seperately bc this is eatin my memory bro
-    
-    # i = 1
-    # for document in documents:
-    #     print("CLEANING DOCUMENTS i think " + str(i))
-    #     document.page_content = document.page_content.replace("\n", "")
-    #     i+=1
-    
-    # #apparently this takes a decent amt of time too n idk how to fix that
-    # text_splitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 50)
-    # texts = text_splitter.split_documents(documents) 
-    # embeddings = HuggingFaceEmbeddings(model_name = 'sentence-transformers/all-MiniLM-L6-v2', model_kwargs={"device": "cpu"})
-    
-    # db = FAISS.from_documents(texts, embeddings)
-    # db.save_local(DB_FAISS_PATH)
-      
-      
-       
+                  
 main()
