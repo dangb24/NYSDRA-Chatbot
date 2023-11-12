@@ -41,6 +41,7 @@
     <form class="msger-inputarea">
       <input type="text" id="text-input" class="msger-input" id="textInput" placeholder="Enter your message...">
         <button type="submit" class="msger-send-btn">Send</button>
+        <div class="loader"></div>
     </form>
   </section>
   <!-- partial -->
@@ -51,6 +52,7 @@
     const msgerInput = get(".msger-input");
     const msgerChat = get(".msger-chat");
     const msgerSend = get(".msger-send-btn");
+    const loader = get(".loader");
 
 
     // Icons made by Freepik from www.flaticon.com
@@ -66,8 +68,10 @@
       if (!msgText) return;
 
       msgerInput.disabled = true;
-      msgerSend.textContent = "Loading↻";
+      msgerSend.style.display = "none";
       msgerSend.disabled = true;
+      loader.style.display = "block";
+      msgerInput.placeholder = "Loading...";
 
       appendMessageHuman(PERSON_NAME, PERSON_IMG, "right", msgText);
       msgerInput.value = "";
@@ -138,8 +142,10 @@
         const source = data["source"];
         appendMessage(BOT_NAME, BOT_IMG, "left", answer, source);
         msgerInput.disabled = false;
-        msgerSend.textContent = "Loading";
         msgerSend.disabled = false;
+        loader.style.display = "none";
+        msgerSend.style.display = "block";
+        msgerInput.placeholder = "Enter your message...";
       })
       .catch((error) => {
         console.error("Error:", error);
