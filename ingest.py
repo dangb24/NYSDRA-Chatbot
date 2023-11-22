@@ -21,21 +21,24 @@ if torch.cuda.is_available():
 
 DB_FAISS_PATH = "vectorstores/db_faiss"
 
-def getAllLinksInPage(base_url, url, setOfInsideLinks, browser, headers, level):
+def getAllLinksInPage(base_url, url, setOfInsideLinks, setOfWrongLinks, browser, headers, level):
     max_level = 1
     delay = 2
     time.sleep(delay)
     try:
         page = browser.get(url, headers=headers, timeout=5)
         if page == None or page.soup == None:
+            setOfWrongLinks.add(url)
             return
         if page.status_code == 404:
+            setOfWrongLinks.add(url)
             print(f"404 Not Found: {url}")
             setOfInsideLinks.remove(url)
             return
     except Exception as e:
         print(url)
         print(f"{e}")
+        setOfWrongLinks.add(url)
         setOfInsideLinks.remove(url)
         return
     time.sleep(delay)
@@ -54,8 +57,7 @@ def getAllLinksInPage(base_url, url, setOfInsideLinks, browser, headers, level):
         elif href and (base_url + href).rfind("html") == (base_url + href).find("html") and \
         href.rfind("pdf") == -1 and href.rfind("png") == -1 and href.rfind("json") == -1 and href.rfind(":") == -1 and \
         href.rfind(".ico") == -1 and href.rfind(".svg") == -1 and href.rfind(".si") == -1 and href.rfind("?") == -1 and \
-        href.rfind("%20") == -1 and href.rfind("#") == -1 and (base_url + href).rfind(".com") == (base_url + href).find(".com") and \
-        (base_url + href) not in setOfInsideLinks:
+        href.rfind("%20") == -1 and href.rfind("#") == -1 and (base_url + href).rfind(".com") == (base_url + href).find(".com"):
 
             link = ""
 
@@ -66,11 +68,14 @@ def getAllLinksInPage(base_url, url, setOfInsideLinks, browser, headers, level):
             else:
                 link = base_url + href
 
+            if link in setOfWrongLinks or link in setOfInsideLinks:
+                continue
+
             setOfInsideLinks.add(link)
 
             print("URL: ", link)
             if level < max_level:
-                getAllLinksInPage(base_url, link, setOfInsideLinks, browser, headers, level + 1)
+                getAllLinksInPage(base_url, link, setOfInsideLinks, setOfWrongLinks, browser, headers, level + 1)
 
 def listOfCenters(browser, headers):
     delay = 2
@@ -107,8 +112,9 @@ def listOfCenters(browser, headers):
         elif href and "http" in href and href.lower().find("nysdra") == -1 \
         and href.lower().find("youtube") == -1 and href.lower().find("linkedin") == -1 and href.lower().find("map") == -1:
             setOfInsideLinks = set()
+            setOfWrongLinks = set()
             setOfInsideLinks.add(href)
-            getAllLinksInPage(href, href, setOfInsideLinks, browser, headers, 0)
+            getAllLinksInPage(href, href, setOfInsideLinks, setOfWrongLinks, browser, headers, 0)
             listOfCenters = listOfCenters.union(setOfInsideLinks)
             iterations += 1
         
