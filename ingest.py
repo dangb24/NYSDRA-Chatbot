@@ -53,13 +53,11 @@ def getAllLinksInPage(base_url, url, setOfInsideLinks, setOfWrongLinks, browser,
         if page.status_code == 404:
             setOfWrongLinks.add(url)  
             print(f"404 Not Found: {url}")  
-            setOfInsideLinks.remove(url)  
             return  
     except Exception as e:
         print(url) 
         print(f"{e}")  
         setOfWrongLinks.add(url) 
-        setOfInsideLinks.remove(url)  
         return 
 
     time.sleep(delay) 
@@ -96,13 +94,12 @@ def getAllLinksInPage(base_url, url, setOfInsideLinks, setOfWrongLinks, browser,
 
             if link in setOfWrongLinks or link in setOfInsideLinks:
                 continue
-
-            setOfInsideLinks.add(link)
-            print("URL: ", link)
             
             # If the current traversal level is less than the maximum level, continue extracting links recursively
             if level < max_level:
                 getAllLinksInPage(base_url, link, setOfInsideLinks, setOfWrongLinks, browser, headers, level + 1)
+            setOfInsideLinks.add(link)
+            print("URL:", link) 
 
 
 
