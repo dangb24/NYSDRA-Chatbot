@@ -24,4 +24,6 @@ Processes the data from policy_test_data and policy_train_data.  The processed d
   - data from pdfs scrapes from the ADR NYS website
 * web_files
   - data form the websites themselves scraped from the ADR NYS website
+* questions_unformatted
+  - potential questions that could be asked to the chatbot specifically about NYSDRA and the NYSDRA website
 
