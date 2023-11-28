@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>ChatBot</title>
+  <title>NYSDRA ChatBot</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -12,7 +12,6 @@
 </head>
 
 <body>
-  <!-- partial:index.partial.html -->
   <section class="msger">
     <header class="msger-header">
       <div class="msger-header-title">
@@ -44,7 +43,6 @@
         <div class="loader"></div>
     </form>
   </section>
-  <!-- partial -->
   <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
   <script>
 
@@ -55,7 +53,6 @@
     const loader = get(".loader");
 
 
-    // Icons made by Freepik from www.flaticon.com
     const BOT_IMG = "../static/styles/chatbot-pfp.png";
     const PERSON_IMG = "../static/styles/human-pfp.jpeg";
     const BOT_NAME = "ChatBot";
@@ -79,7 +76,6 @@
     });
 
     function appendMessage(name, img, side, answer, source) {
-      //   Simple solution for small apps
       const sourceSection = source ? `<br><div class="msg-text">Source: <a href=${source} target="_blank">${source}</a></div>` : '';
       const msgHTML = `
 <div class="msg ${side}-msg">
@@ -149,12 +145,9 @@
       })
       .catch((error) => {
         console.error("Error:", error);
-        // You can handle specific errors or log more details here
       });
   }
 
-
-    // Utils
     function get(selector, root = document) {
       return root.querySelector(selector);
     }
