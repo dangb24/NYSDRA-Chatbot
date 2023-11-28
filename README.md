@@ -6,14 +6,10 @@ Run ingest.py in a linux terminal in order to first create the vector store loca
 + **Chainlit**: chainlit run model.py -w
 + **Flask**: python3 model.py
 ## Some required installations:
-+ llama-2-7b-chat.ggmlv3.q8_0.bin
++ llama-2-7b-chat.ggmlv3.q8_0.bin (available on huggingface)
 + pypdf
 + langchain
 + torch
-+ accelerate
-+ bitsandbytes
-+ transformers
-+ sentence_transformers
 + faiss_cpu
 + chainlit
 + flask
