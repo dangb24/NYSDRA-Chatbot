@@ -1,0 +1,2 @@
+run conda:
+eval "$(/gpfs/u/home/CHBL/CHBLwlnw/miniconda3/bin/conda shell.bash hook)"
