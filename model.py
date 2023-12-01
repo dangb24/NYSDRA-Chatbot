@@ -149,10 +149,17 @@ def home():
 def get_bot_response():
     prompt = request.args.get("msg")
     answer = finalResult(prompt)
-    data = {
-        "answer" : answer["answer"],
-        "source" : answer["source_documents"][0].metadata["source"]
-    }
+    data = {}
+    if "http" in answer["source_documents"][0].metadata["source"]:
+        data = {
+            "answer" : answer["answer"],
+            "source" : answer["source_documents"][0].metadata["source"]
+        }
+    else:
+        data = {
+            "answer" : answer["answer"],
+            "source" : ""
+        }
     return jsonify(data)
 
 if __name__ == "__main__":
