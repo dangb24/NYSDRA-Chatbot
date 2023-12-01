@@ -188,11 +188,6 @@ def createVectorDB():
     # Combine loaded documents with PDF documents
     documents += pdfDocumentList
 
-    # Load additional data from a CSV file into documents
-    loaders2 = CSVLoader(file_path="data/Conversation.csv", encoding="utf-8", csv_args={'delimiter': ','})
-    documents2 = loaders2.load()
-    documents += documents2
-
     # Load text data from a text file into documents
     loaders3 = TextLoader(file_path="data/QA.txt", encoding="utf-8")
     documents3 = loaders3.load()
