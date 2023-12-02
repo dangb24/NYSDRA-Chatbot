@@ -18,3 +18,4 @@ Run ingest.py in a linux terminal in order to first create the vector store loca
 + Utilize chat history within Conversational Retreival Chain
 + Refactor ingest.py
 + Enable chatbot to give appropriate responses to conversational queries like "Hello"
++ Utilize user location for suggesting resources that are closer to the user
