@@ -6,7 +6,7 @@ import string
 
 def process_words():
     d = enchant.Dict("en_US")
-    directory = 'web_files'
+    directory = 'txt_files'
 
     #need to go through the files in the directory
     file_index = 1
@@ -70,7 +70,7 @@ def process_words():
 
             #write cleaned data to new file
             filename = "file" + str(file_index) + ".txt"
-            to_file = open("cleaned_web_files/"+filename, "w")
+            to_file = open("cleaned_txt_files/"+filename, "w")
 
             to_file.write(clean_text)
             to_file.close()
