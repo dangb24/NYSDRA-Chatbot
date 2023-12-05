@@ -19,12 +19,10 @@ def process_words():
         with open(f) as file:
             text = file.read()
             words = text.split()
-            print(words)
             clean_text = ""
 
             i = 0
             while i < len(words):
-                print(words[i])
                 #stripping punctuation so the word check will work, but saving it to make sure that we don't just get rid of all punctuation
                 no_punc = words[i].translate(str.maketrans('','',string.punctuation))
                 if(len(no_punc) > 0):
@@ -34,9 +32,7 @@ def process_words():
                         if(i < (len(words)-1)):
                             no_punc_next = words[i+1].translate(str.maketrans('','',string.punctuation))
                             if(len(no_punc_next) > 0):
-                                print("TRYING" + " " + no_punc+no_punc_next)
                                 if (d.check((no_punc+no_punc_next))):
-                                    print("YUH")
                                     clean_text += words[i] + words[i+1] + " "
                                     i+=1
 
@@ -45,9 +41,7 @@ def process_words():
                                 if(i > 0):
                                     no_punc_prev = words[i-1].translate(str.maketrans('','',string.punctuation))
                                     if(len(no_punc_prev) > 0):
-                                        print("TRYING" + " " + no_punc_prev+no_punc)
                                         if (d.check((no_punc_prev+no_punc))):
-                                            print("YUH")
                                             del_ind = len(clean_text)-len(words[i-1])
                                             clean_text = clean_text[0:del_ind-1]
                                             clean_text += words[i-1] + words[i] + " "
